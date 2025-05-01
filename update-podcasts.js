@@ -47,7 +47,7 @@ function generateUniqueId(podcast) {
                     id: generateUniqueId({ title: feed.title || 'غير معروف', author: feed.itunes?.author || 'غير معروف' }),
                     title: feed.title || 'غير معروف',
                     author: feed.itunes?.author || 'غير معروف',
-                    cover: optimizeImageUrl(feed.itunes?.image?.['$']?.href || feed.itunes?.image || feed.image?.url || '', 1000, 1000),
+                    cover: optimizeImageUrl(feed.itunes?.image?.['$']?.href || feed.itunes?.image || feed.image?.url || '', 800, 800),
                     description: feed.description || 'لا يوجد وصف',
                     category: feed.itunes?.category?.[0]?.['$']?.text || 'غير معروف',
                     episodes: feed.items.map(item => ({
