@@ -1,0 +1,36 @@
+name: Update Podcasts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  push:
+    paths:
+      - 'subscriptions.opml'
+  workflow_dispatch:
+
+jobs:
+  update-podcasts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install rss-parser xml2js
+
+      - name: Update podcasts
+        run: node update-podcasts.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/podcasts.json
+          git diff --staged --quiet || git commit -m 'Update podcasts.json'
+          git push
