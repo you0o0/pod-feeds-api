@@ -47,7 +47,7 @@ function generateUniqueId(podcast) {
                     id: generateUniqueId({ title: feed.title || 'غير معروف', author: feed.itunes?.author || 'غير معروف' }),
                     title: feed.title || 'غير معروف',
                     author: feed.itunes?.author || 'غير معروف',
-                    cover: optimizeImageUrl(feed.itunes?.image?.['$']?.href || feed.itunes?.image || feed.image?.url || '', 500, 500),
+                    cover: optimizeImageUrl(feed.itunes?.image?.['$']?.href || feed.itunes?.image || feed.image?.url || '', 1000, 1000),
                     description: feed.description || 'لا يوجد وصف',
                     category: feed.itunes?.category?.[0]?.['$']?.text || 'غير معروف',
                     episodes: feed.items.map(item => ({
@@ -55,7 +55,7 @@ function generateUniqueId(podcast) {
                         date: item.pubDate || 'غير معروف',
                         audioUrl: item.enclosure?.url || '',
                         duration: item.itunes?.duration || 'غير معروف',
-                        cover: optimizeImageUrl(item.itunes?.image?.['$']?.href || item.itunes?.image || feed.itunes?.image?.['$']?.href || feed.image?.url || '', 450, 450)
+                        cover: optimizeImageUrl(item.itunes?.image?.['$']?.href || item.itunes?.image || feed.itunes?.image?.['$']?.href || feed.image?.url || '', 400, 400)
                     }))
                 });
             } catch (error) {
