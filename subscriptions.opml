@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<opml version="2.0">
+  <head>
+    <title>AntennaPod Subscriptions</title>
+    <dateCreated>28 Apr 25 10:08:11 +0300</dateCreated>
+  </head>
+  <body>
+    <outline text="#ABtalks" title="#ABtalks" type="rss" xmlUrl="https://feeds.megaphone.fm/ab-podcasts" />
+    <outline text="Droos Podcast - بودكاست دروس" title="Droos Podcast - بودكاست دروس" type="rss" xmlUrl="https://anchor.fm/s/70850d5c/podcast/rss" />
+    <outline text="Nos Nos Podcast | بودكاست نص نص" title="Nos Nos Podcast | بودكاست نص نص" type="rss" xmlUrl="https://anchor.fm/s/f442f1e0/podcast/rss" />
+    <outline text="احمد عامر: السيرة النبوية" title="احمد عامر: السيرة النبوية" type="rss" xmlUrl="https://www.spreaker.com/show/6273175/episodes/feed" />
+    <outline text="السيرة النبوية -احمد عامر" title="السيرة النبوية -احمد عامر" type="rss" xmlUrl="https://anchor.fm/s/b9963fd4/podcast/rss" />
+    <outline text="بدون ورق" title="بدون ورق" type="rss" xmlUrl="https://feeds.simplecast.com/_rXD2gwQ" />
+    <outline text="بهدوء مع كريم اسماعيل" title="بهدوء مع كريم اسماعيل" type="rss" xmlUrl="https://anchor.fm/s/ee193e78/podcast/rss" />
+    <outline text="فنجان مع عبدالرحمن أبومالح" title="فنجان مع عبدالرحمن أبومالح" type="rss" xmlUrl="https://files.hosting.thmanyah.com/podcasts/89/1713955813943-768/rss-feed.rss" />
+    <outline text="قناة الشيخ سمير مصطفي الرسمية" title="قناة الشيخ سمير مصطفي الرسمية" type="rss" xmlUrl="https://anchor.fm/s/ee2c66c4/podcast/rss" />
+    <outline text="كبرني بودكاست" title="كبرني بودكاست" type="rss" xmlUrl="https://feeds.simplecast.com/WR5_SB7R" />
+    <outline text="كنبة السبت" title="كنبة السبت" type="rss" xmlUrl="https://feeds.simplecast.com/2pgGD0og" />
+    <outline text="مشاري العفاسي - Mishary Alafasi |" title="مشاري العفاسي - Mishary Alafasi |" type="rss" xmlUrl="https://www.mp3quran.net/podcast/afs.txt" />
+    <outline text="وعي" title="وعي" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:1073536591/sounds.rss" />
+  </body>
+</opml>
