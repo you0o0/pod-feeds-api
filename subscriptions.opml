@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no' ?>
 <opml version="2.0">
   <head>
-    <title>AntennaPod Subscriptions</title>
+    <title>Pod RSS</title>
     <dateCreated>28 Apr 25 10:08:11 +0300</dateCreated>
   </head>
   <body>
     <outline text="#ABtalks" title="#ABtalks" type="rss" xmlUrl="https://feeds.megaphone.fm/ab-podcasts" />
     <outline text="Droos Podcast - بودكاست دروس" title="Droos Podcast - بودكاست دروس" type="rss" xmlUrl="https://anchor.fm/s/70850d5c/podcast/rss" />
     <outline text="Nos Nos Podcast | بودكاست نص نص" title="Nos Nos Podcast | بودكاست نص نص" type="rss" xmlUrl="https://anchor.fm/s/f442f1e0/podcast/rss" />
+    <outline text="اشتري مني" title="اشتري مني" type="rss" xmlUrl="https://feeds.simplecast.com/3DRO2rfa" />
+    <outline text="بودكاست أبجورة" title="بودكاست أبجورة" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:92059239/sounds.rss" />
+    <outline text="جسدي | Jasadi" title="جسدي | Jasadi" type="rss" xmlUrl="https://feeds.acast.com/public/shows/6441990f425b3100113a6690" />
     <outline text="احمد عامر: السيرة النبوية" title="احمد عامر: السيرة النبوية" type="rss" xmlUrl="https://www.spreaker.com/show/6273175/episodes/feed" />
     <outline text="السيرة النبوية -احمد عامر" title="السيرة النبوية -احمد عامر" type="rss" xmlUrl="https://anchor.fm/s/b9963fd4/podcast/rss" />
     <outline text="بدون ورق" title="بدون ورق" type="rss" xmlUrl="https://feeds.simplecast.com/_rXD2gwQ" />
