@@ -2550,6 +2550,1919 @@
     ]
   },
   {
+    "id": "1917597946",
+    "title": "اشتري مني",
+    "author": "TPP",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_600,h_600,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2Faec9d2ca-1131-472a-bd61-e1f9fe61e851%2F3000x3000%2Fem-20main-20artwork.jpg%3Faid%3Drss_feed",
+    "description": "إحنا ٣ أصحاب بنتكلم من ٣ وجهات نظر مختلفة، قعدتنا مفيهاش استفادة لو مش بتعتبر الانبساط ده استفادة. من إنتاج ذا بوتكاست برودكشنز.",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "بعد شوقة مع النجم أشرف عبدالباقي",
+        "date": "Sun, 30 Mar 2025 20:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/80fee7f8-525e-485f-95c1-5d75c7fc80f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=80fee7f8-525e-485f-95c1-5d75c7fc80f2&feed=3DRO2rfa",
+        "duration": "01:49:10",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdd89471b-5ae6-4065-9647-989244821c17%2Feea5d35f-b5cc-4fa4-92a2-07e2fc220887%2F3000x3000%2Fimg-9111.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "‏المحنكون الخمسة مع هادي بسيوني وإياد صالح",
+        "date": "Wed, 26 Feb 2025 15:08:48 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/c5001555-0e9a-40ef-b17d-22a3a76a4551/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=c5001555-0e9a-40ef-b17d-22a3a76a4551&feed=3DRO2rfa",
+        "duration": "02:02:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F2a2e304b-69bb-4b8e-9f00-88f976af6609%2F423ed5fd-2eb6-4eab-b7c2-87b0109ffb8d%2F3000x3000%2Fwhatsapp-20image-202025-02-26-20at-2017-02-38-68f0b2ba.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "منصوب عليك بالفتحة",
+        "date": "Sat, 22 Feb 2025 11:26:53 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/a3f34471-a709-425f-b2f0-901fc4c6f095/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=a3f34471-a709-425f-b2f0-901fc4c6f095&feed=3DRO2rfa",
+        "duration": "01:26:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F2a2e304b-69bb-4b8e-9f00-88f976af6609%2F5cb10c45-1166-42d5-8ef7-4fed2a3638c3%2F3000x3000%2Fwhatsapp-20image-202025-02-20-20at-2019-52-33-82fd6127.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "كخ يا حبيبي",
+        "date": "Wed, 19 Feb 2025 12:09:24 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/33f765f6-ae5d-452c-aca0-0d671d6cde5f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=33f765f6-ae5d-452c-aca0-0d671d6cde5f&feed=3DRO2rfa",
+        "duration": "00:59:48",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F2a2e304b-69bb-4b8e-9f00-88f976af6609%2Fe7831276-88c1-442b-85be-383b0e1b8fad%2F3000x3000%2Fsquared.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "حاليا بالأسواق مع بودكاست ورا مصنع الأغاني",
+        "date": "Sat, 15 Feb 2025 10:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/983e0f23-a15a-48e1-b482-a6d682cc22dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=983e0f23-a15a-48e1-b482-a6d682cc22dd&feed=3DRO2rfa",
+        "duration": "03:30:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdd89471b-5ae6-4065-9647-989244821c17%2F1b2776ba-40f4-4d37-8b77-4f429bbdf6fb%2F3000x3000%2Fimg-5162.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "رحرحة صُح",
+        "date": "Wed, 12 Feb 2025 10:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/98da09ff-69ff-4e33-81f5-2a1f43ef4e5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=98da09ff-69ff-4e33-81f5-2a1f43ef4e5a&feed=3DRO2rfa",
+        "duration": "01:04:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2F1f44f27c-eac8-4d89-a06a-4aaa9cc17cfe%2F3000x3000%2Fsquare.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "العمدة الآلي",
+        "date": "Sat, 8 Feb 2025 10:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/db1c3d4c-b213-4e43-a64e-943cdc4d71eb/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=db1c3d4c-b213-4e43-a64e-943cdc4d71eb&feed=3DRO2rfa",
+        "duration": "01:24:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2Fcfdccd9a-f552-4b37-a947-05ddddb85372%2F3000x3000%2Fem-20square.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "⁠صدفة وتصادف",
+        "date": "Sat, 1 Feb 2025 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/549887ed-0929-4a4e-b768-ee2d2c654301/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=549887ed-0929-4a4e-b768-ee2d2c654301&feed=3DRO2rfa",
+        "duration": "01:05:13",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2F13e783b2-c121-47f8-a686-0631907b10f0%2F3000x3000%2Fsquare.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "سري للخالد مع مروان سري وعمر خالد",
+        "date": "Sat, 25 Jan 2025 09:32:46 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/7c32e83d-dd90-4a9c-addb-5ec23f1a34d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=7c32e83d-dd90-4a9c-addb-5ec23f1a34d4&feed=3DRO2rfa",
+        "duration": "01:38:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2F0d236d1c-ca61-4dd6-abc7-19c6b9bedb50%2F3000x3000%2Fem-20squared.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "peak منورة",
+        "date": "Sat, 18 Jan 2025 07:40:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8480f457-99b6-47b9-9655-92ba441f6424/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8480f457-99b6-47b9-9655-92ba441f6424&feed=3DRO2rfa",
+        "duration": "01:01:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2Fd5c90494-d42c-4f82-a092-6f1cccd26304%2F3000x3000%2Fsquare.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "بجد إيه الشغل ده؟ مع أحمد عصام",
+        "date": "Sat, 11 Jan 2025 07:45:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8ff6ad0a-121f-4f5f-9349-c820fcab831e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8ff6ad0a-121f-4f5f-9349-c820fcab831e&feed=3DRO2rfa",
+        "duration": "01:48:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2Fbc0ca51b-7ec4-484d-a747-850a8d348031%2F3000x3000%2Fsquare.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "محرض البحث: علاج الـ Moving on",
+        "date": "Sat, 4 Jan 2025 07:45:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/09ce68ee-b860-4760-b1a7-dceaf4ce9c7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=09ce68ee-b860-4760-b1a7-dceaf4ce9c7d&feed=3DRO2rfa",
+        "duration": "01:05:16",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fdbf7768b-dafc-4ae0-82cc-fd4104713608%2Fc573101a-2cd0-4f4c-9d54-4a4f7fb00fb4%2F3000x3000%2Fsquare.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "The Lighthouse x اشتري مني عالبحر مع مصطفى غريب",
+        "date": "Sat, 7 Sep 2024 15:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/918ca9ec-253e-45cf-a5ad-8bc5dcdbe94e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=918ca9ec-253e-45cf-a5ad-8bc5dcdbe94e&feed=3DRO2rfa",
+        "duration": "00:31:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F918ca9ec-253e-45cf-a5ad-8bc5dcdbe94e%2F3000x3000%2Fu7mg9mln87zit9yg5cbc80os3exx%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الست لما مع يارا حسن",
+        "date": "Sat, 31 Aug 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/408bf0b5-e21a-4659-82c7-b70f916055ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=408bf0b5-e21a-4659-82c7-b70f916055ed&feed=3DRO2rfa",
+        "duration": "01:36:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F408bf0b5-e21a-4659-82c7-b70f916055ed%2F3000x3000%2F8gjvq5xgsbxwyid2gapcz7vey8l0%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الإنطباع الأول يدوب",
+        "date": "Sat, 24 Aug 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/2bec628d-d19f-41dc-896a-e6245f786216/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=2bec628d-d19f-41dc-896a-e6245f786216&feed=3DRO2rfa",
+        "duration": "00:55:10",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F2bec628d-d19f-41dc-896a-e6245f786216%2F3000x3000%2Foou2kztwslxul2cvyjn6md3op5i4%3Faid%3Drss_feed"
+      },
+      {
+        "title": "سيادة العنيد",
+        "date": "Sat, 17 Aug 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/b4a057ae-2978-49d8-b9d2-efe84d4744b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=b4a057ae-2978-49d8-b9d2-efe84d4744b7&feed=3DRO2rfa",
+        "duration": "00:57:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fb4a057ae-2978-49d8-b9d2-efe84d4744b7%2F3000x3000%2Fq5hwgj88qhwy7q88mt7cds7xmzh5%3Faid%3Drss_feed"
+      },
+      {
+        "title": "محامي بالنقد: صاعدين ليه ما تقوموا تروحوا",
+        "date": "Sat, 10 Aug 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/4c024a12-fdf7-46f0-9eb6-1dda881f7b2f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=4c024a12-fdf7-46f0-9eb6-1dda881f7b2f&feed=3DRO2rfa",
+        "duration": "00:55:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F4c024a12-fdf7-46f0-9eb6-1dda881f7b2f%2F3000x3000%2Fcydrogsdaeilhtcs9iip7v6q6dul%3Faid%3Drss_feed"
+      },
+      {
+        "title": "بودكاست اشتري مني - أعز الإكس مع محمد ممدوح \"تايسون\" إكس مراتي",
+        "date": "Mon, 29 Jul 2024 18:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/0a1c4b3a-bae6-4bcb-a2f9-4d3aeda7f566/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=0a1c4b3a-bae6-4bcb-a2f9-4d3aeda7f566&feed=3DRO2rfa",
+        "duration": "01:46:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F0a1c4b3a-bae6-4bcb-a2f9-4d3aeda7f566%2F3000x3000%2Fnyi0cn1xt8t35vlgvcxua1ikwr5r%3Faid%3Drss_feed"
+      },
+      {
+        "title": "ما بعد الشر",
+        "date": "Sat, 27 Jul 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/38454a8b-cade-4505-af43-20585bddd4bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=38454a8b-cade-4505-af43-20585bddd4bb&feed=3DRO2rfa",
+        "duration": "01:10:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F38454a8b-cade-4505-af43-20585bddd4bb%2F3000x3000%2Fe1rpgm1x87wc8rgks4un9uiorkop%3Faid%3Drss_feed"
+      },
+      {
+        "title": "زعيم المعادي مع أمير عيد",
+        "date": "Tue, 23 Jul 2024 17:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/b8164f74-b267-4de1-8fa3-ef4eea0911ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=b8164f74-b267-4de1-8fa3-ef4eea0911ae&feed=3DRO2rfa",
+        "duration": "02:11:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fb8164f74-b267-4de1-8fa3-ef4eea0911ae%2F3000x3000%2Fxyopxu0usn21n4kdl6vpmzah3df0%3Faid%3Drss_feed"
+      },
+      {
+        "title": "ألمانيا رايح جاي مع مروان موسى",
+        "date": "Sun, 16 Jun 2024 19:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/5f523d03-2d8f-48aa-95ba-db50d725f0a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=5f523d03-2d8f-48aa-95ba-db50d725f0a6&feed=3DRO2rfa",
+        "duration": "01:51:40",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F5f523d03-2d8f-48aa-95ba-db50d725f0a6%2F3000x3000%2Fh2d11hdqkvbpgvvpvw9uz72ovq6b%3Faid%3Drss_feed"
+      },
+      {
+        "title": "شعبيات عبدالرحيم",
+        "date": "Sat, 8 Jun 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/62037e6d-c360-45eb-b81d-4e47ed173655/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=62037e6d-c360-45eb-b81d-4e47ed173655&feed=3DRO2rfa",
+        "duration": "01:15:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F62037e6d-c360-45eb-b81d-4e47ed173655%2F3000x3000%2Fx88qvth87ixhp4yzrnjlcy871frn%3Faid%3Drss_feed"
+      },
+      {
+        "title": "خطير ولا يطير",
+        "date": "Sat, 1 Jun 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/3388e6f7-9a76-4f94-aca3-c7fd6d777d0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=3388e6f7-9a76-4f94-aca3-c7fd6d777d0b&feed=3DRO2rfa",
+        "duration": "01:15:45",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F3388e6f7-9a76-4f94-aca3-c7fd6d777d0b%2F3000x3000%2Fywk9sc48gh2iv3icby9hugp8keon%3Faid%3Drss_feed"
+      },
+      {
+        "title": "بعيدًا عن كرة القدم! مع نصوحي ومرعي",
+        "date": "Sat, 25 May 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/0f8726f7-1401-40c3-99e5-6704f811618a/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=0f8726f7-1401-40c3-99e5-6704f811618a&feed=3DRO2rfa",
+        "duration": "01:56:19",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F0f8726f7-1401-40c3-99e5-6704f811618a%2F3000x3000%2F0bwsxndfmxurr3h0b7p6cjynj0yw%3Faid%3Drss_feed"
+      },
+      {
+        "title": "يا خسارتك في الليالي",
+        "date": "Sat, 18 May 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/d2e8cd76-5321-42ee-a3f0-70dae64f7b54/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=d2e8cd76-5321-42ee-a3f0-70dae64f7b54&feed=3DRO2rfa",
+        "duration": "01:24:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fd2e8cd76-5321-42ee-a3f0-70dae64f7b54%2F3000x3000%2F3diprd2o9gipfv6fvp35sd4j09xm%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الآخر يا حضرات",
+        "date": "Sat, 11 May 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/22a4799a-eaf9-4cf3-82c6-d6c43cf43b80/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=22a4799a-eaf9-4cf3-82c6-d6c43cf43b80&feed=3DRO2rfa",
+        "duration": "01:06:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F22a4799a-eaf9-4cf3-82c6-d6c43cf43b80%2F3000x3000%2Ffywzzetx7070i61eni78p9kesb05%3Faid%3Drss_feed"
+      },
+      {
+        "title": "سحلة مش صعبة",
+        "date": "Sat, 4 May 2024 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/c167689b-8b80-4fb8-81be-7f04447f253e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=c167689b-8b80-4fb8-81be-7f04447f253e&feed=3DRO2rfa",
+        "duration": "00:56:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fc167689b-8b80-4fb8-81be-7f04447f253e%2F3000x3000%2Ftjsguey30dt6e3rwcitcfyxkay9d%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الزيف المهدرج مع محمد عبد العاطي",
+        "date": "Wed, 10 Apr 2024 20:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8d353f11-957c-4037-9a8c-4125ca39eeca/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8d353f11-957c-4037-9a8c-4125ca39eeca&feed=3DRO2rfa",
+        "duration": "01:31:46",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F8d353f11-957c-4037-9a8c-4125ca39eeca%2F3000x3000%2Fvh4q924noeqz4b9c93r8zky19lym%3Faid%3Drss_feed"
+      },
+      {
+        "title": "شاشة خطي العتبة",
+        "date": "Sat, 6 Apr 2024 12:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/a0fa81d2-b7d6-4fe2-9b0c-6a6e16ebaa3c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=a0fa81d2-b7d6-4fe2-9b0c-6a6e16ebaa3c&feed=3DRO2rfa",
+        "duration": "01:06:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fa0fa81d2-b7d6-4fe2-9b0c-6a6e16ebaa3c%2F3000x3000%2Fylvkv2zu3kc05pig75ord5twknpw%3Faid%3Drss_feed"
+      },
+      {
+        "title": "صايعين ولكن ظرفاء مع محمد عبد الرحمن",
+        "date": "Sat, 30 Mar 2024 12:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/1ea5269c-e3e2-4dd2-bdf6-44bd4d16de9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=1ea5269c-e3e2-4dd2-bdf6-44bd4d16de9c&feed=3DRO2rfa",
+        "duration": "01:44:07",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F1ea5269c-e3e2-4dd2-bdf6-44bd4d16de9c%2F3000x3000%2Fdxjf5wx8rwhtll999ce4jv1k3ooe%3Faid%3Drss_feed"
+      },
+      {
+        "title": "المجرم التائب مع عباس أبو الحسن",
+        "date": "Sat, 23 Mar 2024 13:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/32a6524e-2a39-48d3-b580-50000291b19b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=32a6524e-2a39-48d3-b580-50000291b19b&feed=3DRO2rfa",
+        "duration": "02:35:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F32a6524e-2a39-48d3-b580-50000291b19b%2F3000x3000%2Fy4tv9rsdo1p4tyoxk327xbh9rwgv%3Faid%3Drss_feed"
+      },
+      {
+        "title": "وليد المو-هادي",
+        "date": "Sat, 16 Mar 2024 12:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/20f25bc5-724b-4de0-962f-0c3c822b103b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=20f25bc5-724b-4de0-962f-0c3c822b103b&feed=3DRO2rfa",
+        "duration": "01:38:27",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F20f25bc5-724b-4de0-962f-0c3c822b103b%2F3000x3000%2F2mow1za0d6wtg3fa5evy209bp1no%3Faid%3Drss_feed"
+      },
+      {
+        "title": "كولاب من لهب",
+        "date": "Sat, 9 Mar 2024 20:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/682fd412-33f7-4bad-9d00-307bfb68b24e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=682fd412-33f7-4bad-9d00-307bfb68b24e&feed=3DRO2rfa",
+        "duration": "01:47:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F682fd412-33f7-4bad-9d00-307bfb68b24e%2F3000x3000%2Fnthmbaekkcl3hz5wm1j74s8ajp2l%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مين معانا! مع علاء ياسين",
+        "date": "Sat, 2 Mar 2024 10:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/1cc25990-8fb6-497c-b679-ddf49f5e4adb/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=1cc25990-8fb6-497c-b679-ddf49f5e4adb&feed=3DRO2rfa",
+        "duration": "01:12:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F1cc25990-8fb6-497c-b679-ddf49f5e4adb%2F3000x3000%2Flopyxtsgsa7pnnv0edfk2ixkcxn2%3Faid%3Drss_feed"
+      },
+      {
+        "title": "من البريمة للأفكار السليمة",
+        "date": "Sat, 24 Feb 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/0195dc84-69b7-4e94-86b9-87d554186a9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=0195dc84-69b7-4e94-86b9-87d554186a9c&feed=3DRO2rfa",
+        "duration": "01:27:01",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F0195dc84-69b7-4e94-86b9-87d554186a9c%2F3000x3000%2F5qj9rz1kyqd1hl7n9oy04piq0gml%3Faid%3Drss_feed"
+      },
+      {
+        "title": "تقاليع وبلانكو",
+        "date": "Sat, 17 Feb 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/c4ab869c-c274-4cd0-935a-a25547bd1c26/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=c4ab869c-c274-4cd0-935a-a25547bd1c26&feed=3DRO2rfa",
+        "duration": "01:25:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fc4ab869c-c274-4cd0-935a-a25547bd1c26%2F3000x3000%2F300enu7e47t29l1q0494gs0421jv%3Faid%3Drss_feed"
+      },
+      {
+        "title": "(اشتري مني x هو في إيه يا جماعة) لا تبكي على اللبن المسكون",
+        "date": "Sat, 10 Feb 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/ba7c8c1d-2db5-4769-bd22-aefc602fd4e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=ba7c8c1d-2db5-4769-bd22-aefc602fd4e2&feed=3DRO2rfa",
+        "duration": "01:31:34",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fba7c8c1d-2db5-4769-bd22-aefc602fd4e2%2F3000x3000%2Fzr1jadefxy31r0wvwzknkyihgd72%3Faid%3Drss_feed"
+      },
+      {
+        "title": "بودكاست اشتري مني - اللص واللي راب مع سانتا وأبو الأنوار",
+        "date": "Tue, 6 Feb 2024 21:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/d8770820-9db7-4318-adb8-81ef282b9531/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=d8770820-9db7-4318-adb8-81ef282b9531&feed=3DRO2rfa",
+        "duration": "02:03:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fd8770820-9db7-4318-adb8-81ef282b9531%2F3000x3000%2Fbp4mqpn1hath6ejfr49fsw5k0qsc%3Faid%3Drss_feed"
+      },
+      {
+        "title": "أموال وأرانب",
+        "date": "Sat, 27 Jan 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/f6aa11ee-09ae-41c8-a183-8e996ad85740/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=f6aa11ee-09ae-41c8-a183-8e996ad85740&feed=3DRO2rfa",
+        "duration": "01:12:23",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Ff6aa11ee-09ae-41c8-a183-8e996ad85740%2F3000x3000%2F89htmr6encg37walspon87r8oo6n%3Faid%3Drss_feed"
+      },
+      {
+        "title": "'العالمية وما بعدها مع أحمد حسام 'ميدو",
+        "date": "Sat, 20 Jan 2024 01:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/a84f173b-e0d6-4c4d-a0a3-f8b25894c917/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=a84f173b-e0d6-4c4d-a0a3-f8b25894c917&feed=3DRO2rfa",
+        "duration": "01:52:49",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fa84f173b-e0d6-4c4d-a0a3-f8b25894c917%2F3000x3000%2Fscwhfoic5kl5er9mpxisf8y7dvo0%3Faid%3Drss_feed"
+      },
+      {
+        "title": "اسأل استغيث ٢",
+        "date": "Sat, 13 Jan 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8a4f761e-dab7-4077-9ba7-6884e8fb05e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8a4f761e-dab7-4077-9ba7-6884e8fb05e6&feed=3DRO2rfa",
+        "duration": "01:16:40",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F8a4f761e-dab7-4077-9ba7-6884e8fb05e6%2F3000x3000%2Fgiacboxl7bxtglrd2vc877grgtfl%3Faid%3Drss_feed"
+      },
+      {
+        "title": "\"اشتري مني زيادة - محامي بالنقد: \"ألبوم حد بيحب تامر عاشور",
+        "date": "Thu, 11 Jan 2024 19:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/ec33be3f-9575-4aff-abda-de28dbe036bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=ec33be3f-9575-4aff-abda-de28dbe036bf&feed=3DRO2rfa",
+        "duration": "01:05:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fec33be3f-9575-4aff-abda-de28dbe036bf%2F3000x3000%2Fm00gsdkjn1mnvp7zclrfjjffbjyn%3Faid%3Drss_feed"
+      },
+      {
+        "title": "تخوين بالفتحة",
+        "date": "Sat, 6 Jan 2024 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/f75d1d0e-088a-4bfd-b55f-a3af690adddc/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=f75d1d0e-088a-4bfd-b55f-a3af690adddc&feed=3DRO2rfa",
+        "duration": "00:52:48",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Ff75d1d0e-088a-4bfd-b55f-a3af690adddc%2F3000x3000%2Fmmzkvsaxnou9rjuo6bdz2zdioowa%3Faid%3Drss_feed"
+      },
+      {
+        "title": "إيه الشغل دا؟ مع أحمد عصام",
+        "date": "Sat, 30 Dec 2023 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/bd80946b-130b-4216-9fed-a87162d87b2e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=bd80946b-130b-4216-9fed-a87162d87b2e&feed=3DRO2rfa",
+        "duration": "02:09:06",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fbd80946b-130b-4216-9fed-a87162d87b2e%2F3000x3000%2F8fbkcv33tsb5jmk0kysfct8invm4%3Faid%3Drss_feed"
+      },
+      {
+        "title": "كرياتيڤيتي فدادين",
+        "date": "Sat, 23 Dec 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/c8c22835-c78c-4cb4-8e23-aee5ab52d374/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=c8c22835-c78c-4cb4-8e23-aee5ab52d374&feed=3DRO2rfa",
+        "duration": "00:56:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fc8c22835-c78c-4cb4-8e23-aee5ab52d374%2F3000x3000%2Ffau3azncdx5ixd86lny0kituefuv%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مجلس إدارة الأزمات",
+        "date": "Sat, 16 Dec 2023 07:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/a5f7b9aa-877f-446d-944d-b935502051e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=a5f7b9aa-877f-446d-944d-b935502051e3&feed=3DRO2rfa",
+        "duration": "01:03:44",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fa5f7b9aa-877f-446d-944d-b935502051e3%2F3000x3000%2Fhqoebcy9dhinj7labz4wzlvurzur%3Faid%3Drss_feed"
+      },
+      {
+        "title": "التجديد خسرنا كتير",
+        "date": "Sat, 9 Dec 2023 07:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/de29d36c-7a1d-41f4-b7e6-9aa8d7d6fe6e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=de29d36c-7a1d-41f4-b7e6-9aa8d7d6fe6e&feed=3DRO2rfa",
+        "duration": "01:19:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fde29d36c-7a1d-41f4-b7e6-9aa8d7d6fe6e%2F3000x3000%2Fg624qk1jvycjykppmgw0vwaenk9h%3Faid%3Drss_feed"
+      },
+      {
+        "title": "المزدوجون",
+        "date": "Sat, 25 Nov 2023 10:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/95ee069a-6ece-48a2-97c4-2bbe2e06c0e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=95ee069a-6ece-48a2-97c4-2bbe2e06c0e8&feed=3DRO2rfa",
+        "duration": "00:56:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F95ee069a-6ece-48a2-97c4-2bbe2e06c0e8%2F3000x3000%2Fejzf3cghfbmf3qmtu61d4rjgt5pe%3Faid%3Drss_feed"
+      },
+      {
+        "title": "ايه اللي حصل عندكوا",
+        "date": "Sat, 18 Nov 2023 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/fc151a6a-a95f-4cd3-9f70-72b81191f416/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=fc151a6a-a95f-4cd3-9f70-72b81191f416&feed=3DRO2rfa",
+        "duration": "01:10:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Ffc151a6a-a95f-4cd3-9f70-72b81191f416%2F3000x3000%2Fco0zp669o93ybyt31toqeva7hola%3Faid%3Drss_feed"
+      },
+      {
+        "title": "كلام بالمحسوس - إعلان الحلقات الجاية",
+        "date": "Fri, 17 Nov 2023 12:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/1ab65ab4-5ed5-4aac-850e-e664da7787ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=1ab65ab4-5ed5-4aac-850e-e664da7787ee&feed=3DRO2rfa",
+        "duration": "00:00:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F1ab65ab4-5ed5-4aac-850e-e664da7787ee%2F3000x3000%2Fm76i9vblx76tezsz40mq7oos5igm%3Faid%3Drss_feed"
+      },
+      {
+        "title": "أصحاب الأرض",
+        "date": "Tue, 31 Oct 2023 17:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/f514b8b8-c188-4e40-9917-f9ac23bf41ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=f514b8b8-c188-4e40-9917-f9ac23bf41ad&feed=3DRO2rfa",
+        "duration": "00:16:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Ff514b8b8-c188-4e40-9917-f9ac23bf41ad%2F3000x3000%2Fbr6ex1ykf4677m84dm6be39ot4ht%3Faid%3Drss_feed"
+      },
+      {
+        "title": "(التصبيرة) منطقتى ٢ مع عمر الجمل",
+        "date": "Sat, 7 Oct 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/bb1d6927-e0d6-4a45-8fa9-7910b80ad58d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=bb1d6927-e0d6-4a45-8fa9-7910b80ad58d&feed=3DRO2rfa",
+        "duration": "01:28:51",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fbb1d6927-e0d6-4a45-8fa9-7910b80ad58d%2F3000x3000%2F53annzkgdt4cndec4e2v8udjzgl5%3Faid%3Drss_feed"
+      },
+      {
+        "title": "(التصبيرة) أعذار وخفف",
+        "date": "Sat, 30 Sep 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/956f0012-a1b4-4e6b-93f2-4e9c23f95e10/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=956f0012-a1b4-4e6b-93f2-4e9c23f95e10&feed=3DRO2rfa",
+        "duration": "01:00:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F956f0012-a1b4-4e6b-93f2-4e9c23f95e10%2F3000x3000%2Fvwov6bpjlchgwdej6zx6n0bvbmer%3Faid%3Drss_feed"
+      },
+      {
+        "title": "حزب الكنبة (التصبيرة)",
+        "date": "Sat, 23 Sep 2023 07:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8ff1fcbe-0b24-4149-9e42-115045f6dba6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8ff1fcbe-0b24-4149-9e42-115045f6dba6&feed=3DRO2rfa",
+        "duration": "01:05:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F8ff1fcbe-0b24-4149-9e42-115045f6dba6%2F3000x3000%2Fzlnfh06rscstboyxhbiy63r0yjfu%3Faid%3Drss_feed"
+      },
+      {
+        "title": "أم المصريين مع مي إبراهيم",
+        "date": "Sat, 16 Sep 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/4898b64b-c0be-4096-bd02-b415818ed09c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=4898b64b-c0be-4096-bd02-b415818ed09c&feed=3DRO2rfa",
+        "duration": "01:26:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F4898b64b-c0be-4096-bd02-b415818ed09c%2F3000x3000%2F80ez8guvoommyv4n480t4bpjb5hi%3Faid%3Drss_feed"
+      },
+      {
+        "title": "أحبك..أكرهك",
+        "date": "Sat, 19 Aug 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/27c27770-10b0-4965-bfe2-a2712c8aa0ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=27c27770-10b0-4965-bfe2-a2712c8aa0ce&feed=3DRO2rfa",
+        "duration": "01:12:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F27c27770-10b0-4965-bfe2-a2712c8aa0ce%2F3000x3000%2Fsuqnimx8val00hzio3xkujxogwn1%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الحدود الحُمر",
+        "date": "Sat, 12 Aug 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/b18ccb98-95c1-4342-b44d-6f2a2e6de0dd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=b18ccb98-95c1-4342-b44d-6f2a2e6de0dd&feed=3DRO2rfa",
+        "duration": "01:06:53",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fb18ccb98-95c1-4342-b44d-6f2a2e6de0dd%2F3000x3000%2Fa1wpdc9lbms4xsv2paao26ju4ig1%3Faid%3Drss_feed"
+      },
+      {
+        "title": "السيد المختص - مع محمود مهدي",
+        "date": "Sat, 5 Aug 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/043058c9-5f93-4c2b-8861-34d29ca15110/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=043058c9-5f93-4c2b-8861-34d29ca15110&feed=3DRO2rfa",
+        "duration": "01:47:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F043058c9-5f93-4c2b-8861-34d29ca15110%2F3000x3000%2F0p330i9eltwz01ko4xsuj6rlv07z%3Faid%3Drss_feed"
+      },
+      {
+        "title": "جوز أرانب",
+        "date": "Thu, 3 Aug 2023 16:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/084d1c91-7fd8-496c-9fe4-c5202c9f7537/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=084d1c91-7fd8-496c-9fe4-c5202c9f7537&feed=3DRO2rfa",
+        "duration": "01:06:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F084d1c91-7fd8-496c-9fe4-c5202c9f7537%2F3000x3000%2Fir2g2647tin54mjqg06rgyzrpzso%3Faid%3Drss_feed"
+      },
+      {
+        "title": "اسأل استغيث",
+        "date": "Sat, 29 Jul 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/56b0680e-e07c-471c-b39a-cbc34a53646f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=56b0680e-e07c-471c-b39a-cbc34a53646f&feed=3DRO2rfa",
+        "duration": "01:26:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F56b0680e-e07c-471c-b39a-cbc34a53646f%2F3000x3000%2Foeaacc88rgsn95p4brq5t0zwyzd6%3Faid%3Drss_feed"
+      },
+      {
+        "title": "دقوا الشماسي",
+        "date": "Sat, 22 Jul 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/b4c33e6e-8b92-4804-952c-51c79f66d636/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=b4c33e6e-8b92-4804-952c-51c79f66d636&feed=3DRO2rfa",
+        "duration": "01:02:45",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fb4c33e6e-8b92-4804-952c-51c79f66d636%2F3000x3000%2F2f0r6nq61xan0gycarcb85kvpchg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "قوم نادي المبادىء",
+        "date": "Sat, 15 Jul 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/d6bd3765-1742-4f71-ac2f-d701244c94d2/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=d6bd3765-1742-4f71-ac2f-d701244c94d2&feed=3DRO2rfa",
+        "duration": "01:13:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fd6bd3765-1742-4f71-ac2f-d701244c94d2%2F3000x3000%2Fs4gk8qc5cib93ycq5eiukofd8j5u%3Faid%3Drss_feed"
+      },
+      {
+        "title": "تأليف و إحراج : أحمد خيري",
+        "date": "Sat, 8 Jul 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/cf9f148e-5e0d-4ecb-9acc-5b1e1ba569ee/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=cf9f148e-5e0d-4ecb-9acc-5b1e1ba569ee&feed=3DRO2rfa",
+        "duration": "01:26:08",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fcf9f148e-5e0d-4ecb-9acc-5b1e1ba569ee%2F3000x3000%2F9osd1mq0tzqj39x9ujyjdzg9p92j%3Faid%3Drss_feed"
+      },
+      {
+        "title": "النجاح من كام؟",
+        "date": "Sat, 1 Jul 2023 07:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/0c6da0a0-7152-401a-a472-d99e9127b7bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=0c6da0a0-7152-401a-a472-d99e9127b7bd&feed=3DRO2rfa",
+        "duration": "00:43:06",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F0c6da0a0-7152-401a-a472-d99e9127b7bd%2F3000x3000%2F7qjhnx99oi44s87xu2m6jvhmisqa%3Faid%3Drss_feed"
+      },
+      {
+        "title": "حلقة العيد الكبير - مع محمد عبد العاطي",
+        "date": "Wed, 28 Jun 2023 19:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/878d131e-65a6-4be8-97bc-69ff9c86f43e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=878d131e-65a6-4be8-97bc-69ff9c86f43e&feed=3DRO2rfa",
+        "duration": "01:31:31",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F878d131e-65a6-4be8-97bc-69ff9c86f43e%2F3000x3000%2Fb8edy4esrdv9vy82vfxyx9gwdco8%3Faid%3Drss_feed"
+      },
+      {
+        "title": "خدعوك فقالوا",
+        "date": "Sat, 24 Jun 2023 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/46c076de-bd0f-4b28-9fea-a1210358af7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=46c076de-bd0f-4b28-9fea-a1210358af7f&feed=3DRO2rfa",
+        "duration": "00:54:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F46c076de-bd0f-4b28-9fea-a1210358af7f%2F3000x3000%2Fq9mw6fj2ou3k7geiamal5h2pmeok%3Faid%3Drss_feed"
+      },
+      {
+        "title": "باشا اعتمد",
+        "date": "Sat, 17 Jun 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/78e18d27-8be6-4dde-acd3-21a2b69aafba/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=78e18d27-8be6-4dde-acd3-21a2b69aafba&feed=3DRO2rfa",
+        "duration": "00:52:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F78e18d27-8be6-4dde-acd3-21a2b69aafba%2F3000x3000%2F25y33paff3jnh6o4jrvw6kh0y44o%3Faid%3Drss_feed"
+      },
+      {
+        "title": "زي الفشل على قلبي هواه - مع أيمن وتار",
+        "date": "Sat, 10 Jun 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/d15e06c0-dcdb-48d0-94d4-3514e9717343/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=d15e06c0-dcdb-48d0-94d4-3514e9717343&feed=3DRO2rfa",
+        "duration": "01:22:14",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fd15e06c0-dcdb-48d0-94d4-3514e9717343%2F3000x3000%2Fo1omxmr58pt4cpief67nt1re21hz%3Faid%3Drss_feed"
+      },
+      {
+        "title": "العشاء الأخير",
+        "date": "Sat, 3 Jun 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/609c3106-ac1a-498d-bb2f-18607480f6c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=609c3106-ac1a-498d-bb2f-18607480f6c6&feed=3DRO2rfa",
+        "duration": "01:14:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F609c3106-ac1a-498d-bb2f-18607480f6c6%2F3000x3000%2F4zojml6muosdevfkxt62rrr3qg16%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الاستغفال التام أو الموت الزؤام",
+        "date": "Sat, 27 May 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/3dabdeaf-8b4b-42a0-ac03-c731b57d15eb/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=3dabdeaf-8b4b-42a0-ac03-c731b57d15eb&feed=3DRO2rfa",
+        "duration": "01:04:34",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F3dabdeaf-8b4b-42a0-ac03-c731b57d15eb%2F3000x3000%2Fhbamfpizreygv0i0hy3887nrx44b%3Faid%3Drss_feed"
+      },
+      {
+        "title": "عالطبلة وعالتكسكة",
+        "date": "Sat, 20 May 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/88aa5149-1cfe-47ae-a237-a9c326ff7c47/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=88aa5149-1cfe-47ae-a237-a9c326ff7c47&feed=3DRO2rfa",
+        "duration": "00:50:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F88aa5149-1cfe-47ae-a237-a9c326ff7c47%2F3000x3000%2F8pgxs13luxwoy28my3ixf8l4ps5m%3Faid%3Drss_feed"
+      },
+      {
+        "title": "سقف الموضة بيلعب ليه؟ - مع حازم راغب",
+        "date": "Sat, 13 May 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/523a58a8-8c83-460b-9afe-2ffd5923ff68/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=523a58a8-8c83-460b-9afe-2ffd5923ff68&feed=3DRO2rfa",
+        "duration": "01:01:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F523a58a8-8c83-460b-9afe-2ffd5923ff68%2F3000x3000%2F1unu1l7agmzmkhxvzf9ndo2jma17%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مناخيرك لو سمحت",
+        "date": "Sat, 6 May 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8eb0a042-0e23-4a6a-9af5-5ee6dd320cbc/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8eb0a042-0e23-4a6a-9af5-5ee6dd320cbc&feed=3DRO2rfa",
+        "duration": "00:46:31",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F8eb0a042-0e23-4a6a-9af5-5ee6dd320cbc%2F3000x3000%2Fpmqdozi16zemfgbtn8uywrp3betx%3Faid%3Drss_feed"
+      },
+      {
+        "title": "لقد كبرنا يا أمي",
+        "date": "Sat, 29 Apr 2023 08:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8832a79b-07b6-48c5-accf-501bc1ba5947/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8832a79b-07b6-48c5-accf-501bc1ba5947&feed=3DRO2rfa",
+        "duration": "01:01:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F8832a79b-07b6-48c5-accf-501bc1ba5947%2F3000x3000%2F1iquy9h0ipegc5sj5w726ecphblh%3Faid%3Drss_feed"
+      },
+      {
+        "title": "من غير مناسبة",
+        "date": "Sat, 22 Apr 2023 09:00:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/750e6a37-612d-4418-b383-4d01ed8612bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=750e6a37-612d-4418-b383-4d01ed8612bf&feed=3DRO2rfa",
+        "duration": "00:46:27",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F750e6a37-612d-4418-b383-4d01ed8612bf%2F3000x3000%2Fm207meea6gfd16l4jhaepkz3tmzh%3Faid%3Drss_feed"
+      },
+      {
+        "title": "محتوى عباس طوفي!!",
+        "date": "Sat, 1 Apr 2023 10:09:49 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/e7e632ec-1d88-4133-a31b-e42e2590bfa1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=e7e632ec-1d88-4133-a31b-e42e2590bfa1&feed=3DRO2rfa",
+        "duration": "01:18:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fe7e632ec-1d88-4133-a31b-e42e2590bfa1%2F3000x3000%2Fqdwwdz6su004cg076wb52q3rs4wb%3Faid%3Drss_feed"
+      },
+      {
+        "title": "وإنت عامل إيه؟!",
+        "date": "Sat, 25 Mar 2023 10:13:00 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/b1420ce0-f394-40f6-b9a3-f2504194b922/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=b1420ce0-f394-40f6-b9a3-f2504194b922&feed=3DRO2rfa",
+        "duration": "00:51:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fb1420ce0-f394-40f6-b9a3-f2504194b922%2F3000x3000%2F5rzrj6jmxvaq6lles57jfnq8b4ed%3Faid%3Drss_feed"
+      },
+      {
+        "title": "جيل أرهقه الزمن!",
+        "date": "Sun, 19 Mar 2023 12:16:46 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/9d83e3a0-5727-431e-986f-0371d377ab63/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=9d83e3a0-5727-431e-986f-0371d377ab63&feed=3DRO2rfa",
+        "duration": "01:00:14",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F9d83e3a0-5727-431e-986f-0371d377ab63%2F3000x3000%2F65gxje36wgwtr47xzcposuz0ruth%3Faid%3Drss_feed"
+      },
+      {
+        "title": "إنت طموح وتمشي!",
+        "date": "Sat, 11 Mar 2023 11:20:56 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/89daaf5e-e818-4eb6-9b17-a37b0a9f31d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=89daaf5e-e818-4eb6-9b17-a37b0a9f31d3&feed=3DRO2rfa",
+        "duration": "01:01:01",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F89daaf5e-e818-4eb6-9b17-a37b0a9f31d3%2F3000x3000%2Fq630u52yc5vyglol14ayxcdi5qf5%3Faid%3Drss_feed"
+      },
+      {
+        "title": "اللي هزر مماتش!!",
+        "date": "Sat, 4 Mar 2023 12:21:39 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/4904db86-7fc8-4a04-bff1-4b878ce02a82/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=4904db86-7fc8-4a04-bff1-4b878ce02a82&feed=3DRO2rfa",
+        "duration": "00:55:45",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F4904db86-7fc8-4a04-bff1-4b878ce02a82%2F3000x3000%2Fazgj2gvguaw2iv62xm1fizqc1rkq%3Faid%3Drss_feed"
+      },
+      {
+        "title": "هنا.. كان لازم نتدخل! (الصدمة)",
+        "date": "Sat, 25 Feb 2023 19:00:03 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/3c693064-0623-48bc-aa2b-6c50a3e7dbcc/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=3c693064-0623-48bc-aa2b-6c50a3e7dbcc&feed=3DRO2rfa",
+        "duration": "01:06:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F3c693064-0623-48bc-aa2b-6c50a3e7dbcc%2F3000x3000%2F86c91oyalchgb2u18xim5gml7w9p%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مفهوم العقاب يا صغير!!",
+        "date": "Fri, 17 Feb 2023 17:24:27 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/60684a3b-9fe8-405c-ae10-e090370f0dba/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=60684a3b-9fe8-405c-ae10-e090370f0dba&feed=3DRO2rfa",
+        "duration": "00:49:55",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F60684a3b-9fe8-405c-ae10-e090370f0dba%2F3000x3000%2Fxedygvu8c6mdfhzrv7bmqdhw45fo%3Faid%3Drss_feed"
+      },
+      {
+        "title": "أجمد ٣ الساعة ٣!",
+        "date": "Fri, 10 Feb 2023 18:58:52 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/94c9e8ef-6bac-4156-a8a1-44a656bcf762/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=94c9e8ef-6bac-4156-a8a1-44a656bcf762&feed=3DRO2rfa",
+        "duration": "01:30:30",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F94c9e8ef-6bac-4156-a8a1-44a656bcf762%2F3000x3000%2Fdzdaxu2mw2d4bx7vd0uj1pqi8q9r%3Faid%3Drss_feed"
+      },
+      {
+        "title": "دوبامين من يومنا والله!",
+        "date": "Sat, 4 Feb 2023 10:01:31 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/2897887d-7b35-48cc-a783-8487c0057ca4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=2897887d-7b35-48cc-a783-8487c0057ca4&feed=3DRO2rfa",
+        "duration": "00:57:45",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F2897887d-7b35-48cc-a783-8487c0057ca4%2F3000x3000%2Fvdvwx0qvjama2ijzsf5eca8fzj41%3Faid%3Drss_feed"
+      },
+      {
+        "title": "كشف ولا استشارة!",
+        "date": "Sat, 28 Jan 2023 13:46:20 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/b1b59cd6-358c-4bc5-944e-abdbc4dd3fa5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=b1b59cd6-358c-4bc5-944e-abdbc4dd3fa5&feed=3DRO2rfa",
+        "duration": "01:14:45",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fb1b59cd6-358c-4bc5-944e-abdbc4dd3fa5%2F3000x3000%2F93kz1nx4vkh4s20smjgkbksc9751%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مقاسك في الرجالي!",
+        "date": "Sat, 21 Jan 2023 21:26:44 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/475d8d02-0651-4ea3-8a15-787bfac8eb14/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=475d8d02-0651-4ea3-8a15-787bfac8eb14&feed=3DRO2rfa",
+        "duration": "00:49:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F475d8d02-0651-4ea3-8a15-787bfac8eb14%2F3000x3000%2F5vhtgmekla8u5bf6c2ba9c1seaem%3Faid%3Drss_feed"
+      },
+      {
+        "title": "عيد الضحية!",
+        "date": "Sat, 14 Jan 2023 16:45:30 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/69d51ff6-d803-4f99-b1ac-e3496f7327b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=69d51ff6-d803-4f99-b1ac-e3496f7327b5&feed=3DRO2rfa",
+        "duration": "00:54:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F69d51ff6-d803-4f99-b1ac-e3496f7327b5%2F3000x3000%2Fb8hbapq92tx6t50w7awq9itbgar2%3Faid%3Drss_feed"
+      },
+      {
+        "title": "إن فاتك الميري.. كريسماس",
+        "date": "Thu, 22 Dec 2022 01:28:32 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/4b295c6d-7248-4a51-a191-b30af10281f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=4b295c6d-7248-4a51-a191-b30af10281f3&feed=3DRO2rfa",
+        "duration": "00:51:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F4b295c6d-7248-4a51-a191-b30af10281f3%2F3000x3000%2F07yitq0ig47snry53rtayr26mbqm%3Faid%3Drss_feed"
+      },
+      {
+        "title": "عايم في بحر الــIN",
+        "date": "Thu, 10 Nov 2022 21:06:21 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/da149b44-1295-456d-be57-73d91ca0404e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=da149b44-1295-456d-be57-73d91ca0404e&feed=3DRO2rfa",
+        "duration": "00:49:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fda149b44-1295-456d-be57-73d91ca0404e%2F3000x3000%2F4dix6sgxf9sqh3jqi5fma69chfij%3Faid%3Drss_feed"
+      },
+      {
+        "title": "المثالية في السكرية",
+        "date": "Fri, 4 Nov 2022 10:59:11 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/84feaf2f-2579-4126-9aa3-394e837da239/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=84feaf2f-2579-4126-9aa3-394e837da239&feed=3DRO2rfa",
+        "duration": "00:37:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F84feaf2f-2579-4126-9aa3-394e837da239%2F3000x3000%2F405f7v7jcx3m380hzbifcse9p1bk%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الذوق مخرجش من مصر!",
+        "date": "Fri, 28 Oct 2022 16:45:52 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/3788ce49-9c85-439a-a94c-07d95d6513d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=3788ce49-9c85-439a-a94c-07d95d6513d4&feed=3DRO2rfa",
+        "duration": "00:43:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F3788ce49-9c85-439a-a94c-07d95d6513d4%2F3000x3000%2Frgt5ldwal239x7lems78axx1tvd1%3Faid%3Drss_feed"
+      },
+      {
+        "title": "خانات الذكريات!",
+        "date": "Tue, 25 Oct 2022 22:44:43 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/1955ccb4-6350-4621-a44f-47bcf530f26f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=1955ccb4-6350-4621-a44f-47bcf530f26f&feed=3DRO2rfa",
+        "duration": "00:32:57",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F1955ccb4-6350-4621-a44f-47bcf530f26f%2F3000x3000%2Ffrabmtbcipoce49mxxox35og4kvn%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الخطايا السبعة",
+        "date": "Fri, 21 Oct 2022 14:04:23 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/4ff6829d-b8d4-40da-bc9b-2cabb829df86/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=4ff6829d-b8d4-40da-bc9b-2cabb829df86&feed=3DRO2rfa",
+        "duration": "01:01:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F4ff6829d-b8d4-40da-bc9b-2cabb829df86%2F3000x3000%2Fyg7y9pw7w08i0aj53nofz2esd8fu%3Faid%3Drss_feed"
+      },
+      {
+        "title": "اليوم المفتوح!",
+        "date": "Mon, 17 Oct 2022 22:11:32 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/7545f7e7-d4de-4bfb-90a6-b1108c02284f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=7545f7e7-d4de-4bfb-90a6-b1108c02284f&feed=3DRO2rfa",
+        "duration": "00:46:31",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F7545f7e7-d4de-4bfb-90a6-b1108c02284f%2F3000x3000%2Ft7yuszm7f5uj7o3vqsvvv6e32to8%3Faid%3Drss_feed"
+      },
+      {
+        "title": "آآآه م الشغف!",
+        "date": "Fri, 14 Oct 2022 19:06:36 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/66e33479-047e-49e5-b453-0c3cf6dd5713/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=66e33479-047e-49e5-b453-0c3cf6dd5713&feed=3DRO2rfa",
+        "duration": "01:07:44",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F66e33479-047e-49e5-b453-0c3cf6dd5713%2F3000x3000%2F4c5gesp641961sbllq0uoicd2ryz%3Faid%3Drss_feed"
+      },
+      {
+        "title": "لا للتنمر.",
+        "date": "Thu, 13 Oct 2022 20:21:34 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/d8000ab7-acad-4364-9ee5-0cd8fd107110/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=d8000ab7-acad-4364-9ee5-0cd8fd107110&feed=3DRO2rfa",
+        "duration": "00:46:08",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fd8000ab7-acad-4364-9ee5-0cd8fd107110%2F3000x3000%2F5k5dcrh1vre4uumogcylm5nssqhi%3Faid%3Drss_feed"
+      },
+      {
+        "title": "ماسك لي في حلقة الحرمان!",
+        "date": "Tue, 6 Sep 2022 20:57:30 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/bc43fa8d-7964-4c76-a9f4-1aea8b885793/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=bc43fa8d-7964-4c76-a9f4-1aea8b885793&feed=3DRO2rfa",
+        "duration": "00:42:16",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fbc43fa8d-7964-4c76-a9f4-1aea8b885793%2F3000x3000%2F4fcv4y7gsj1zf57t4js89htgk46y%3Faid%3Drss_feed"
+      },
+      {
+        "title": "اللي يتكسف من بنت عمه!",
+        "date": "Mon, 29 Aug 2022 16:01:56 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/b7a3109b-1a0e-42a3-a3ca-0b274549d746/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=b7a3109b-1a0e-42a3-a3ca-0b274549d746&feed=3DRO2rfa",
+        "duration": "00:55:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fb7a3109b-1a0e-42a3-a3ca-0b274549d746%2F3000x3000%2F7vjwr027faxg4vrk7a5258quaeaq%3Faid%3Drss_feed"
+      },
+      {
+        "title": "السينما وأشياء أخرى!",
+        "date": "Thu, 28 Jul 2022 01:50:25 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/ec4c3322-471e-4ebd-aa63-86a434180e8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=ec4c3322-471e-4ebd-aa63-86a434180e8b&feed=3DRO2rfa",
+        "duration": "01:08:32",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fec4c3322-471e-4ebd-aa63-86a434180e8b%2F3000x3000%2Fl80dy9nhyeu01exhn822g5jt7g00%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الهادف الذي طلبته.. غير متاح حاليًا.",
+        "date": "Sun, 17 Jul 2022 15:34:47 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/aec04e6c-c5e9-4e52-ad20-62a83c63ebed/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=aec04e6c-c5e9-4e52-ad20-62a83c63ebed&feed=3DRO2rfa",
+        "duration": "00:52:40",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Faec04e6c-c5e9-4e52-ad20-62a83c63ebed%2F3000x3000%2Fi4w9fym5jz89waxxzecw0eh10bq4%3Faid%3Drss_feed"
+      },
+      {
+        "title": "بحب السيما.. \"حلقة العيد\"",
+        "date": "Fri, 8 Jul 2022 17:03:02 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/5d80324f-9e1f-4548-a63a-032a2588780f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=5d80324f-9e1f-4548-a63a-032a2588780f&feed=3DRO2rfa",
+        "duration": "00:54:40",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F5d80324f-9e1f-4548-a63a-032a2588780f%2F3000x3000%2Fviwubbq2wzre2r1jdsa2f4czwqth%3Faid%3Drss_feed"
+      },
+      {
+        "title": "أغاني وأماني!",
+        "date": "Fri, 1 Jul 2022 19:06:16 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/ceee74ff-de5a-49ef-94f6-d494a923a146/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=ceee74ff-de5a-49ef-94f6-d494a923a146&feed=3DRO2rfa",
+        "duration": "00:44:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fceee74ff-de5a-49ef-94f6-d494a923a146%2F3000x3000%2F62l1m03kw95307plskx8t1gdp851%3Faid%3Drss_feed"
+      },
+      {
+        "title": "يا رجال العالم.. إزيكم!",
+        "date": "Sat, 25 Jun 2022 12:36:11 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/bd065e08-9308-4f52-9cec-c596d1bc82aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=bd065e08-9308-4f52-9cec-c596d1bc82aa&feed=3DRO2rfa",
+        "duration": "00:38:16",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fbd065e08-9308-4f52-9cec-c596d1bc82aa%2F3000x3000%2F63xrm1toarszevk2errceogbl69s%3Faid%3Drss_feed"
+      },
+      {
+        "title": "المسئولية مسئولية!!",
+        "date": "Sun, 29 May 2022 01:06:44 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/a36068ca-12ef-4b52-87f6-dd0713bdb6ac/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=a36068ca-12ef-4b52-87f6-dd0713bdb6ac&feed=3DRO2rfa",
+        "duration": "00:36:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fa36068ca-12ef-4b52-87f6-dd0713bdb6ac%2F3000x3000%2Fkbbxaicik35hzm9g4ey41ad1czu5%3Faid%3Drss_feed"
+      },
+      {
+        "title": "أبو الغضب.",
+        "date": "Thu, 26 May 2022 21:38:30 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/d019d05c-3181-41c2-a909-91cbe1d3e9f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=d019d05c-3181-41c2-a909-91cbe1d3e9f4&feed=3DRO2rfa",
+        "duration": "00:30:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fd019d05c-3181-41c2-a909-91cbe1d3e9f4%2F3000x3000%2Fu1hcach7wkoejwjid7jtx2m4efuj%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الضحك والضحكاوية!! عن الكوميديا.",
+        "date": "Wed, 18 May 2022 20:44:38 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/4f21fb60-67da-4dc7-b73b-45718bb18842/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=4f21fb60-67da-4dc7-b73b-45718bb18842&feed=3DRO2rfa",
+        "duration": "00:39:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F4f21fb60-67da-4dc7-b73b-45718bb18842%2F3000x3000%2Fockyqf6upo1gul4opi4ao6egm7l2%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الرأي والرأي الآخر!!",
+        "date": "Sat, 14 May 2022 19:04:02 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/ad9ccb88-6e71-4542-b2f9-00d10057e49f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=ad9ccb88-6e71-4542-b2f9-00d10057e49f&feed=3DRO2rfa",
+        "duration": "00:34:51",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fad9ccb88-6e71-4542-b2f9-00d10057e49f%2F3000x3000%2Fotpvvisl929frdzluyvjeylkvh3o%3Faid%3Drss_feed"
+      },
+      {
+        "title": "لقاء السحاب (أبيض وأسود * اشتري مني)",
+        "date": "Sat, 14 May 2022 18:59:47 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/67b0fce5-f135-4d24-b430-67b39b5759d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=67b0fce5-f135-4d24-b430-67b39b5759d7&feed=3DRO2rfa",
+        "duration": "01:07:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F67b0fce5-f135-4d24-b430-67b39b5759d7%2F3000x3000%2F66qvr3maig5qo71i865v2bu0p4g7%3Faid%3Drss_feed"
+      },
+      {
+        "title": "إحنا المهووسين إحنا!!",
+        "date": "Sat, 14 May 2022 18:51:44 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/bd02688c-3685-4eeb-bbfb-1b67cd2161e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=bd02688c-3685-4eeb-bbfb-1b67cd2161e1&feed=3DRO2rfa",
+        "duration": "00:27:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fbd02688c-3685-4eeb-bbfb-1b67cd2161e1%2F3000x3000%2Frtkf4daum86otseptxe5036s9bx0%3Faid%3Drss_feed"
+      },
+      {
+        "title": "ما بين الحاضر والمستقبل!!",
+        "date": "Sat, 14 May 2022 18:47:33 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/7b1f0b74-1309-4b85-bc59-c92ddeff09f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=7b1f0b74-1309-4b85-bc59-c92ddeff09f2&feed=3DRO2rfa",
+        "duration": "00:44:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F7b1f0b74-1309-4b85-bc59-c92ddeff09f2%2F3000x3000%2F0kfasafkof2t4anwtm0oiukdkgjt%3Faid%3Drss_feed"
+      },
+      {
+        "title": "حلقة تكريم الإنسان!!",
+        "date": "Sat, 14 May 2022 18:35:57 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/0bef79e8-5516-4e73-83ce-20425d5182df/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=0bef79e8-5516-4e73-83ce-20425d5182df&feed=3DRO2rfa",
+        "duration": "00:32:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F0bef79e8-5516-4e73-83ce-20425d5182df%2F3000x3000%2Fl8hyrs51ooieil1gc1rmfl80vyyb%3Faid%3Drss_feed"
+      },
+      {
+        "title": "صنايعية يا مصر!!",
+        "date": "Sat, 14 May 2022 18:31:18 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/40054d8e-b6a0-43ca-b6db-657aee7151fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=40054d8e-b6a0-43ca-b6db-657aee7151fe&feed=3DRO2rfa",
+        "duration": "00:23:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F40054d8e-b6a0-43ca-b6db-657aee7151fe%2F3000x3000%2F1xn31oufrtrh9ymw4km88x7fcpwz%3Faid%3Drss_feed"
+      },
+      {
+        "title": "ليالي التلفزيون!!",
+        "date": "Sat, 14 May 2022 18:29:23 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/2ffb7220-70cf-4589-b115-1101aecc4dfb/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=2ffb7220-70cf-4589-b115-1101aecc4dfb&feed=3DRO2rfa",
+        "duration": "00:43:27",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F2ffb7220-70cf-4589-b115-1101aecc4dfb%2F3000x3000%2Fcktsmeqwv6gvdrgjg5njpxbwi5ed%3Faid%3Drss_feed"
+      },
+      {
+        "title": "علاقات مش عامة!",
+        "date": "Sat, 14 May 2022 18:25:34 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/58a9891c-f29f-4a22-b20f-611d611a236b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=58a9891c-f29f-4a22-b20f-611d611a236b&feed=3DRO2rfa",
+        "duration": "00:35:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F58a9891c-f29f-4a22-b20f-611d611a236b%2F3000x3000%2Fz6n2wz4fsifmqd00busw300to3pv%3Faid%3Drss_feed"
+      },
+      {
+        "title": "عندنا ضيوف - حلقة التطرف!",
+        "date": "Sat, 14 May 2022 18:09:48 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/7f3262d6-e9b1-4376-b36c-da903a5aad6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=7f3262d6-e9b1-4376-b36c-da903a5aad6b&feed=3DRO2rfa",
+        "duration": "00:31:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F7f3262d6-e9b1-4376-b36c-da903a5aad6b%2F3000x3000%2F01zjt35q1g9x2p7pz2fgxdg3nmdn%3Faid%3Drss_feed"
+      },
+      {
+        "title": "سلملنا بقى ع الترومات!!",
+        "date": "Sat, 14 May 2022 17:08:49 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/534f6728-bf49-40c5-b204-c9832ca62880/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=534f6728-bf49-40c5-b204-c9832ca62880&feed=3DRO2rfa",
+        "duration": "00:31:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F534f6728-bf49-40c5-b204-c9832ca62880%2F3000x3000%2Fv6y0dp6i7t7t21c0gdz3j7vcni0z%3Faid%3Drss_feed"
+      },
+      {
+        "title": "المزاج والمزاجنجية!",
+        "date": "Sat, 14 May 2022 16:57:30 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/5be391ed-e890-46c2-b0c9-59a265dba6ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=5be391ed-e890-46c2-b0c9-59a265dba6ab&feed=3DRO2rfa",
+        "duration": "00:46:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F5be391ed-e890-46c2-b0c9-59a265dba6ab%2F3000x3000%2Fdmp2szl7ilk1c16y8ihiuk3k242o%3Faid%3Drss_feed"
+      },
+      {
+        "title": "تخيل!!",
+        "date": "Sat, 14 May 2022 16:43:44 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/0823dee3-3595-4e2a-842a-eb6b2e5f5d59/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=0823dee3-3595-4e2a-842a-eb6b2e5f5d59&feed=3DRO2rfa",
+        "duration": "00:47:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F0823dee3-3595-4e2a-842a-eb6b2e5f5d59%2F3000x3000%2Fs9syp70azgsxzltf202sw9knnb2q%3Faid%3Drss_feed"
+      },
+      {
+        "title": "غريبة الناس!!",
+        "date": "Sat, 14 May 2022 16:21:14 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/8b635e42-69fa-41dc-9787-99552f343760/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=8b635e42-69fa-41dc-9787-99552f343760&feed=3DRO2rfa",
+        "duration": "00:42:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2F8b635e42-69fa-41dc-9787-99552f343760%2F3000x3000%2Fdlronmsw3hnkzkmr1tdspbm51qeq%3Faid%3Drss_feed"
+      },
+      {
+        "title": "خنزوريات من زمن فات!!",
+        "date": "Sat, 14 May 2022 02:46:22 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/d7545919-684a-4243-9852-b41d1f75bd13/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=d7545919-684a-4243-9852-b41d1f75bd13&feed=3DRO2rfa",
+        "duration": "00:43:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Fd7545919-684a-4243-9852-b41d1f75bd13%2F3000x3000%2F3gl8epxf0uel67pzy8fsijfm8f4c%3Faid%3Drss_feed"
+      },
+      {
+        "title": "الحلقة الأولى.. منطقتي!",
+        "date": "Sat, 14 May 2022 01:46:19 +0000",
+        "audioUrl": "https://afp-882450-injected.calisto.simplecastaudio.com/6b96bf75-9f55-4e52-95b8-3e25778084f6/episodes/f4d53078-d498-47b4-8d20-58f80442fbfe/audio/128/default.mp3?aid=rss_feed&awCollectionId=6b96bf75-9f55-4e52-95b8-3e25778084f6&awEpisodeId=f4d53078-d498-47b4-8d20-58f80442fbfe&feed=3DRO2rfa",
+        "duration": "00:43:59",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F6b96bf%2F6b96bf75-9f55-4e52-95b8-3e25778084f6%2Ff4d53078-d498-47b4-8d20-58f80442fbfe%2F3000x3000%2F77mn7qnp0qhb8fh3n32zfv4kbs2l%3Faid%3Drss_feed"
+      }
+    ]
+  },
+  {
+    "id": "421471629",
+    "title": "بودكاست أبجورة",
+    "author": "بودكاست أبجورة",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_600,h_600,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Favatars-RyakeAzqR63kNSQz-cDAcAg-original.jpg",
+    "description": "بودكاست يتحدث عنك حيناً .. ويتحدث معك أحياناً .. هُنا تضيء أبجورة💡",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "فزعـــة",
+        "date": "Sat, 15 Mar 2025 12:43:36 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2054999080-lubna-90-pyp3s7wrfc68.mp3",
+        "duration": "00:20:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-cgEAdxwPrfhyof0f-e65DiA-t3000x3000.jpg"
+      },
+      {
+        "title": "وين سرحت؟",
+        "date": "Sat, 22 Feb 2025 07:37:51 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2039856528-lubna-90-97nkybrw1ryc.mp3",
+        "duration": "00:31:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-zr85w5QYpLn3VvkV-bJh9FQ-t3000x3000.jpg"
+      },
+      {
+        "title": "موهبة",
+        "date": "Sat, 01 Feb 2025 10:43:02 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2023354740-lubna-90-e0nuwkouzlcj.mp3",
+        "duration": "00:28:53",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-3Uuiefpbft2fu2su-yv85Eg-t3000x3000.jpg"
+      },
+      {
+        "title": "أزليّة",
+        "date": "Sat, 30 Nov 2024 09:29:02 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1970434439-lubna-90-oqbvi2aoepgv.mp3",
+        "duration": "00:26:06",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-6Ly6JACyKflTp8Ny-w7w8NQ-t3000x3000.jpg"
+      },
+      {
+        "title": "ذاك المرض",
+        "date": "Sat, 26 Oct 2024 08:27:19 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1942452359-lubna-90-ap86uwjlbpmt.mp3",
+        "duration": "00:33:55",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-zdxtza3MMdtb5LGl-N7cL7Q-t3000x3000.jpg"
+      },
+      {
+        "title": "رحلة البحث عن مقهى",
+        "date": "Sat, 28 Sep 2024 11:04:43 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1925295794-lubna-90-kchmgh1bmiey.mp3",
+        "duration": "00:21:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-yZwkysHmNRxwypYA-qaaOtQ-t3000x3000.jpg"
+      },
+      {
+        "title": "تقهويت؟",
+        "date": "Sat, 14 Sep 2024 13:00:52 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1916558210-lubna-90-pflv4e2had9x.mp3",
+        "duration": "00:19:21",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-kAggJaBT4xFAt0bb-iyrhug-t3000x3000.jpg"
+      },
+      {
+        "title": "وش عذرك؟",
+        "date": "Sat, 24 Aug 2024 08:02:21 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1903177627-lubna-90-jh7t8issjj0p.mp3",
+        "duration": "00:24:23",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-ub8ym4hzVDLbPJJy-yuaKuw-t3000x3000.jpg"
+      },
+      {
+        "title": "شنطة سفر",
+        "date": "Fri, 26 Jul 2024 21:52:31 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1881859245-lubna-90-sj4izzrdf1jq.mp3",
+        "duration": "00:23:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-9clYLEOYoYZWWZ1l-HoBC4Q-t3000x3000.jpg"
+      },
+      {
+        "title": "مع نفسك!",
+        "date": "Sat, 22 Jun 2024 10:04:19 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1854369306-lubna-90-qm9cqpwmynad.mp3",
+        "duration": "00:19:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-LsjG5jlg9EcQ1uHi-CcKK4Q-t3000x3000.jpg"
+      },
+      {
+        "title": "العالم الموازي",
+        "date": "Mon, 20 May 2024 05:50:36 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1825848045-lubna-90-uppnbqczhhxb.mp3",
+        "duration": "00:25:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-7UKh6M5GRdoswC1g-VQ9onQ-t3000x3000.jpg"
+      },
+      {
+        "title": "صدناك",
+        "date": "Thu, 04 Apr 2024 12:38:46 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1792492843-lubna-90-tme5tsb3wrja.mp3",
+        "duration": "00:17:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-gUOe63HtvgvUwcZH-szkdzg-t3000x3000.jpg"
+      },
+      {
+        "title": "سبع سنابل",
+        "date": "Wed, 20 Mar 2024 13:46:44 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1779855045-lubna-90-ikoijk44lial.mp3",
+        "duration": "00:17:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-9NgStB4ZrAt71b35-OyBKaA-t3000x3000.jpg"
+      },
+      {
+        "title": "سادس باء",
+        "date": "Wed, 06 Mar 2024 08:25:15 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1766694720-lubna-90-uhsxen5yfbru.mp3",
+        "duration": "00:20:55",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-Kn4BLOAMlXcZezPK-efqhhw-t3000x3000.jpg"
+      },
+      {
+        "title": "1727",
+        "date": "Sat, 17 Feb 2024 09:34:18 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1749727038-lubna-90-1727a.mp3",
+        "duration": "00:20:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-tjPIyS4y0RgR5iBA-jBjxAw-t3000x3000.jpg"
+      },
+      {
+        "title": "راضي عن نفسك؟",
+        "date": "Sat, 27 Jan 2024 09:34:33 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1729182816-lubna-90-4js3tr3d8mbh.mp3",
+        "duration": "00:20:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-DdqIFwZekIpLJ6Tn-6VdbOg-t3000x3000.jpg"
+      },
+      {
+        "title": "المعجزة",
+        "date": "Sat, 23 Dec 2023 12:50:31 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1697816754-lubna-90-k0b0xonsmwg0.mp3",
+        "duration": "00:20:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-zWMxOtIBxIfRVs4w-ObiHnw-t3000x3000.jpg"
+      },
+      {
+        "title": "طاولة لشخص واحد",
+        "date": "Sat, 09 Dec 2023 09:39:49 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1686348576-lubna-90-xeb3rqneqalf.mp3",
+        "duration": "00:20:21",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-5iNWYI5Sm2hIecny-P5ykkQ-t3000x3000.jpg"
+      },
+      {
+        "title": "نوابغ العرب",
+        "date": "Tue, 07 Nov 2023 13:39:57 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1658828514-lubna-90-fa3fhajtzxwh.mp3",
+        "duration": "00:23:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-2L1l1rWeMSfhr99l-4ICHRw-t3000x3000.jpg"
+      },
+      {
+        "title": "أغنى شخص في المقبرة",
+        "date": "Sat, 30 Sep 2023 10:00:59 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1629161955-lubna-90-gmob1tpakx5f.mp3",
+        "duration": "00:11:08",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-60EFGUB6krNVfcLT-ciktuw-t3000x3000.jpg"
+      },
+      {
+        "title": "الوفرة والنُدرة",
+        "date": "Wed, 20 Sep 2023 13:09:42 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1620780357-lubna-90-4sdjscvknwa5.mp3",
+        "duration": "00:13:46",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-PzMWJoy1ZnNya5xW-hztXgA-t3000x3000.jpg"
+      },
+      {
+        "title": "قصتك المالية",
+        "date": "Mon, 11 Sep 2023 13:15:00 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1613582457-lubna-90-vg8mt44ruq78.mp3",
+        "duration": "00:11:49",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-97D68GwLx2HELo5C-saIXqw-t3000x3000.jpg"
+      },
+      {
+        "title": "حصّالة",
+        "date": "Sat, 02 Sep 2023 12:05:21 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1606612557-lubna-90-ibbxahu3aljr.mp3",
+        "duration": "00:13:54",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-HkOA77mnp8b8JjDL-T5PfOw-t3000x3000.jpg"
+      },
+      {
+        "title": "عادي تكون عادي",
+        "date": "Sat, 29 Jul 2023 12:09:42 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1577506179-lubna-90-kuejazxeiqe4.mp3",
+        "duration": "00:09:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-knLgifgzPA0czcBT-1Yy1sg-t3000x3000.jpg"
+      },
+      {
+        "title": "لست محور الكون",
+        "date": "Sun, 16 Jul 2023 12:33:50 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1566411937-lubna-90-7x0k1k1dfezt.mp3",
+        "duration": "00:09:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-VgBsbYXMgpxcNd2q-d2h5TQ-t3000x3000.jpg"
+      },
+      {
+        "title": "اللي فات ما مات",
+        "date": "Sat, 24 Jun 2023 08:51:23 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1548665878-lubna-90-ffrt4qrktigo.mp3",
+        "duration": "00:06:07",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-iHeLqbcPIYSoOdWp-EzOHyw-t3000x3000.jpg"
+      },
+      {
+        "title": "حلقة يبيلها تعديل",
+        "date": "Sat, 17 Jun 2023 14:26:28 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1543005364-lubna-90-wciogm3y1o0a.mp3",
+        "duration": "00:14:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-TQpdY2uMK9lMqM0h-9aBf5w-t3000x3000.jpg"
+      },
+      {
+        "title": "حكواتية",
+        "date": "Thu, 11 May 2023 10:32:14 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1511718928-lubna-90-ymunum7famxx.mp3",
+        "duration": "00:16:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-2rkDtKRx2DIDN6Bq-osJfjQ-t3000x3000.jpg"
+      },
+      {
+        "title": "دوها يا دوها",
+        "date": "Sat, 01 Apr 2023 13:24:28 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1482680404-lubna-90-0xnahyy79ziu.mp3",
+        "duration": "00:16:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-eD7B2z0BUwFv0nBU-CFM14A-t3000x3000.jpg"
+      },
+      {
+        "title": "تكبر وتنسى",
+        "date": "Wed, 01 Mar 2023 09:50:25 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1458673120-lubna-90-vxohsdt0urjc.mp3",
+        "duration": "00:18:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-kbaWYjb8rmlAFzim-CPKR3w-t3000x3000.jpg"
+      },
+      {
+        "title": "الرائحة",
+        "date": "Wed, 25 Jan 2023 17:06:11 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1432242664-lubna-90-irmejxs8qhrh.mp3",
+        "duration": "00:19:50",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-an7QvyORQz9uilc6-24r3SA-t3000x3000.jpg"
+      },
+      {
+        "title": "العار",
+        "date": "Wed, 21 Dec 2022 15:02:45 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1407420592-lubna-90-9sedtzsbrmmh.mp3",
+        "duration": "00:17:57",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-CQxQyFmjQy2UvfyQ-zdZhrQ-t3000x3000.jpg"
+      },
+      {
+        "title": "الصوت يقطّع",
+        "date": "Sat, 12 Nov 2022 17:59:18 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1381729354-lubna-90-69gplfjkcjqd.mp3",
+        "duration": "00:17:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-9LxzbZcaaMvV76dK-vHAIOA-t3000x3000.jpg"
+      },
+      {
+        "title": "العشاء الأخير",
+        "date": "Mon, 29 Aug 2022 15:29:06 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1333485832-lubna-90-df5cwoo9d6u3.mp3",
+        "duration": "00:14:21",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-gBRdeEJtIyogKWy1-ascdyw-t3000x3000.jpg"
+      },
+      {
+        "title": "فاتك",
+        "date": "Fri, 15 Jul 2022 14:12:44 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1305786298-lubna-90-bwybt5iokoul.mp3",
+        "duration": "00:14:23",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-pJpFr8pN5tMmhE2J-VCDedA-t3000x3000.jpg"
+      },
+      {
+        "title": "وهي رَميم",
+        "date": "Fri, 11 Feb 2022 15:14:24 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1214060518-lubna-90-sbnbyfgabtfd.mp3",
+        "duration": "00:16:34",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-zsrCFq92O3kSam8N-3bBVIg-t3000x3000.jpg"
+      },
+      {
+        "title": "المدينة الثالثة",
+        "date": "Sun, 02 Jan 2022 14:35:39 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1188912976-lubna-90-76whuvji5r4p.mp3",
+        "duration": "00:17:30",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-rmWTxrzttjxQJXA9-s3fccw-t3000x3000.jpg"
+      },
+      {
+        "title": "وهم القمة",
+        "date": "Sat, 21 Aug 2021 14:55:11 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1110238234-lubna-90-hmvr6tctzw3a.mp3",
+        "duration": "00:17:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-aIYEyfLw40sYkxC4-rRBnBQ-t3000x3000.jpg"
+      },
+      {
+        "title": "سيارة سوداء",
+        "date": "Sat, 03 Jul 2021 11:56:59 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/1080760294-lubna-90-rubuuoyktbc3.mp3",
+        "duration": "00:28:05",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-yrza5zLmQDHwIGNj-nbgIYA-t3000x3000.jpg"
+      },
+      {
+        "title": "فَقْد",
+        "date": "Wed, 24 Feb 2021 15:49:49 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/991976923-lubna-90-svgkyn7kiomp.mp3",
+        "duration": "00:23:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-a23pI3vr30ubzANw-3dDoLA-t3000x3000.jpg"
+      },
+      {
+        "title": "صُدفة؟",
+        "date": "Tue, 12 Jan 2021 14:28:19 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/964162831-lubna-90-uixxqjexe2a9.mp3",
+        "duration": "00:14:55",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-zoYhrGQKiIREZGQ5-PWtAxg-t3000x3000.jpg"
+      },
+      {
+        "title": "حكايا الإسمنت",
+        "date": "Sat, 12 Dec 2020 14:17:49 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/946184227-lubna-90-q4q2fkldnlzv.mp3",
+        "duration": "00:19:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-2AFwGzTuHc57F5Jt-Iz2LOw-t3000x3000.jpg"
+      },
+      {
+        "title": "العمر",
+        "date": "Wed, 04 Nov 2020 17:23:06 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/923299531-lubna-90-pmabutw8vz5y.mp3",
+        "duration": "00:20:10",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-GPzNFwZeymNyyIdk-x6HpKg-t3000x3000.jpg"
+      },
+      {
+        "title": "رُوح وريحان",
+        "date": "Sat, 03 Oct 2020 14:23:59 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/903969172-lubna-90-6t2fi8knckoy.mp3",
+        "duration": "00:20:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-ZyQQsTPF1KYTYXDY-eNhvVg-t3000x3000.jpg"
+      },
+      {
+        "title": "عدنان ولينا",
+        "date": "Sat, 15 Aug 2020 16:10:02 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/876324364-lubna-90-1ybozindxyzi.mp3",
+        "duration": "00:27:05",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-vcMXc0gFSvK1Iuuu-UU0zkQ-t3000x3000.jpg"
+      },
+      {
+        "title": "ورطة!",
+        "date": "Wed, 01 Jul 2020 16:24:11 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/850313503-lubna-90-l1ahlam92ipv.mp3",
+        "duration": "00:16:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-sHqjojHwz18XzaCQ-n6QMsw-t3000x3000.jpg"
+      },
+      {
+        "title": "ضحايا الظل",
+        "date": "Mon, 01 Jun 2020 16:49:54 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/832279567-lubna-90-jaorncyozhxb.mp3",
+        "duration": "00:16:06",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-nGMmrgHiiKQtNyHv-06YvZQ-t3000x3000.jpg"
+      },
+      {
+        "title": "حلقة مملة جداً",
+        "date": "Thu, 30 Apr 2020 18:03:36 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/810698692-lubna-90-mwh8t5hepkbw.mp3",
+        "duration": "00:18:16",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-eVoCcNpVSqiex1PR-X3EbIw-t3000x3000.jpg"
+      },
+      {
+        "title": "كورونا: الخوف الأعمى",
+        "date": "Sat, 14 Mar 2020 11:38:12 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/775949620-lubna-90-gvylu0uduylf.mp3",
+        "duration": "00:12:18",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-X5y46mP22MYYhLX3-L3JqiQ-t3000x3000.jpg"
+      },
+      {
+        "title": "وهم الكمال",
+        "date": "Sat, 08 Feb 2020 15:08:03 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/757205665-lubna-90-8fwo29knheq4.mp3",
+        "duration": "00:15:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-u8Ek8jyNQ6DK4Uny-wUdZmw-t3000x3000.jpg"
+      },
+      {
+        "title": "هافانا: الرقص على إيقاع العزلة",
+        "date": "Sun, 26 Jan 2020 14:03:35 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/749756377-lubna-90-rmudliwslvan.mp3",
+        "duration": "00:22:22",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000674579896-63cra0-t3000x3000.jpg"
+      },
+      {
+        "title": "شرارة",
+        "date": "Sat, 21 Dec 2019 17:14:53 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/731953180-lubna-90-fhec3kqgfofh.mp3",
+        "duration": "00:15:51",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000656532823-cqvjjs-t3000x3000.jpg"
+      },
+      {
+        "title": "المكان الثالث",
+        "date": "Tue, 26 Nov 2019 14:09:38 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/718755949-lubna-90-oi34zz5xqjli.mp3",
+        "duration": "00:13:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000643286422-qd1rk3-t3000x3000.jpg"
+      },
+      {
+        "title": "عايش أم حي؟",
+        "date": "Sat, 26 Oct 2019 12:51:39 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/701997148-lubna-90-yftxzgrat1wh.mp3",
+        "duration": "00:13:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000623041318-4jmoa9-t3000x3000.jpg"
+      },
+      {
+        "title": "الذاكرة",
+        "date": "Thu, 03 Oct 2019 15:52:58 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/690522877-lubna-90-zouyuds5lh7u.mp3",
+        "duration": "00:12:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000607179184-0jz50l-t3000x3000.jpg"
+      },
+      {
+        "title": "حُجة الخاسر",
+        "date": "Thu, 12 Sep 2019 16:16:05 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/680106872-lubna-90-beburcqlow3q.mp3",
+        "duration": "00:13:01",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000596704040-q9wa00-t3000x3000.jpg"
+      },
+      {
+        "title": "هل أنت خائف؟",
+        "date": "Thu, 22 Aug 2019 15:48:06 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/669489500-lubna-90-ws7xe4if2wu9.mp3",
+        "duration": "00:13:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000586151951-3id3p5-t3000x3000.jpg"
+      },
+      {
+        "title": "رحلة الكراسي",
+        "date": "Wed, 24 Jul 2019 14:42:23 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/655735796-lubna-90-twctoanppqtk.mp3",
+        "duration": "00:12:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000571917317-y10j1b-t3000x3000.jpg"
+      },
+      {
+        "title": "رسائل من حرير",
+        "date": "Wed, 10 Jul 2019 14:31:06 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/649109729-lubna-90-71e0ls5dblkp.mp3",
+        "duration": "00:14:44",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000564388697-yjelc2-t3000x3000.jpg"
+      },
+      {
+        "title": "للأفكـار أجنحة",
+        "date": "Wed, 12 Jun 2019 13:40:46 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/635537115-lubna-90-ulhuhw0sbqnl.mp3",
+        "duration": "00:12:13",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000550848180-evbftl-t3000x3000.jpg"
+      },
+      {
+        "title": "لِمَ لا؟",
+        "date": "Thu, 09 Aug 2018 12:56:04 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/483223851-lubna-90-vih6abcpuqho.mp3",
+        "duration": "00:13:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000386449677-r07zii-t3000x3000.jpg"
+      },
+      {
+        "title": "نحن الأسئلة",
+        "date": "Thu, 12 Jul 2018 13:18:38 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/470672034-lubna-90-lvuw7yznz9ns.mp3",
+        "duration": "00:14:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000372874005-o8as4v-t3000x3000.jpg"
+      },
+      {
+        "title": "الرحلة رقم ٢١",
+        "date": "Thu, 28 Jun 2018 14:03:03 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/464615067-lubna-90-rshpbzmnrxru.mp3",
+        "duration": "00:11:08",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000366174123-m1btps-t3000x3000.jpg"
+      },
+      {
+        "title": "رصاص الكتروني",
+        "date": "Wed, 13 Jun 2018 16:59:29 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/457862904-lubna-90-rhklcmz1niqk.mp3",
+        "duration": "00:12:30",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000360285438-y70a6q-t3000x3000.jpg"
+      },
+      {
+        "title": "الغازي",
+        "date": "Thu, 31 May 2018 14:08:15 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/451737117-lubna-90-ngavp79ghtm8.mp3",
+        "duration": "00:15:54",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000354947583-f92cps-t3000x3000.jpg"
+      },
+      {
+        "title": "مُدن تسكننا",
+        "date": "Thu, 10 May 2018 13:45:02 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/442078848-lubna-90-1id5dnppxc2c.mp3",
+        "duration": "00:12:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000346498509-omg2v3-t3000x3000.jpg"
+      },
+      {
+        "title": "خارج النص - الجزء الثاني",
+        "date": "Thu, 26 Apr 2018 13:11:25 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/435460020-lubna-90-xbo2wl832y1u.mp3",
+        "duration": "00:08:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000340606956-fjo2bp-t3000x3000.jpg"
+      },
+      {
+        "title": "خارج النص",
+        "date": "Thu, 05 Apr 2018 12:58:08 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/425160987-lubna-90-ihvnxs7l0eyl.mp3",
+        "duration": "00:12:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000330180789-m1z02s-t3000x3000.jpg"
+      },
+      {
+        "title": "إبرة .. كورية",
+        "date": "Thu, 22 Mar 2018 12:48:36 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/417539404-lubna-90-2gkxzswpeca5.mp3",
+        "duration": "00:11:45",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000321650116-uprxk4-t3000x3000.jpg"
+      },
+      {
+        "title": "المرآة الافتراضية",
+        "date": "Thu, 22 Feb 2018 13:42:12 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/403476816-lubna-90-t539ormigsqd.mp3",
+        "duration": "00:11:16",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000306381906-dmz6od-t3000x3000.jpg"
+      },
+      {
+        "title": "كُلنا ننتظر",
+        "date": "Thu, 08 Feb 2018 12:26:55 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/396302856-lubna-90-lpyvqhlqlrd1.mp3",
+        "duration": "00:09:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000299105850-4f13ub-t3000x3000.jpg"
+      },
+      {
+        "title": "رحلة العشرينات",
+        "date": "Thu, 25 Jan 2018 13:08:15 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/388889436-lubna-90-miye4dllvjvm.mp3",
+        "duration": "00:10:30",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000290512872-w91lnj-t3000x3000.jpg"
+      },
+      {
+        "title": "صفحات بيضاء",
+        "date": "Thu, 11 Jan 2018 12:14:51 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/381984581-lubna-90-hd9qrvhdslp5.mp3",
+        "duration": "00:12:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000283580756-ddazj8-t3000x3000.jpg"
+      },
+      {
+        "title": "من يمتلك ذائقتك؟",
+        "date": "Wed, 27 Dec 2017 13:38:12 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/375301949-lubna-90-qu62usdiupem.mp3",
+        "duration": "00:10:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000276291935-q34czx-t3000x3000.jpg"
+      },
+      {
+        "title": "أصدقائنا الغرباء",
+        "date": "Thu, 14 Dec 2017 13:10:08 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/369420182-lubna-90-pw8k55fmgkek.mp3",
+        "duration": "00:10:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000269709086-0j7fo0-t3000x3000.jpg"
+      },
+      {
+        "title": "الخيارات الصعبة",
+        "date": "Thu, 23 Nov 2017 12:41:33 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/359838797-lubna-90-wbyiz6kl1l8k.mp3",
+        "duration": "00:11:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000260251052-0apg9c-t3000x3000.jpg"
+      },
+      {
+        "title": "الندم",
+        "date": "Wed, 08 Nov 2017 17:01:06 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/352914797-lubna-90-h1vofp85u8id.mp3",
+        "duration": "00:09:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000253029416-tsaqhg-t3000x3000.jpg"
+      },
+      {
+        "title": "هل أنت مُقنع؟",
+        "date": "Thu, 26 Oct 2017 11:31:26 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/348666808-lubna-90-gh6bw4wocvgp.mp3",
+        "duration": "00:10:06",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000248928121-p6padt-t3000x3000.jpg"
+      },
+      {
+        "title": "دوبامين السوشل ميديا",
+        "date": "Thu, 12 Oct 2017 15:28:35 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/346566387-lubna-90-umlfzd4ol62k.mp3",
+        "duration": "00:09:30",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000246837102-ircgwx-t3000x3000.jpg"
+      },
+      {
+        "title": "المرات الأولى",
+        "date": "Tue, 26 Sep 2017 15:02:37 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/344115838-lubna-90-kgkmq25vwg5v.mp3",
+        "duration": "00:08:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000244374954-uixqxy-t3000x3000.jpg"
+      },
+      {
+        "title": "من أين يأتي الإلهام؟",
+        "date": "Wed, 13 Sep 2017 12:42:45 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/342169671-lubna-90-nwykdr1jxlm0.mp3",
+        "duration": "00:09:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000242453115-quwfdo-t3000x3000.jpg"
+      },
+      {
+        "title": "يتحدثون فينصت العالم .. من خلف خطاباتهم؟",
+        "date": "Tue, 29 Aug 2017 14:18:21 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/339994154-lubna-90-gjda3xmckeae.mp3",
+        "duration": "00:07:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000240342046-pz1au8-t3000x3000.jpg"
+      },
+      {
+        "title": "فن رواية القصص",
+        "date": "Wed, 16 Aug 2017 07:22:30 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/338092842-lubna-90-cnxoijpxmz6m.mp3",
+        "duration": "00:08:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000238507482-eigo9d-t3000x3000.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1260707080",
+    "title": "جسدي | Jasadi",
+    "author": "Kerning Cultures Network",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_600,h_600,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F1689076653655-324034210c5c5b5378f33e363a7d7676.jpeg",
+    "description": "<p dir=\"rtl\">قصصٌ وتجارب عن علاقتنا بأجسادنا (هذا البودكاست غير مناسب لمن هم أقل من 18 عاماً).</p><p dir=\"rtl\">بودكاست جسدي من إنتاج شبكة كيرنينج كلتشرز. اشتركوا لتصلكم حلقة جديدة كل خميس. إذا استمتعتم بالحلقة، اتركوا تقييمكم ورأيكم على منصة البودكاست التي تستخدموها.&nbsp;</p><p dir=\"rtl\">يمكنكم دعم هذا البرنامج عبر <a href=\"https://www.patreon.com/kerningcultures\">patreon.com/kerningcultures</a> بمبلغ يبدأ من دولارين في الشهر.</p><p dir=\"rtl\">التصميم جرافيكي لروند عيسى.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "كرشي والرقص المعاصر",
+        "date": "Thu, 09 Mar 2023 19:42:38 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/4948935d-1df6-4d56-be55-afc00143e9d4/media.mp3",
+        "duration": "25:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d81.jpg"
+      },
+      {
+        "title": "بعيدا عن مدرستي",
+        "date": "Thu, 02 Mar 2023 19:17:58 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/a5b3ca62-d05f-42b2-b90c-afb9013daac3/media.mp3",
+        "duration": "17:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d82.jpg"
+      },
+      {
+        "title": "فايبروميالجيا",
+        "date": "Thu, 23 Feb 2023 18:15:16 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/d137a92b-0e34-4f43-990d-afb2012c281e/media.mp3",
+        "duration": "18:59",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d83.jpg"
+      },
+      {
+        "title": "عندي حكاية",
+        "date": "Mon, 20 Feb 2023 12:34:25 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/5b95aee8-db83-4d5f-9b02-afaf00cbe0af/media.mp3",
+        "duration": "22:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d84.jpg"
+      },
+      {
+        "title": "حادث وقوع",
+        "date": "Thu, 09 Feb 2023 16:57:55 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/56237a7c-d4be-4cad-8813-afa401168752/media.mp3",
+        "duration": "26:25",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d85.jpg"
+      },
+      {
+        "title": "تحولات",
+        "date": "Thu, 02 Feb 2023 17:39:31 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/bb365351-0422-4752-80b9-af9d0122385c/media.mp3",
+        "duration": "27:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d86.jpg"
+      },
+      {
+        "title": "السيستم واقع",
+        "date": "Thu, 26 Jan 2023 20:15:54 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/d366ac05-be84-445e-b86d-af96014c9db0/media.mp3",
+        "duration": "29:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d87.jpg"
+      },
+      {
+        "title": "نادية والمينوبوز اللعين",
+        "date": "Thu, 19 Jan 2023 20:14:11 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/9f84a926-c1cc-4c77-885c-af8f014aa5f2/media.mp3",
+        "duration": "18:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d88.jpg"
+      },
+      {
+        "title": "صحني الفارغ",
+        "date": "Thu, 12 Jan 2023 22:10:44 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/55eb2242-c17f-4c1b-a31a-af88016c3deb/media.mp3",
+        "duration": "13:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d89.jpg"
+      },
+      {
+        "title": "ألم غير متوقع",
+        "date": "Fri, 30 Dec 2022 21:01:56 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/343fb9a7-9f48-467c-a133-af7400e0becd/media.mp3",
+        "duration": "32:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "لما نكبر",
+        "date": "Thu, 22 Dec 2022 16:49:49 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/6773edc8-db8c-41e9-bceb-af730106c949/media.mp3",
+        "duration": "21:05",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "خطوات ثقيلة",
+        "date": "Fri, 16 Dec 2022 12:57:52 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/141c4bf9-4935-45f9-a7c4-af6d00d514d0/media.mp3",
+        "duration": "29:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d8c.jpg"
+      },
+      {
+        "title": "على وشك الغرق",
+        "date": "Thu, 08 Dec 2022 15:03:32 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/06d5c5b6-568e-48b4-a4c6-af6500f3472d/media.mp3",
+        "duration": "22:19",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d8d.jpg"
+      },
+      {
+        "title": "بوح فتى في الأربعين",
+        "date": "Thu, 01 Dec 2022 17:03:21 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/4d83bbbc-47db-4b4f-8b40-af5e011818e5/media.mp3",
+        "duration": "17:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d8e.jpg"
+      },
+      {
+        "title": "ولادة أخرى",
+        "date": "Thu, 24 Nov 2022 16:13:46 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/415e85c9-cb65-40a7-ae82-af57010a39d8/media.mp3",
+        "duration": "28:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d8f.jpg"
+      },
+      {
+        "title": "توقعات مُقدسة",
+        "date": "Thu, 17 Nov 2022 16:37:33 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/5267800a-14a4-4932-bf55-af5001107a14/media.mp3",
+        "duration": "17:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d90.jpg"
+      },
+      {
+        "title": "عندما خذلني الميلانين",
+        "date": "Thu, 10 Nov 2022 14:22:03 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/aae81e6b-0643-4c90-b817-af4900ebd70a/media.mp3",
+        "duration": "19:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d91.jpg"
+      },
+      {
+        "title": "الموسم الرابع: أجسادٌ عبر الزمن",
+        "date": "Fri, 04 Nov 2022 09:52:22 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/d5bae3d2-157d-429e-987b-af41012cab14/media.mp3",
+        "duration": "6:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "عن الحميمية والخزي",
+        "date": "Thu, 16 Dec 2021 07:48:01 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/ccac35c1-6431-4665-9e4e-ae00007eeec0/media.mp3",
+        "duration": "14:19",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d93.jpg"
+      },
+      {
+        "title": "حُريَّة بالإيجار",
+        "date": "Thu, 09 Dec 2021 15:12:29 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/e3044696-6184-4d24-a8c6-adf900f502df/media.mp3",
+        "duration": "18:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d94.jpg"
+      },
+      {
+        "title": "العيشُ في جسدٍ سَمين",
+        "date": "Fri, 03 Dec 2021 07:00:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/16de0a54-9996-4792-baa7-adf2015b11fe/media.mp3",
+        "duration": "18:19",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d95.jpg"
+      },
+      {
+        "title": "أمّي العزيزة",
+        "date": "Fri, 26 Nov 2021 11:03:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/67c56fef-3b49-454d-bdc7-adec00b2da27/media.mp3",
+        "duration": "20:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d96.jpg"
+      },
+      {
+        "title": "قميص أبيض وسروال أسود",
+        "date": "Thu, 18 Nov 2021 16:34:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/20e8a85b-d4e8-4227-a54a-ade4010e6327/media.mp3",
+        "duration": "19:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d97.jpg"
+      },
+      {
+        "title": "من بعد إذنكم",
+        "date": "Thu, 11 Nov 2021 16:54:31 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/bf9df2bb-9d69-4749-8293-addd0113e23b/media.mp3",
+        "duration": "17:55",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d98.jpg"
+      },
+      {
+        "title": "سارق القلوب",
+        "date": "Fri, 05 Nov 2021 15:36:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/242124a0-2451-47b6-924a-add700f0a132/media.mp3",
+        "duration": "19:27",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d99.jpg"
+      },
+      {
+        "title": "قصة لصغيرتي",
+        "date": "Thu, 28 Oct 2021 15:17:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/4bda9f8b-5b51-4dd2-9865-adcf00faf0ec/media.mp3",
+        "duration": "16:55",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d9a.jpg"
+      },
+      {
+        "title": "سَطوةُ التسميات",
+        "date": "Thu, 21 Oct 2021 20:59:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/651770fa-87c3-409c-beb9-adc801596899/media.mp3",
+        "duration": "17:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d9b.jpg"
+      },
+      {
+        "title": "أنا الغريبة",
+        "date": "Thu, 14 Oct 2021 21:32:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/a83585c3-4e7e-46c9-b0e1-adc101614f5f/media.mp3",
+        "duration": "34:13",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d9c.jpg"
+      },
+      {
+        "title": "أنتِ",
+        "date": "Thu, 07 Oct 2021 15:53:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/45fe7405-baa5-441e-a96f-adba0104a259/media.mp3",
+        "duration": "10:22",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d9d.jpg"
+      },
+      {
+        "title": "سوف تلعنكِ الملائكة",
+        "date": "Thu, 30 Sep 2021 18:46:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/75b3edc8-0cc5-423f-b9ca-adb30134afe7/media.mp3",
+        "duration": "22:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d9e.jpg"
+      },
+      {
+        "title": "لستُ أماً",
+        "date": "Thu, 23 Sep 2021 19:01:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/1e6b0d56-74eb-4240-8b9b-adac01376f7f/media.mp3",
+        "duration": "16:44",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8d9f.jpg"
+      },
+      {
+        "title": "الشخص المطلوب غير مُتاح",
+        "date": "Thu, 16 Sep 2021 16:22:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/62ad8358-26b8-44d3-ac34-ada5010ba337/media.mp3",
+        "duration": "27:31",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da0.jpg"
+      },
+      {
+        "title": "أنا ومثلي الملايين",
+        "date": "Thu, 09 Sep 2021 11:59:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/3d3a3f87-89eb-4a19-a9f6-ad9e00c4f460/media.mp3",
+        "duration": "10:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da1.jpg"
+      },
+      {
+        "title": "أمومة قيد التنفيذ",
+        "date": "Thu, 02 Sep 2021 14:18:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/34a580a7-bc8a-4910-adbc-ad9700e8d6ea/media.mp3",
+        "duration": "18:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da2.jpg"
+      },
+      {
+        "title": "خُلقت عارية",
+        "date": "Thu, 26 Aug 2021 16:39:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/654f8360-9e26-4e1d-b806-ad900111aa2e/media.mp3",
+        "duration": "18:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da3.jpg"
+      },
+      {
+        "title": "فجوة اللذة",
+        "date": "Thu, 19 Aug 2021 14:57:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/fb7bf2e6-ac08-4954-ae5a-ad8900f1d604/media.mp3",
+        "duration": "18:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da4.jpg"
+      },
+      {
+        "title": "معركتي الصامتة",
+        "date": "Thu, 12 Aug 2021 21:17:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/0bcc7a43-a9ff-4e5b-9971-ad82015e8d31/media.mp3",
+        "duration": "29:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da5.jpg"
+      },
+      {
+        "title": "إلى سترة أخي السوداء",
+        "date": "Thu, 05 Aug 2021 13:54:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/dc53c4ca-ac77-4d79-b995-ad7b00e2e36e/media.mp3",
+        "duration": "20:25",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da6.jpg"
+      },
+      {
+        "title": "تشويقة الموسم الثالث",
+        "date": "Thu, 29 Jul 2021 14:06:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/3ea27d3a-289a-475d-9ef5-ad7400e7b0bb/media.mp3",
+        "duration": "2:59",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "هذه ليست قصتي",
+        "date": "Thu, 15 Jul 2021 12:31:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/0c0a4423-92c1-4c69-b905-ad6600cb7e01/media.mp3",
+        "duration": "10:01",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da8.jpg"
+      },
+      {
+        "title": "صوت في رأسي",
+        "date": "Thu, 10 Dec 2020 21:40:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/a923dbb4-4193-4225-93c4-ac8d01631f9b/media.mp3",
+        "duration": "28:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8da9.jpg"
+      },
+      {
+        "title": "السكري ما يوقفني",
+        "date": "Mon, 30 Nov 2020 11:34:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/5b8d06c2-82ee-47ae-8282-ac83009528e3/media.mp3",
+        "duration": "27:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8daa.jpg"
+      },
+      {
+        "title": "أفانجارد",
+        "date": "Wed, 25 Nov 2020 00:15:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/89c542ed-c5a9-4b3e-877e-ac8000039b6a/media.mp3",
+        "duration": "25:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8dab.jpg"
+      },
+      {
+        "title": "الطاقة الكونية أو: كيف تعلمت أن أحب قدمي",
+        "date": "Wed, 11 Nov 2020 14:59:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/fe7b4eec-4881-4559-9d02-ac7000f46da0/media.mp3",
+        "duration": "34:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8dac.jpg"
+      },
+      {
+        "title": "كل الطرق تؤدي إلى الداخل",
+        "date": "Tue, 27 Oct 2020 13:24:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/71e793e8-4dd0-4106-b4f4-ac6100db72d9/media.mp3",
+        "duration": "41:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8dad.jpg"
+      },
+      {
+        "title": "أطباء لكن ظرفاء",
+        "date": "Wed, 21 Oct 2020 11:15:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/42650f89-f146-483a-ba2a-ac5b00b7fc85/media.mp3",
+        "duration": "36:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8dae.jpg"
+      },
+      {
+        "title": "أنا اليوم \"مو أوكيه\"",
+        "date": "Tue, 13 Oct 2020 13:51:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/7e391ac0-bf29-4af1-bb5f-ac5400e2323f/media.mp3",
+        "duration": "33:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8daf.jpg"
+      },
+      {
+        "title": "دردشة عن الصحة النفسية",
+        "date": "Tue, 06 Oct 2020 07:22:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/b5296c4e-0c9f-41d8-a36a-ac4c0143a70e/media.mp3",
+        "duration": "25:19",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8db0.jpg"
+      },
+      {
+        "title": "يحيى سيحيا",
+        "date": "Tue, 29 Sep 2020 18:07:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/8a810a56-5bf1-47c8-a899-ac450128eb36/media.mp3",
+        "duration": "32:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8db1.jpg"
+      },
+      {
+        "title": "ألم غير متوقع",
+        "date": "Tue, 08 Sep 2020 12:04:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/01e29ee3-d24c-44d3-a428-ac3000c468f3/media.mp3",
+        "duration": "29:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8db2.jpg"
+      },
+      {
+        "title": "\"طفولة عادية\"",
+        "date": "Tue, 01 Sep 2020 13:22:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/4197f82b-4f1a-4826-86f8-ac2900d84da0/media.mp3",
+        "duration": "28:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8db3.jpg"
+      },
+      {
+        "title": "تشويقة الموسم الثاني",
+        "date": "Tue, 25 Aug 2020 13:29:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/0c044752-92bb-4969-ba55-ac22007b752b/media.mp3",
+        "duration": "2:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2F64419917e1bffc00100f8db4.jpg"
+      },
+      {
+        "title": "هذه مدينتي؟",
+        "date": "Thu, 20 Aug 2020 14:42:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/b2b0063e-5ddc-4ac0-a4fb-ac1d00eaaf84/media.mp3",
+        "duration": "15:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "حديث رجال",
+        "date": "Tue, 23 Jun 2020 16:03:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/ea7508bd-fa94-4b89-b235-abe300fd2002/media.mp3",
+        "duration": "17:21",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "كيف كان يومك؟",
+        "date": "Wed, 22 Apr 2020 14:38:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/86fe59dc-1b21-47e0-a104-aba500eaa63f/media.mp3",
+        "duration": "9:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "رقصة الروح",
+        "date": "Wed, 26 Feb 2020 09:30:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/d7f590f3-c48b-4696-9e06-ab6d009a8e5f/media.mp3",
+        "duration": "18:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "أول مرة",
+        "date": "Wed, 12 Feb 2020 06:21:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/4b9c79f9-344d-467c-acdb-ab5f006264af/media.mp3",
+        "duration": "20:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "مسلم به",
+        "date": "Wed, 29 Jan 2020 06:51:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/5d9482b5-3e82-465e-9fde-ab51006d4203/media.mp3",
+        "duration": "24:18",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "محفور بجسمي",
+        "date": "Wed, 22 Jan 2020 05:44:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/47016d36-e5f7-418b-9e2e-ab4a005ceba3/media.mp3",
+        "duration": "21:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "الهوية: رمادي",
+        "date": "Wed, 15 Jan 2020 02:00:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/7b2ba913-af76-4683-a99f-ab42013826ba/media.mp3",
+        "duration": "20:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "فراغ وامتلاء",
+        "date": "Wed, 08 Jan 2020 07:53:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/56591990-5985-4ad9-b97d-ab3c00749e71/media.mp3",
+        "duration": "18:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "حديثُ رجال",
+        "date": "Tue, 17 Dec 2019 20:21:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/c762659d-6154-43f7-8816-ab2100ece8cd/media.mp3",
+        "duration": "16:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "أزمة شعر",
+        "date": "Wed, 11 Dec 2019 16:15:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/41f952cb-a7b8-456f-9b48-ab20010a9376/media.mp3",
+        "duration": "24:13",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "لما نكبر",
+        "date": "Wed, 04 Dec 2019 14:40:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/856ca918-b2b3-4485-be49-ab1900f0061c/media.mp3",
+        "duration": "18:21",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      },
+      {
+        "title": "مقتطفات تشويقية",
+        "date": "Fri, 25 Oct 2019 21:59:00 GMT",
+        "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/2b6b498f-c921-43fb-8dc8-aaf1016a17f2/media.mp3",
+        "duration": "1:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fassets.pippa.io%2Fshows%2F6441990f425b3100113a6690%2Fshow-cover.jpg"
+      }
+    ]
+  },
+  {
     "id": "1844755389",
     "title": "احمد عامر: السيرة النبوية",
     "author": "Ahmed Amer",
