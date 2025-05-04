@@ -11956,6 +11956,814 @@
     ]
   },
   {
+    "id": "753190496",
+    "title": "مشاري العفاسي  - Mishary Alafasi | ",
+    "author": "موقع المكتبة الصوتية للقرآن الكريم",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png",
+    "description": "المصحف الكامل للقارئ مشاري العفاسي من موقع المكتبة الصوتية للقرآن الكريم \nhttp://www.mp3quran.net Mp3 Quran\nMishary Alafasi\nMishary Al-afasi",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "001 - سورة الفاتحة",
+        "date": "Wed, 27 Oct 2010 11:46:54 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/001.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "002 - سورة البقرة",
+        "date": "Wed, 27 Oct 2010 11:46:53 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/002.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "003 - سورة آل عمران",
+        "date": "Wed, 27 Oct 2010 11:46:52 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/003.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "004 - سورة النساء",
+        "date": "Wed, 27 Oct 2010 11:46:51 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/004.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "005 - سورة المائدة",
+        "date": "Wed, 27 Oct 2010 11:46:50 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/005.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "006 - سورة الأنعام",
+        "date": "Wed, 27 Oct 2010 11:46:49 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/006.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "007 - سورة الأعراف",
+        "date": "Wed, 27 Oct 2010 11:46:48 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/007.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "008 - سورة الأنفال",
+        "date": "Wed, 27 Oct 2010 11:46:47 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/008.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "009 - سورة التوبة",
+        "date": "Wed, 27 Oct 2010 11:46:46 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/009.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "010 - سورة يونس",
+        "date": "Wed, 27 Oct 2010 11:46:45 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/010.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "011 - سورة هود",
+        "date": "Wed, 27 Oct 2010 11:46:44 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/011.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "012 - سورة يوسف",
+        "date": "Wed, 27 Oct 2010 11:46:43 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/012.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "013 - سورة الرعد",
+        "date": "Wed, 27 Oct 2010 11:46:42 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/013.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "014 - سورة إبراهيم",
+        "date": "Wed, 27 Oct 2010 11:46:41 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/014.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "015 - سورة الحجر",
+        "date": "Wed, 27 Oct 2010 11:46:40 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/015.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "016 - سورة النحل",
+        "date": "Wed, 27 Oct 2010 11:46:39 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/016.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "017 - سورة الإسراء",
+        "date": "Wed, 27 Oct 2010 11:46:38 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/017.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "018 - سورة الكهف",
+        "date": "Wed, 27 Oct 2010 11:46:37 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/018.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "019 - سورة مريم",
+        "date": "Wed, 27 Oct 2010 11:46:36 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/019.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "020 - سورة طه",
+        "date": "Wed, 27 Oct 2010 11:46:35 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/020.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "021 - سورة الأنبياء",
+        "date": "Wed, 27 Oct 2010 11:46:34 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/021.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "022 - سورة الحج",
+        "date": "Wed, 27 Oct 2010 11:46:33 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/022.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "023 - سورة المؤمنون",
+        "date": "Wed, 27 Oct 2010 11:46:32 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/023.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "024 - سورة النّور",
+        "date": "Wed, 27 Oct 2010 11:46:31 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/024.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "025 - سورة الفرقان",
+        "date": "Wed, 27 Oct 2010 11:46:30 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/025.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "026 - سورة الشعراء",
+        "date": "Wed, 27 Oct 2010 11:46:29 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/026.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "027 - سورة النّمل",
+        "date": "Wed, 27 Oct 2010 11:46:28 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/027.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "028 - سورة القصص",
+        "date": "Wed, 27 Oct 2010 11:46:27 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/028.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "029 - سورة العنكبوت",
+        "date": "Wed, 27 Oct 2010 11:46:26 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/029.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "030 - سورة الرّوم",
+        "date": "Wed, 27 Oct 2010 11:46:25 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/030.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "031 - سورة لقمان",
+        "date": "Wed, 27 Oct 2010 11:46:24 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/031.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "032 - سورة السجدة",
+        "date": "Wed, 27 Oct 2010 11:46:23 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/032.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "033 - سورة الأحزاب",
+        "date": "Wed, 27 Oct 2010 11:46:22 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/033.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "034 - سورة سبأ",
+        "date": "Wed, 27 Oct 2010 11:46:21 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/034.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "035 - سورة فاطر",
+        "date": "Wed, 27 Oct 2010 11:46:20 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/035.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "036 - سورة يس",
+        "date": "Wed, 27 Oct 2010 11:46:19 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/036.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "037 - سورة الصافات",
+        "date": "Wed, 27 Oct 2010 11:46:18 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/037.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "038 - سورة ص",
+        "date": "Wed, 27 Oct 2010 11:46:17 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/038.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "039 - سورة الزمر",
+        "date": "Wed, 27 Oct 2010 11:46:16 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/039.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "040 - سورة غافر",
+        "date": "Wed, 27 Oct 2010 11:46:15 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/040.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "041 - سورة فصّلت",
+        "date": "Wed, 27 Oct 2010 11:46:14 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/041.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "042 - سورة الشورى",
+        "date": "Wed, 27 Oct 2010 11:46:13 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/042.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "043 - سورة الزخرف",
+        "date": "Wed, 27 Oct 2010 11:46:12 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/043.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "044 - سورة الدّخان",
+        "date": "Wed, 27 Oct 2010 11:46:11 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/044.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "045 - سورة الجاثية",
+        "date": "Wed, 27 Oct 2010 11:46:10 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/045.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "046 - سورة الأحقاف",
+        "date": "Wed, 27 Oct 2010 11:46:09 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/046.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "047 - سورة محمد",
+        "date": "Wed, 27 Oct 2010 11:46:08 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/047.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "048 - سورة الفتح",
+        "date": "Wed, 27 Oct 2010 11:46:07 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/048.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "049 - سورة الحجرات",
+        "date": "Wed, 27 Oct 2010 11:46:06 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/049.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "050 - سورة ق",
+        "date": "Wed, 27 Oct 2010 11:46:05 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/050.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "051 - سورة الذاريات",
+        "date": "Wed, 27 Oct 2010 11:46:04 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/051.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "052 - سورة الطور",
+        "date": "Wed, 27 Oct 2010 11:46:03 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/052.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "053 - سورة النجم",
+        "date": "Wed, 27 Oct 2010 11:46:02 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/053.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "054 - سورة القمر",
+        "date": "Wed, 27 Oct 2010 11:46:01 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/054.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "055 - سورة الرحمن",
+        "date": "Wed, 27 Oct 2010 11:46:00 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/055.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "056 - سورة الواقعة",
+        "date": "Wed, 27 Oct 2010 11:45:59 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/056.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "057 - سورة الحديد",
+        "date": "Wed, 27 Oct 2010 11:45:58 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/057.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "058 - سورة المجادلة",
+        "date": "Wed, 27 Oct 2010 11:45:57 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/058.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "059 - سورة الحشر",
+        "date": "Wed, 27 Oct 2010 11:45:56 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/059.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "060 - سورة الممتحنة",
+        "date": "Wed, 27 Oct 2010 11:45:55 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/060.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "061 - سورة الصف",
+        "date": "Wed, 27 Oct 2010 11:45:54 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/061.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "062 - سورة الجمعة",
+        "date": "Wed, 27 Oct 2010 11:45:53 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/062.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "063 - سورة المنافقون",
+        "date": "Wed, 27 Oct 2010 11:45:52 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/063.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "064 - سورة التغابن",
+        "date": "Wed, 27 Oct 2010 11:45:51 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/064.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "065 - سورة الطلاق",
+        "date": "Wed, 27 Oct 2010 11:45:50 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/065.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "066 - سورة التحريم",
+        "date": "Wed, 27 Oct 2010 11:45:49 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/066.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "067 - سورة الملك",
+        "date": "Wed, 27 Oct 2010 11:45:48 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/067.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "068 - سورة القلم",
+        "date": "Wed, 27 Oct 2010 11:45:47 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/068.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "069 - سورة الحاقة",
+        "date": "Wed, 27 Oct 2010 11:45:46 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/069.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "070 - سورة المعارج",
+        "date": "Wed, 27 Oct 2010 11:45:45 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/070.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "071 - سورة نوح",
+        "date": "Wed, 27 Oct 2010 11:45:44 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/071.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "072 - سورة الجن",
+        "date": "Wed, 27 Oct 2010 11:45:43 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/072.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "073 - سورة المزّمّل",
+        "date": "Wed, 27 Oct 2010 11:45:42 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/073.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "074 - سورة المدّثر",
+        "date": "Wed, 27 Oct 2010 11:45:41 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/074.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "075 - سورة القيامة",
+        "date": "Wed, 27 Oct 2010 11:45:40 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/075.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "076 - سورة الإنسان",
+        "date": "Wed, 27 Oct 2010 11:45:39 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/076.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "077 - سورة المرسلات",
+        "date": "Wed, 27 Oct 2010 11:45:38 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/077.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "078 - سورة النبأ",
+        "date": "Wed, 27 Oct 2010 11:45:37 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/078.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "079 - سورة النازعات",
+        "date": "Wed, 27 Oct 2010 11:45:36 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/079.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "080 - سورة عبس ",
+        "date": "Wed, 27 Oct 2010 11:45:35 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/080.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "081 - سورة التكوير",
+        "date": "Wed, 27 Oct 2010 11:45:34 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/081.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "082 - سورة الإنفطار",
+        "date": "Wed, 27 Oct 2010 11:45:33 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/082.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "083 - سورة المطفّفين",
+        "date": "Wed, 27 Oct 2010 11:45:32 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/083.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "084 - سورة الإنشقاق",
+        "date": "Wed, 27 Oct 2010 11:45:31 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/084.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "085 - سورة البروج",
+        "date": "Wed, 27 Oct 2010 11:45:30 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/085.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "086 - سورة الطارق",
+        "date": "Wed, 27 Oct 2010 11:45:29 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/086.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "087 - سورة الأعلى",
+        "date": "Wed, 27 Oct 2010 11:45:28 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/087.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "088 - سورة الغاشية",
+        "date": "Wed, 27 Oct 2010 11:45:27 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/088.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "089 - سورة الفجر",
+        "date": "Wed, 27 Oct 2010 11:45:26 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/089.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "090 - سورة البلد ",
+        "date": "Wed, 27 Oct 2010 11:45:25 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/090.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "091 - سورة الشمس",
+        "date": "Wed, 27 Oct 2010 11:45:24 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/091.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "092 - سورة الليل",
+        "date": "Wed, 27 Oct 2010 11:45:23 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/092.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "093 - سورة الضحى",
+        "date": "Wed, 27 Oct 2010 11:45:22 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/093.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "094 - سورة الشرح",
+        "date": "Wed, 27 Oct 2010 11:45:21 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/094.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "095 - سورة التين",
+        "date": "Wed, 27 Oct 2010 11:45:20 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/095.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "096 - سورة العلق",
+        "date": "Wed, 27 Oct 2010 11:45:19 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/096.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "097 - سورة القدر",
+        "date": "Wed, 27 Oct 2010 11:45:18 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/097.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "098 - سورة البينة",
+        "date": "Wed, 27 Oct 2010 11:45:17 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/098.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "099 - سورة الزلزلة",
+        "date": "Wed, 27 Oct 2010 11:45:16 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/099.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "100 - سورة العاديات ",
+        "date": "Wed, 27 Oct 2010 11:45:15 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/100.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "101 - سورة القارعة",
+        "date": "Wed, 27 Oct 2010 11:45:14 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/101.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "102 - سورة التكاثر",
+        "date": "Wed, 27 Oct 2010 11:45:13 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/102.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "103 - سورة العصر",
+        "date": "Wed, 27 Oct 2010 11:45:12 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/103.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "104 - سورة الهمزة",
+        "date": "Wed, 27 Oct 2010 11:45:11 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/104.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "105 - سورة الفيل",
+        "date": "Wed, 27 Oct 2010 11:45:10 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/105.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "106 - سورة قريش",
+        "date": "Wed, 27 Oct 2010 11:45:09 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/106.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "107 - سورة الماعون",
+        "date": "Wed, 27 Oct 2010 11:45:08 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/107.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "108 - سورة الكوثر",
+        "date": "Wed, 27 Oct 2010 11:45:07 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/108.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "109 - سورة الكافرون",
+        "date": "Wed, 27 Oct 2010 11:45:06 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/109.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "110 - سورة النصر",
+        "date": "Wed, 27 Oct 2010 11:45:05 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/110.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "111 - سورة المسد",
+        "date": "Wed, 27 Oct 2010 11:45:04 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/111.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "112 - سورة الإخلاص",
+        "date": "Wed, 27 Oct 2010 11:45:03 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/112.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "113 - سورة الفلق",
+        "date": "Wed, 27 Oct 2010 11:45:02 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/113.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      },
+      {
+        "title": "114 - سورة النّاس",
+        "date": "Wed, 27 Oct 2010 11:45:01 +0000",
+        "audioUrl": "https://server8.mp3quran.net/afs/114.mp3",
+        "duration": "غير معروف",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/http%3A%2F%2Fwww.mp3quran.net%2Fmp3quran.png"
+      }
+    ]
+  },
+  {
     "id": "1387205785",
     "title": "وعي",
     "author": "Hazem El Seddiq, Ahmed Amer & Sherif Ali",
