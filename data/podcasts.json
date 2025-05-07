@@ -5251,7 +5251,7 @@
         "date": "Wed, 7 May 2025 03:30:00 +0000",
         "audioUrl": "https://cdn.simplecast.com/audio/45b3de59-891d-45aa-aace-aab0e08ce037/episodes/2e911c76-6db6-4455-80ec-9a77f4bd7bef/audio/24b55be8-584f-41c0-910d-8f50a46cb8ab/default_tc.mp3?aid=rss_feed&feed=_rXD2gwQ",
         "duration": "01:58:22",
-        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F09979cc0-bf6a-4df2-8fac-b4cf274dad25%2F9c7fdd74-8fb0-4937-979d-9ec90597a190%2F3000x3000%2F1920x1080.jpg%3Faid%3Drss_feed"
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F09979cc0-bf6a-4df2-8fac-b4cf274dad25%2F91fc3eb6-55cf-4a26-aa21-107e02bde406%2F3000x3000%2Fsa-thumb-05.jpg%3Faid%3Drss_feed"
       },
       {
         "title": "إلى أين يذهب اقتصاد العالم؟ | حمد الماجدي",
@@ -6659,6 +6659,13 @@
     "description": "<p>كل يوم أحد. ضيف معي أنا عبدالرحمن أبومالح. في بودكاست فنجان، سنأخذ من كل مذاق رشفة. لا معايير، ولا مواضيع محددة، لكن الأكيد، هنا كثير من المتعة والفائدة.</p><p><br></p>",
     "category": "غير معروف",
     "episodes": [
+      {
+        "title": "كيف تتجنب الموت المفاجئ ",
+        "date": "Sun, 04 May 2025 03:00:11 GMT",
+        "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/5774/file.mp3?freePart=true",
+        "duration": "01:51:07",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Ffiles.hosting.thmanyah.com%2Fimages%2Fepisodes%2F1745719298825-6504.jpg"
+      },
       {
         "title": "قصة يأجوج ومأجوج كما لم تسمعها من قبل",
         "date": "Wed, 12 Mar 2025 06:00:36 GMT",
