@@ -3464,6 +3464,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "الوصايا العشر",
+        "date": "Sat, 31 May 2025 10:06:26 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2105324271-lubna-90-nalr3w18qojd.mp3",
+        "duration": "00:30:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-QlrxhUTmpktOYoqZ-GP24nw-t3000x3000.jpg"
+      },
+      {
         "title": "العــودة",
         "date": "Sat, 03 May 2025 08:32:24 +0000",
         "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2089295895-lubna-90-tw9u0wswsff5.mp3",
@@ -9640,6 +9647,13 @@
     "description": "بودكاست بطابع اجتماعي، ونفسي، وفلسفي في أحيانٍ أخرى، لوجهة واحدة، وجهة الإثراء الممتع.",
     "category": "غير معروف",
     "episodes": [
+      {
+        "title": "وهم التوقعات",
+        "date": "Sat, 31 May 2025 15:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/7cfd3027-866c-4436-8ea0-63dc34bee978/episodes/bed7f8e9-a495-4033-8e0c-e282fc9cdabf/audio/128/default.mp3?aid=rss_feed&awCollectionId=7cfd3027-866c-4436-8ea0-63dc34bee978&awEpisodeId=bed7f8e9-a495-4033-8e0c-e282fc9cdabf&feed=2pgGD0og",
+        "duration": "00:29:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F82c1362c-6f9c-45b1-b887-dce1ddfb73f7%2F66ae35ae-c397-47d4-ae2c-6e2bc1bd61a3%2F3000x3000%2Fd8-a7-d9-94-d8-a8-d9-88-20-d8-b8-d8-a8-d9-8a-sqr.jpg%3Faid%3Drss_feed"
+      },
       {
         "title": "من قلب الجنون",
         "date": "Sat, 10 May 2025 18:00:00 +0000",
