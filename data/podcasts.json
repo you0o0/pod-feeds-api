@@ -11677,5 +11677,976 @@
         "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-bPLHuI7GziddFvaQ-BWtulg-t3000x3000.jpg"
       }
     ]
+  },
+  {
+    "id": "2130713344",
+    "title": "بودكاست تَنفَّسْ",
+    "author": "مُذكرة تنفَّس",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_nologo%2F43597969%2F8f82dd4bf19ffe43.jpg",
+    "description": "جرعة مواساة صوتية مخصصة للأرواح المتعبة، تنفس واترك كل شيءٍ يذهب في مُذكرة تَنفَّسْ.\n\nتويتر إنستغرام @tanafaspodcast",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "استفهام وتعجب",
+        "date": "Tue, 27 Jun 2023 21:42:44 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554595-44100-2-0f0297afe9fc504e.mp3",
+        "duration": "00:22:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F9dc8ae6f785caf5a.jpg"
+      },
+      {
+        "title": "حلقة خاصة - نفَس",
+        "date": "Wed, 24 May 2023 08:00:18 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554597-44100-2-a9b2dccc5fdf7b01.mp3",
+        "duration": "00:28:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F2639d870c0c04ecf.jpg"
+      },
+      {
+        "title": "نفق الرضا",
+        "date": "Sun, 31 Jul 2022 16:47:48 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554608-44100-2-8f3712b1696ef247.mp3",
+        "duration": "00:19:45",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F4e853675457cecd9.jpg"
+      },
+      {
+        "title": "مُعضِلة",
+        "date": "Mon, 11 Apr 2022 17:57:10 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554598-44100-2-5b71184bf0619dd1.mp3",
+        "duration": "00:20:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F3c03f6bb0bb03d14.jpg"
+      },
+      {
+        "title": "قوقعة",
+        "date": "Wed, 02 Mar 2022 16:50:53 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554601-44100-2-6e42b92ad54d3ded.mp3",
+        "duration": "00:24:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F36ed950999672051.jpg"
+      },
+      {
+        "title": "الوحدة",
+        "date": "Mon, 05 Jul 2021 04:00:50 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145731/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554600-44100-2-d994eff3ea88f7d5.mp3",
+        "duration": "00:34:30",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F95eb71d2ac097e78.jpg"
+      },
+      {
+        "title": "لا تحاول",
+        "date": "Sat, 03 Apr 2021 03:56:39 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554603-44100-2-a183ca5dba4540c5.mp3",
+        "duration": "00:35:08",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F407cca53560c7786.jpg"
+      },
+      {
+        "title": "ابداها صح",
+        "date": "Tue, 02 Feb 2021 03:00:17 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554605-44100-2-c8ea5b481242017d.mp3",
+        "duration": "00:18:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2Fd912100eaddf79fa.jpg"
+      },
+      {
+        "title": "يمكن خيره",
+        "date": "Mon, 28 Dec 2020 17:00:34 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554599-44100-2-4ecd8fcc322611d8.mp3",
+        "duration": "00:16:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F3ff887403f7a4aad.jpg"
+      },
+      {
+        "title": "نفسك اولاً",
+        "date": "Thu, 19 Nov 2020 16:58:33 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145738/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554606-48000-2-a3a84fb00b522d26.mp3",
+        "duration": "00:16:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2Fa1965e66d7e74dce.jpg"
+      },
+      {
+        "title": "ذاك الصديق",
+        "date": "Fri, 30 Oct 2020 16:59:22 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145726/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554596-48000-2-217090dd1663884b.mp3",
+        "duration": "00:09:48",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2Fdec00db79dc7cae0.jpg"
+      },
+      {
+        "title": "خُذ نَفَسْ",
+        "date": "Sat, 17 Oct 2020 00:21:16 GMT",
+        "audioUrl": "https://anchor.fm/s/10475cf24/podcast/play/102145729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-4%2F399554604-48000-2-f173857f6e7f1eb8.mp3",
+        "duration": "00:05:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F43597969%2F1939e0f220f9ea1d.jpg"
+      }
+    ]
+  },
+  {
+    "id": "901963489",
+    "title": "جُرعة أمَل",
+    "author": "AmerAlmasri",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fpodcasts%2FNzQ0MQ%2Fimage.jpg%3Fivc%3D1747337038",
+    "description": "<p>هو بودكاست يحاول فيه كل من المقدم عامر وميسره أن ينشُروا ويتحدّثوا عن كل ما يحدث في داخل الشخص.. فـ كثيرٌ منّا يحتاج جُرعات تحفزنا وتعطينا أملاً يغيرنا ويغير نظرتنا لهذه الحياة.. لو بحثنا كثير أكيد بنلقى هذا الأمل.. ربّما تراكمات داخلية أثّرت على حياة شخص وأخفت هذا الأمل الذي بداخله.. لكن أُمنية – طمُوح – تطلّع – كلها عبارة عن آمال.. أكيد راح تحصلوا عليها بلا شك في \" جُرعة أمَل \" . للإستفسار والمشاركة.. البريد الإلكتروني: jour3tamal@gmail.com حساباتنا بالتواصل الإجتماعي: تويتر: @Jour3tamal إنستقرام: @jour3tamal</p>",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "الهدوء في وسط الفوضَى",
+        "date": "Sun, 04 May 2025 21:03:49 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NTg2MzU/audio.mp3",
+        "duration": "1810",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNTg2MzU%2Fimage.jpg%3Fivc%3D1746392839"
+      },
+      {
+        "title": "الذكاء الاصطناعي وعالمنا",
+        "date": "Sat, 19 Apr 2025 08:33:14 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NTEwMjM/audio.mp3",
+        "duration": "3102",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNTEwMjM%2Fimage.jpg%3Fivc%3D1745051802"
+      },
+      {
+        "title": "أن تكَون معطَاء",
+        "date": "Tue, 04 Mar 2025 01:06:37 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NDY3NzM/audio.mp3",
+        "duration": "3372",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNDY3NzM%2Fimage.jpg%3Fivc%3D1741050550"
+      },
+      {
+        "title": "هاجِس الفقد",
+        "date": "Sun, 16 Feb 2025 16:26:36 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NDU2ODM/audio.mp3",
+        "duration": "3200",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNDU2ODM%2Fimage.jpg%3Fivc%3D1739723398"
+      },
+      {
+        "title": "المُحاربة - صبر مُلهم",
+        "date": "Wed, 05 Feb 2025 11:03:09 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NDM3NTI/audio.mp3",
+        "duration": "6250",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNDM3NTI%2Fimage.jpg%3Fivc%3D1738753731"
+      },
+      {
+        "title": "المُحاربة - رحلة شفاء",
+        "date": "Tue, 28 Jan 2025 10:33:52 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NDI3NTk/audio.mp3",
+        "duration": "4288",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNDI3NTk%2Fimage.jpg%3Fivc%3D1738060524"
+      },
+      {
+        "title": "الكلمَة تغيّر الحياة",
+        "date": "Tue, 14 Jan 2025 01:45:38 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NDIwNzA/audio.mp3",
+        "duration": "3997",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNDIwNzA%2Fimage.jpg%3Fivc%3D1736819327"
+      },
+      {
+        "title": "الصمُود في وجه العواصِف",
+        "date": "Tue, 31 Dec 2024 21:23:49 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NDE1MDk/audio.mp3",
+        "duration": "5459",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNDE1MDk%2Fimage.jpg%3Fivc%3D1735680819"
+      },
+      {
+        "title": "أهلاً بالعودة - عامر وميسره",
+        "date": "Sun, 22 Dec 2024 19:01:07 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/NDEyMTQ/audio.mp3",
+        "duration": "1215",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FNDEyMTQ%2Fimage.jpg%3Fivc%3D1734894115"
+      },
+      {
+        "title": "لا تحزَن",
+        "date": "Sun, 06 Aug 2023 19:51:26 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQyMTk/audio.mp3",
+        "duration": "399",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQyMTk%2Fimage.jpg%3Fivc%3D1744421719"
+      },
+      {
+        "title": "قُل مرحباً للحياة",
+        "date": "Mon, 31 Jul 2023 15:05:42 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQxNzU/audio.mp3",
+        "duration": "307",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQxNzU%2Fimage.jpg%3Fivc%3D1744421719"
+      },
+      {
+        "title": "فُرصة ثانية",
+        "date": "Mon, 24 Jul 2023 12:20:44 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQxMTc/audio.mp3",
+        "duration": "337",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQxMTc%2Fimage.jpg%3Fivc%3D1744421719"
+      },
+      {
+        "title": "حلقة خاصة ",
+        "date": "Fri, 13 Jan 2023 12:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwNzQ/audio.mp3",
+        "duration": "374",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwNzQ%2Fimage.jpg%3Fivc%3D1689871227"
+      },
+      {
+        "title": "تجَاوز الصِعاب",
+        "date": "Sun, 22 May 2022 17:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwNzU/audio.mp3",
+        "duration": "712",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwNzU%2Fimage.jpg%3Fivc%3D1689871230"
+      },
+      {
+        "title": "أنا هُنا..",
+        "date": "Sun, 17 Apr 2022 19:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwNzY/audio.mp3",
+        "duration": "495",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwNzY%2Fimage.jpg%3Fivc%3D1689871232"
+      },
+      {
+        "title": "شهر الخِير",
+        "date": "Sat, 02 Apr 2022 12:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwNzc/audio.mp3",
+        "duration": "385",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwNzc%2Fimage.jpg%3Fivc%3D1689871235"
+      },
+      {
+        "title": "داروا أمُوركم بالكتمَان\"",
+        "date": "Fri, 25 Mar 2022 11:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwNzg/audio.mp3",
+        "duration": "333",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwNzg%2Fimage.jpg%3Fivc%3D1689871237"
+      },
+      {
+        "title": "الدينُ النصيحة",
+        "date": "Sun, 23 Jan 2022 16:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwNzk/audio.mp3",
+        "duration": "490",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwNzk%2Fimage.jpg%3Fivc%3D1689871239"
+      },
+      {
+        "title": "حلم..",
+        "date": "Sun, 10 Oct 2021 18:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODA/audio.mp3",
+        "duration": "656",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODA%2Fimage.jpg%3Fivc%3D1689871242"
+      },
+      {
+        "title": "ربّ أخِ لم تلده أمك",
+        "date": "Wed, 08 Sep 2021 22:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODE/audio.mp3",
+        "duration": "717",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODE%2Fimage.jpg%3Fivc%3D1689871245"
+      },
+      {
+        "title": "ورَقة وقلم",
+        "date": "Sat, 17 Jul 2021 16:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODI/audio.mp3",
+        "duration": "681",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODI%2Fimage.jpg%3Fivc%3D1689871250"
+      },
+      {
+        "title": "أنت المَقصود",
+        "date": "Fri, 02 Jul 2021 17:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODM/audio.mp3",
+        "duration": "441",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODM%2Fimage.jpg%3Fivc%3D1689871253"
+      },
+      {
+        "title": "انتَقد ولكن..",
+        "date": "Wed, 09 Jun 2021 12:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODQ/audio.mp3",
+        "duration": "540",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODQ%2Fimage.jpg%3Fivc%3D1689871258"
+      },
+      {
+        "title": "رِحلة الألف عَثْرة",
+        "date": "Fri, 28 May 2021 18:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODU/audio.mp3",
+        "duration": "678",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODU%2Fimage.jpg%3Fivc%3D1689871264"
+      },
+      {
+        "title": "نبتَة السعادة",
+        "date": "Mon, 10 May 2021 23:15:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODY/audio.mp3",
+        "duration": "532",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODY%2Fimage.jpg%3Fivc%3D1689871266"
+      },
+      {
+        "title": "ليلة خيرٌ من ألف شهر",
+        "date": "Mon, 03 May 2021 03:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODc/audio.mp3",
+        "duration": "584",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODc%2Fimage.jpg%3Fivc%3D1689871271"
+      },
+      {
+        "title": "لعلّهُ خير",
+        "date": "Tue, 27 Apr 2021 23:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODg/audio.mp3",
+        "duration": "516",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODg%2Fimage.jpg%3Fivc%3D1689871274"
+      },
+      {
+        "title": "جُرعة روحانية",
+        "date": "Mon, 12 Apr 2021 15:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwODk/audio.mp3",
+        "duration": "480",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwODk%2Fimage.jpg%3Fivc%3D1689871276"
+      },
+      {
+        "title": "نافِذة على الحياة",
+        "date": "Mon, 05 Apr 2021 22:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwOTA/audio.mp3",
+        "duration": "349",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwOTA%2Fimage.jpg%3Fivc%3D1689972484"
+      },
+      {
+        "title": "جُرعة أمَل؟ ايش هيا؟",
+        "date": "Wed, 31 Mar 2021 22:00:00 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/MTQwOTE/audio.mp3",
+        "duration": "146",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FMTQwOTE%2Fimage.jpg%3Fivc%3D1689970450"
+      }
+    ]
+  },
+  {
+    "id": "708728915",
+    "title": "بودكاست لمبة",
+    "author": "بودكاست لمبة",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F20494633%2F20494633-1640703967425-3aa42391e3189.jpg",
+    "description": "يُضِيء شيء في قلبك وعقلِك.",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "#قدّام | العمر مرة.",
+        "date": "Sat, 10 Feb 2024 16:00:00 GMT",
+        "audioUrl": "https://anchor.fm/s/7ac0ea84/podcast/play/82495932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-10%2F40f42415-a65d-4fd6-9016-f89182ae32e6.mp3",
+        "duration": "00:16:10",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F20494633%2F20494633-1640703967425-3aa42391e3189.jpg"
+      },
+      {
+        "title": "التركيز | جنّة أن تسبح في فلكك.",
+        "date": "Sat, 06 May 2023 16:00:04 GMT",
+        "audioUrl": "https://anchor.fm/s/7ac0ea84/podcast/play/69890471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-9%2F194ff5e6-a2c9-984f-4632-0f597605320f.mp3",
+        "duration": "00:28:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F20494633%2F20494633-1683378711117-edf3303063f3f.jpg"
+      },
+      {
+        "title": "التخفف | لماذا الغِنَى من (الاستغناء) وليس من (الامتلاك) ؟",
+        "date": "Wed, 20 Jul 2022 16:00:46 GMT",
+        "audioUrl": "https://anchor.fm/s/7ac0ea84/podcast/play/55087396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-2%2Fe8d92d1a-03b3-5477-ba73-c04689c5ee6e.mp3",
+        "duration": "00:24:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo%2F20494633%2F20494633-1640703967425-3aa42391e3189.jpg"
+      },
+      {
+        "title": " قوّة أن تعرف قوّتك.",
+        "date": "Sat, 09 Apr 2022 16:00:00 GMT",
+        "audioUrl": "https://anchor.fm/s/7ac0ea84/podcast/play/50354274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-9%2Fda255be5-80ec-1c49-16ad-499191d9b95a.mp3",
+        "duration": "00:16:49",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo400%2F20494633%2F20494633-1640703969443-19e233725ccf7.jpg"
+      },
+      {
+        "title": "الاستمتاع بالرحلة | الفرق بين الناجحين والعالقين.",
+        "date": "Sat, 12 Mar 2022 16:00:07 GMT",
+        "audioUrl": "https://anchor.fm/s/7ac0ea84/podcast/play/48943420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-12%2F75df64cc-626e-e151-b27a-a3d77c5a3a86.mp3",
+        "duration": "00:16:21",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo400%2F20494633%2F20494633-1640703969443-19e233725ccf7.jpg"
+      },
+      {
+        "title": " الحوار الداخلي | من يُدِير حوارك الداخلي؟",
+        "date": "Sat, 15 Jan 2022 18:40:41 GMT",
+        "audioUrl": "https://anchor.fm/s/7ac0ea84/podcast/play/46197461/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-15%2F5cf5812b-a155-cd85-24a7-04b0ef78f567.mp3",
+        "duration": "00:15:48",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_nologo400%2F20494633%2F20494633-1640703969443-19e233725ccf7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "534756130",
+    "title": "مهارات",
+    "author": "Mics | مايكس",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fdd511e59-516d-4f1c-8e64-488db39355c1%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed",
+    "description": "نحن الآن في زمن المهارات.. دعونا نكتسبها سويا",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "مهارة تحمّل المسؤوليّة",
+        "date": "Tue, 6 Feb 2024 13:46:50 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/d5a76aa3-d9ee-4807-885f-3984e0ff5fdc/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=d5a76aa3-d9ee-4807-885f-3984e0ff5fdc&feed=zZp0Oi1o",
+        "duration": "00:40:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2Fad376844-6fef-49a7-942d-b4e75722e0f1%2F3000x3000%2Fmaharat-thumbnail-04.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة صناعة المانجا",
+        "date": "Tue, 23 Jan 2024 13:41:57 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/d333ac4f-dbf7-445a-ad3d-9d90aa7cf3aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=d333ac4f-dbf7-445a-ad3d-9d90aa7cf3aa&feed=zZp0Oi1o",
+        "duration": "00:37:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2F43506c0e-4a36-47ce-ae5f-bb61b2b1847e%2F3000x3000%2Fartboard-1-copy-11-2.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "توصية: بودكاست 1949 | تاريخ الأغنية السعودية",
+        "date": "Wed, 10 Jan 2024 09:21:53 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/d1cfa6ae-88c7-4aea-99bc-cb41e1a3224c/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=d1cfa6ae-88c7-4aea-99bc-cb41e1a3224c&feed=zZp0Oi1o",
+        "duration": "00:01:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fdd511e59-516d-4f1c-8e64-488db39355c1%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارات نفسية",
+        "date": "Tue, 9 Jan 2024 07:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/4648764c-1049-4884-b240-219c8bf87947/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=4648764c-1049-4884-b240-219c8bf87947&feed=zZp0Oi1o",
+        "duration": "00:34:44",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2F035be011-48aa-4581-a690-73452a50c541%2F3000x3000%2Fartboard-1-copy-11.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة الكشخة بالثوب السعودي",
+        "date": "Tue, 26 Dec 2023 11:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/50ba647a-b864-42ff-aa6c-93ad38721204/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=50ba647a-b864-42ff-aa6c-93ad38721204&feed=zZp0Oi1o",
+        "duration": "00:32:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2F72fc0a5e-4803-423e-8620-81a70bffcedc%2F3000x3000%2Fmaharat-thumbnail-01-3.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة التصميم المعماري",
+        "date": "Tue, 12 Dec 2023 08:42:32 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/957adc7e-6aaf-4217-a2d4-a2296d79864a/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=957adc7e-6aaf-4217-a2d4-a2296d79864a&feed=zZp0Oi1o",
+        "duration": "00:48:32",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2Fd91d80b5-3edf-4600-b85f-fe0bb5622cc0%2F3000x3000%2Fmaharat-thumbnail-01-1.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة التعليق الصوتي",
+        "date": "Wed, 29 Nov 2023 09:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/7775d735-2db0-4f9d-a0ed-8000c075c559/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=7775d735-2db0-4f9d-a0ed-8000c075c559&feed=zZp0Oi1o",
+        "duration": "00:22:34",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2Fa11ca03d-badd-45cf-bd33-82bba3aeac90%2F3000x3000%2Fmaharat-thumbnail-01-1.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة التأليف",
+        "date": "Tue, 14 Nov 2023 09:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/d4796e07-0972-40fe-8de6-90ade2c02819/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=d4796e07-0972-40fe-8de6-90ade2c02819&feed=zZp0Oi1o",
+        "duration": "00:38:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2Ff6a8be31-a222-4d63-a33f-cc31db460754%2F3000x3000%2Fmaharat-thumbnail-11.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة صناعة الأفلام القصيرة",
+        "date": "Tue, 31 Oct 2023 09:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/afa62684-ea75-4f81-914b-ff71561526b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=afa62684-ea75-4f81-914b-ff71561526b4&feed=zZp0Oi1o",
+        "duration": "00:45:40",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2Fce8d4539-4514-4fe6-a830-16b6f13d47a0%2F3000x3000%2Fmaharat-thumbnail-01.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة التحليق بالخيال",
+        "date": "Tue, 17 Oct 2023 09:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/a6f9abcd-cbe6-427a-9468-91a132480b5a/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=a6f9abcd-cbe6-427a-9468-91a132480b5a&feed=zZp0Oi1o",
+        "duration": "00:33:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2F1917a95a-b080-44b7-9c89-4bf4b67035ad%2F3000x3000%2Fmaharat-thumbnail-12.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة الذكاء الاصطناعي مع عبدالله السبع",
+        "date": "Tue, 3 Oct 2023 09:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/aa4bc541-ddce-4c0d-8d6e-05e294900da6/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=aa4bc541-ddce-4c0d-8d6e-05e294900da6&feed=zZp0Oi1o",
+        "duration": "00:32:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2F480b2b3e-b61b-454d-b487-e7249d16ff69%2F3000x3000%2Fmaharat-thumbnail-02.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "كيف تكتب؟ مع أسامة المسلم",
+        "date": "Tue, 19 Sep 2023 09:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/34797baa-de12-4ca9-a37d-c810a1389b9a/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=34797baa-de12-4ca9-a37d-c810a1389b9a&feed=zZp0Oi1o",
+        "duration": "00:28:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F9c47b17a-a718-4094-99e2-3fd5d2eaa95e%2Fbaf3fa0d-ce97-43b9-883f-32545dfc2448%2F3000x3000%2Fmaharat-thumbnail-08.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة تقمص الأدوار",
+        "date": "Tue, 5 Sep 2023 06:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/869c8d41-2c5e-4306-9fd8-70aa42f27118/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=869c8d41-2c5e-4306-9fd8-70aa42f27118&feed=zZp0Oi1o",
+        "duration": "00:27:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F869c8d41-2c5e-4306-9fd8-70aa42f27118%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "مهارة صناعة المال",
+        "date": "Tue, 22 Aug 2023 12:21:14 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/d2c91fa6-d8f7-466f-ae4e-a83e5cb7f9d5/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=d2c91fa6-d8f7-466f-ae4e-a83e5cb7f9d5&feed=zZp0Oi1o",
+        "duration": "00:34:40",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fd2c91fa6-d8f7-466f-ae4e-a83e5cb7f9d5%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "71- التخطيط المالي الشخصي مع عاصم الرحيلي",
+        "date": "Tue, 24 Jan 2023 13:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/83678273-bb3c-47ae-bd88-805b2ebe7f2c/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=83678273-bb3c-47ae-bd88-805b2ebe7f2c&feed=zZp0Oi1o",
+        "duration": "00:38:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F83678273-bb3c-47ae-bd88-805b2ebe7f2c%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "70- كيف نختار؟ مع إيمان النجم",
+        "date": "Tue, 10 Jan 2023 16:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/75739b39-a539-483a-ab96-605584d1c9ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=75739b39-a539-483a-ab96-605584d1c9ca&feed=zZp0Oi1o",
+        "duration": "00:22:23",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F75739b39-a539-483a-ab96-605584d1c9ca%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "69- كيف نكتسب مهارة التغيير؟ مع مهند النعيمي",
+        "date": "Tue, 27 Dec 2022 16:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/1b19052a-67a6-4e66-adca-764da2fb7db1/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=1b19052a-67a6-4e66-adca-764da2fb7db1&feed=zZp0Oi1o",
+        "duration": "00:16:54",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F1b19052a-67a6-4e66-adca-764da2fb7db1%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "68- مهارة الانتقال مع محمد النحيت",
+        "date": "Tue, 13 Dec 2022 16:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/499937f4-a791-426c-9ece-e69a81d53ef3/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=499937f4-a791-426c-9ece-e69a81d53ef3&feed=zZp0Oi1o",
+        "duration": "00:25:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F499937f4-a791-426c-9ece-e69a81d53ef3%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "67- كيف تصبح إعلاميًا ناجحًا؟ مع بركات الوقيان",
+        "date": "Tue, 29 Nov 2022 16:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/dfaa9bc5-2683-4748-8f7d-649054c8e32c/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=dfaa9bc5-2683-4748-8f7d-649054c8e32c&feed=zZp0Oi1o",
+        "duration": "00:23:53",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fdfaa9bc5-2683-4748-8f7d-649054c8e32c%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "66- كيف تُصبح أفضل موظف في العالم؟ مع عمر العريفي",
+        "date": "Tue, 15 Nov 2022 12:48:44 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/ea353389-59af-405c-a370-bfaaea355bee/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=ea353389-59af-405c-a370-bfaaea355bee&feed=zZp0Oi1o",
+        "duration": "00:30:57",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fea353389-59af-405c-a370-bfaaea355bee%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "65- في التجربة حياة مع عمر فاروق",
+        "date": "Wed, 2 Nov 2022 13:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/6d68a216-8ba2-41e7-bc3c-cc3935610462/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=6d68a216-8ba2-41e7-bc3c-cc3935610462&feed=zZp0Oi1o",
+        "duration": "00:22:46",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F6d68a216-8ba2-41e7-bc3c-cc3935610462%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "64- مهارة إدارة المال مع أحمد المرزوقي",
+        "date": "Tue, 18 Oct 2022 12:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/2a54adf9-b094-4d38-a97c-c84299821e22/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=2a54adf9-b094-4d38-a97c-c84299821e22&feed=zZp0Oi1o",
+        "duration": "00:28:30",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F2a54adf9-b094-4d38-a97c-c84299821e22%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "63- فنون الحوار مع منتهى الرمحي",
+        "date": "Tue, 4 Oct 2022 13:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/495a4d1c-4630-48d8-b595-7b3c1f37276d/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=495a4d1c-4630-48d8-b595-7b3c1f37276d&feed=zZp0Oi1o",
+        "duration": "00:20:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F495a4d1c-4630-48d8-b595-7b3c1f37276d%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "62- كيف نكتسب المهارات؟ مع عمار شهاب",
+        "date": "Tue, 20 Sep 2022 12:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/2e655657-5934-4365-87b0-ad6281065046/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=2e655657-5934-4365-87b0-ad6281065046&feed=zZp0Oi1o",
+        "duration": "00:21:50",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F2e655657-5934-4365-87b0-ad6281065046%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "61- كيف تُصنع الأفكار؟  تجارب من ميدياثون",
+        "date": "Tue, 13 Sep 2022 15:37:46 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/17f72d49-5fd8-4446-aea8-4f896f438386/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=17f72d49-5fd8-4446-aea8-4f896f438386&feed=zZp0Oi1o",
+        "duration": "00:33:19",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F17f72d49-5fd8-4446-aea8-4f896f438386%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "60- ​​كيف تساعدنا تجارب الآخرين في التطور؟",
+        "date": "Tue, 6 Sep 2022 16:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/3c944ab6-b5a5-463c-8755-f0b99a01980a/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=3c944ab6-b5a5-463c-8755-f0b99a01980a&feed=zZp0Oi1o",
+        "duration": "00:07:07",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F3c944ab6-b5a5-463c-8755-f0b99a01980a%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "59- إدارة الوقت",
+        "date": "Tue, 12 Apr 2022 16:51:38 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/67725dfe-15b5-454f-b2dc-cae1f6eaec06/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=67725dfe-15b5-454f-b2dc-cae1f6eaec06&feed=zZp0Oi1o",
+        "duration": "00:10:44",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F67725dfe-15b5-454f-b2dc-cae1f6eaec06%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "58- الإيجابية في حياتنا",
+        "date": "Tue, 29 Mar 2022 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/5f993760-c225-4b36-a98b-30e92368f7f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=5f993760-c225-4b36-a98b-30e92368f7f4&feed=zZp0Oi1o",
+        "duration": "00:12:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F5f993760-c225-4b36-a98b-30e92368f7f4%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "57- الاحترافية",
+        "date": "Tue, 22 Mar 2022 10:36:16 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/fa5a8ef1-47b3-4f4c-bc5c-3ea10c515420/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=fa5a8ef1-47b3-4f4c-bc5c-3ea10c515420&feed=zZp0Oi1o",
+        "duration": "00:09:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Ffa5a8ef1-47b3-4f4c-bc5c-3ea10c515420%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "56- مهارة المرونة",
+        "date": "Tue, 15 Mar 2022 07:38:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/f0613978-074a-4155-851d-98e623a71cd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=f0613978-074a-4155-851d-98e623a71cd3&feed=zZp0Oi1o",
+        "duration": "00:14:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Ff0613978-074a-4155-851d-98e623a71cd3%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "55- اتخاذ القرار",
+        "date": "Tue, 1 Mar 2022 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/5d75b75d-85d2-40f6-8d6a-70e1dc231bbb/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=5d75b75d-85d2-40f6-8d6a-70e1dc231bbb&feed=zZp0Oi1o",
+        "duration": "00:09:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F5d75b75d-85d2-40f6-8d6a-70e1dc231bbb%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "54- أكثر من حياة",
+        "date": "Thu, 14 Oct 2021 15:06:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/75196104-62e2-4c8b-8d0d-1793a6e722af/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=75196104-62e2-4c8b-8d0d-1793a6e722af&feed=zZp0Oi1o",
+        "duration": "00:08:31",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F75196104-62e2-4c8b-8d0d-1793a6e722af%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "53- مهارة التركيز",
+        "date": "Wed, 7 Jul 2021 17:36:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/dd494a31-e6ce-4767-9f8d-9a3a57f64f33/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=dd494a31-e6ce-4767-9f8d-9a3a57f64f33&feed=zZp0Oi1o",
+        "duration": "00:17:53",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fdd494a31-e6ce-4767-9f8d-9a3a57f64f33%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "52- مهارات التفكير",
+        "date": "Tue, 8 Jun 2021 10:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/abf2f148-af1e-4d53-915e-69d41a528d97/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=abf2f148-af1e-4d53-915e-69d41a528d97&feed=zZp0Oi1o",
+        "duration": "00:11:13",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fabf2f148-af1e-4d53-915e-69d41a528d97%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "51- الذكاء العاطفي",
+        "date": "Tue, 1 Jun 2021 12:34:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/b7b1e025-8ea8-472f-98d2-0e30236df3d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=b7b1e025-8ea8-472f-98d2-0e30236df3d3&feed=zZp0Oi1o",
+        "duration": "00:12:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fb7b1e025-8ea8-472f-98d2-0e30236df3d3%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "49- بناء العلاقات",
+        "date": "Tue, 23 Mar 2021 11:06:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/c96cce7d-c407-4b60-901c-b2d16c2dbbc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=c96cce7d-c407-4b60-901c-b2d16c2dbbc4&feed=zZp0Oi1o",
+        "duration": "00:11:32",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fc96cce7d-c407-4b60-901c-b2d16c2dbbc4%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "48- تسويق الذات",
+        "date": "Mon, 8 Mar 2021 09:22:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/8d776583-6daa-4904-b21f-75a51fb6b69a/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=8d776583-6daa-4904-b21f-75a51fb6b69a&feed=zZp0Oi1o",
+        "duration": "00:10:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F8d776583-6daa-4904-b21f-75a51fb6b69a%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "47- حل المشكلات",
+        "date": "Tue, 2 Mar 2021 11:38:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/8a7501de-781a-4592-a224-46d7ec5545ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=8a7501de-781a-4592-a224-46d7ec5545ca&feed=zZp0Oi1o",
+        "duration": "00:10:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F8a7501de-781a-4592-a224-46d7ec5545ca%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "46- خطتك الشخصية",
+        "date": "Tue, 23 Feb 2021 08:29:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/dd6e3f29-8e69-40b4-be33-af4fca707f56/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=dd6e3f29-8e69-40b4-be33-af4fca707f56&feed=zZp0Oi1o",
+        "duration": "00:12:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fdd6e3f29-8e69-40b4-be33-af4fca707f56%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "45- المهارات الناعمة",
+        "date": "Tue, 16 Feb 2021 10:22:48 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/e3994f9d-1b5e-4dd2-9375-151089aa6e94/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=e3994f9d-1b5e-4dd2-9375-151089aa6e94&feed=zZp0Oi1o",
+        "duration": "00:08:19",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fe3994f9d-1b5e-4dd2-9375-151089aa6e94%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "44- 7 أخطاء",
+        "date": "Mon, 18 Jan 2021 08:40:13 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/04f85da3-f8f0-47de-9738-0bfba8a96bd4/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=04f85da3-f8f0-47de-9738-0bfba8a96bd4&feed=zZp0Oi1o",
+        "duration": "00:08:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F04f85da3-f8f0-47de-9738-0bfba8a96bd4%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "43- النشر بذكاء",
+        "date": "Tue, 24 Nov 2020 14:56:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/2e9f62d6-ab14-41fb-a1e3-0bf71c08602f/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=2e9f62d6-ab14-41fb-a1e3-0bf71c08602f&feed=zZp0Oi1o",
+        "duration": "00:07:01",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F2e9f62d6-ab14-41fb-a1e3-0bf71c08602f%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "بودكاست القمة G20",
+        "date": "Sat, 21 Nov 2020 11:01:32 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/be8f2641-2628-4e46-8610-c25e23c20997/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=be8f2641-2628-4e46-8610-c25e23c20997&feed=zZp0Oi1o",
+        "duration": "00:01:18",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fbe8f2641-2628-4e46-8610-c25e23c20997%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "42- الجاذبية",
+        "date": "Tue, 17 Nov 2020 15:10:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/f979feb5-711b-4dcb-b014-d41f6798d034/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=f979feb5-711b-4dcb-b014-d41f6798d034&feed=zZp0Oi1o",
+        "duration": "00:07:47",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Ff979feb5-711b-4dcb-b014-d41f6798d034%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "41- الإيجاز إعجاز",
+        "date": "Tue, 10 Nov 2020 09:10:31 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/97eb9a70-6d93-41a3-a5bf-26a7cb7444f8/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=97eb9a70-6d93-41a3-a5bf-26a7cb7444f8&feed=zZp0Oi1o",
+        "duration": "00:05:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F97eb9a70-6d93-41a3-a5bf-26a7cb7444f8%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "40- فيلم المعضلة الاجتماعية",
+        "date": "Tue, 3 Nov 2020 01:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/d101301d-4447-419d-bff1-490c10a6a9ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=d101301d-4447-419d-bff1-490c10a6a9ab&feed=zZp0Oi1o",
+        "duration": "00:09:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fd101301d-4447-419d-bff1-490c10a6a9ab%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "39-  الرسائل الخفية في الإعلام",
+        "date": "Tue, 20 Oct 2020 09:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/c18ef642-0828-47ec-ae4c-9f769825ab56/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=c18ef642-0828-47ec-ae4c-9f769825ab56&feed=zZp0Oi1o",
+        "duration": "00:11:27",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fc18ef642-0828-47ec-ae4c-9f769825ab56%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "38- 10 خطوات لصناعة محتوى إبداعي",
+        "date": "Tue, 13 Oct 2020 07:56:47 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/3a60e33d-72a0-41f5-ad13-ead797ed2b10/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=3a60e33d-72a0-41f5-ad13-ead797ed2b10&feed=zZp0Oi1o",
+        "duration": "00:07:57",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F3a60e33d-72a0-41f5-ad13-ead797ed2b10%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "37- مراحل الكتابة",
+        "date": "Tue, 6 Oct 2020 07:40:40 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/71461307-df96-4827-a9bc-c5e858283599/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=71461307-df96-4827-a9bc-c5e858283599&feed=zZp0Oi1o",
+        "duration": "00:11:32",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F71461307-df96-4827-a9bc-c5e858283599%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "35- الهوية الرقمية",
+        "date": "Tue, 29 Sep 2020 10:29:10 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/0d89efdf-82ed-427a-a722-192276d559c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=0d89efdf-82ed-427a-a722-192276d559c2&feed=zZp0Oi1o",
+        "duration": "00:13:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F0d89efdf-82ed-427a-a722-192276d559c2%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "34- الخيال",
+        "date": "Tue, 15 Sep 2020 04:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/b6731c5a-7582-47eb-a974-a157698eac6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=b6731c5a-7582-47eb-a974-a157698eac6a&feed=zZp0Oi1o",
+        "duration": "00:09:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fb6731c5a-7582-47eb-a974-a157698eac6a%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "33- صانع المحتوى",
+        "date": "Tue, 8 Sep 2020 06:33:59 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/972841f7-bf1c-4450-a0f7-e97c3cda5946/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=972841f7-bf1c-4450-a0f7-e97c3cda5946&feed=zZp0Oi1o",
+        "duration": "00:07:31",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F972841f7-bf1c-4450-a0f7-e97c3cda5946%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "32- صناعة المحتوى",
+        "date": "Tue, 1 Sep 2020 09:13:21 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/e6bc0db9-3602-4931-9e95-fdb9850b2c67/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=e6bc0db9-3602-4931-9e95-fdb9850b2c67&feed=zZp0Oi1o",
+        "duration": "00:07:13",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fe6bc0db9-3602-4931-9e95-fdb9850b2c67%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "31- هندسة الجماهير",
+        "date": "Tue, 25 Aug 2020 08:33:47 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/685a7f85-d19b-4d92-b987-8e2db7666e6f/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=685a7f85-d19b-4d92-b987-8e2db7666e6f&feed=zZp0Oi1o",
+        "duration": "00:13:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F685a7f85-d19b-4d92-b987-8e2db7666e6f%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "30- صناعة التأثير",
+        "date": "Tue, 18 Aug 2020 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/b59a5e04-6607-42a5-bf02-d1ac40de2188/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=b59a5e04-6607-42a5-bf02-d1ac40de2188&feed=zZp0Oi1o",
+        "duration": "00:07:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fb59a5e04-6607-42a5-bf02-d1ac40de2188%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "29- مهارات منزلية",
+        "date": "Sun, 12 Apr 2020 20:33:30 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/4b7d6e1a-6a86-4de5-bf73-35e79cfa5433/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=4b7d6e1a-6a86-4de5-bf73-35e79cfa5433&feed=zZp0Oi1o",
+        "duration": "00:11:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F4b7d6e1a-6a86-4de5-bf73-35e79cfa5433%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "28- مهارات ( كورونا )",
+        "date": "Sun, 22 Mar 2020 17:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/c9fd102b-0b3e-4502-8f02-e266f49ad5b3/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=c9fd102b-0b3e-4502-8f02-e266f49ad5b3&feed=zZp0Oi1o",
+        "duration": "00:08:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fc9fd102b-0b3e-4502-8f02-e266f49ad5b3%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "27- كيف أعرف مقدار الكاريزما لدي؟",
+        "date": "Sun, 15 Dec 2019 11:53:22 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/c027f72c-0fad-4c92-b6ac-fb616ce9adcb/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=c027f72c-0fad-4c92-b6ac-fb616ce9adcb&feed=zZp0Oi1o",
+        "duration": "00:07:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fc027f72c-0fad-4c92-b6ac-fb616ce9adcb%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "26- كيف أكون واثقاً من نفسي",
+        "date": "Sun, 8 Dec 2019 19:45:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/12e678c9-50e5-4a79-ab05-d96c8f3b5d7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=12e678c9-50e5-4a79-ab05-d96c8f3b5d7b&feed=zZp0Oi1o",
+        "duration": "00:06:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F12e678c9-50e5-4a79-ab05-d96c8f3b5d7b%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "25- الحوار بذكاء",
+        "date": "Mon, 2 Dec 2019 02:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/4254b5d2-f710-4d55-bb14-0b962b17e50c/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=4254b5d2-f710-4d55-bb14-0b962b17e50c&feed=zZp0Oi1o",
+        "duration": "00:08:22",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F4254b5d2-f710-4d55-bb14-0b962b17e50c%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "24- الكاريزما الوظيفية",
+        "date": "Mon, 25 Nov 2019 13:15:39 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/fde3e0aa-044d-4e56-87b4-f0d46479c6ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=fde3e0aa-044d-4e56-87b4-f0d46479c6ae&feed=zZp0Oi1o",
+        "duration": "00:05:43",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Ffde3e0aa-044d-4e56-87b4-f0d46479c6ae%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "23- رفع المعنويات",
+        "date": "Mon, 4 Nov 2019 10:57:22 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/2d751bd0-3469-4705-b4c7-d58f67bee0e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=2d751bd0-3469-4705-b4c7-d58f67bee0e1&feed=zZp0Oi1o",
+        "duration": "00:10:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F2d751bd0-3469-4705-b4c7-d58f67bee0e1%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "22- تحفيز الذات",
+        "date": "Mon, 28 Oct 2019 02:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/21c03c94-1052-49c3-825a-93e787ded932/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=21c03c94-1052-49c3-825a-93e787ded932&feed=zZp0Oi1o",
+        "duration": "00:09:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F21c03c94-1052-49c3-825a-93e787ded932%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "21- تقنية \"أوتوجينك\"",
+        "date": "Mon, 21 Oct 2019 10:34:49 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/57613ef7-7668-46a7-88b3-44af293b8925/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=57613ef7-7668-46a7-88b3-44af293b8925&feed=zZp0Oi1o",
+        "duration": "00:07:50",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F57613ef7-7668-46a7-88b3-44af293b8925%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "20- طائرة بوينغ 747",
+        "date": "Mon, 14 Oct 2019 10:24:58 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/a7938ec1-96de-4f44-b34d-29cdf7f5a8b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=a7938ec1-96de-4f44-b34d-29cdf7f5a8b6&feed=zZp0Oi1o",
+        "duration": "00:07:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fa7938ec1-96de-4f44-b34d-29cdf7f5a8b6%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "19- صفات أصحاب الكاريزما",
+        "date": "Mon, 7 Oct 2019 02:30:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/8486a697-16f0-42bc-9305-a6800b6ab57f/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=8486a697-16f0-42bc-9305-a6800b6ab57f&feed=zZp0Oi1o",
+        "duration": "00:09:56",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F8486a697-16f0-42bc-9305-a6800b6ab57f%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "18- أنصاف الآلهة",
+        "date": "Mon, 30 Sep 2019 14:28:11 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/6b32c45f-4d12-4d67-aae7-577383374f30/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=6b32c45f-4d12-4d67-aae7-577383374f30&feed=zZp0Oi1o",
+        "duration": "00:08:57",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F6b32c45f-4d12-4d67-aae7-577383374f30%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "17- كيف تميّز الكاريزما؟",
+        "date": "Tue, 24 Sep 2019 09:41:31 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/04e43eb6-0fa9-45cc-83e5-8e4d38b8a009/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=04e43eb6-0fa9-45cc-83e5-8e4d38b8a009&feed=zZp0Oi1o",
+        "duration": "00:07:28",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F04e43eb6-0fa9-45cc-83e5-8e4d38b8a009%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "16- الكاريزما",
+        "date": "Mon, 16 Sep 2019 09:27:40 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/7d151224-b6c7-435f-9d7b-4a6cae8721ff/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=7d151224-b6c7-435f-9d7b-4a6cae8721ff&feed=zZp0Oi1o",
+        "duration": "00:07:06",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F7d151224-b6c7-435f-9d7b-4a6cae8721ff%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "دعوة | تدشين الموسم الثاني",
+        "date": "Wed, 4 Sep 2019 13:12:40 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/0084e3be-1e61-436b-b21e-cfee5955a363/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=0084e3be-1e61-436b-b21e-cfee5955a363&feed=zZp0Oi1o",
+        "duration": "00:01:00",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F0084e3be-1e61-436b-b21e-cfee5955a363%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "15- مهارات إلقائية",
+        "date": "Tue, 26 Mar 2019 11:48:42 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/b06f5168-de2a-4bcb-ac26-61260c90132e/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=b06f5168-de2a-4bcb-ac26-61260c90132e&feed=zZp0Oi1o",
+        "duration": "00:07:49",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fb06f5168-de2a-4bcb-ac26-61260c90132e%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "14- ماذا تفعل عند الخوف والارتباك؟",
+        "date": "Tue, 19 Mar 2019 09:11:34 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/6eb88789-1bdf-4060-a561-fc02a7de4813/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=6eb88789-1bdf-4060-a561-fc02a7de4813&feed=zZp0Oi1o",
+        "duration": "00:09:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F6eb88789-1bdf-4060-a561-fc02a7de4813%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "13- السرعة الإلقائية",
+        "date": "Tue, 12 Mar 2019 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/72196d43-c903-4e58-b988-9bfa77c0e444/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=72196d43-c903-4e58-b988-9bfa77c0e444&feed=zZp0Oi1o",
+        "duration": "00:08:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F72196d43-c903-4e58-b988-9bfa77c0e444%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "12- مهارات الصوت",
+        "date": "Tue, 5 Mar 2019 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/ac41a625-3b1c-464f-ba11-7ffc5894b16d/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=ac41a625-3b1c-464f-ba11-7ffc5894b16d&feed=zZp0Oi1o",
+        "duration": "00:10:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fac41a625-3b1c-464f-ba11-7ffc5894b16d%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "11- لغة الجسد",
+        "date": "Tue, 26 Feb 2019 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/7efd8124-b78a-431f-9eaa-00db4f9933c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=7efd8124-b78a-431f-9eaa-00db4f9933c4&feed=zZp0Oi1o",
+        "duration": "00:13:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F7efd8124-b78a-431f-9eaa-00db4f9933c4%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "10- البداية الجذابة",
+        "date": "Tue, 19 Feb 2019 05:57:36 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/551f4b10-90c3-491e-b54b-55adcf04bb50/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=551f4b10-90c3-491e-b54b-55adcf04bb50&feed=zZp0Oi1o",
+        "duration": "00:10:29",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F551f4b10-90c3-491e-b54b-55adcf04bb50%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "9- أهمية التحضير قبل الإلقاء",
+        "date": "Tue, 12 Feb 2019 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/ce79a07c-ba29-4e99-9d6d-11f22ae56e8f/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=ce79a07c-ba29-4e99-9d6d-11f22ae56e8f&feed=zZp0Oi1o",
+        "duration": "00:10:22",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fce79a07c-ba29-4e99-9d6d-11f22ae56e8f%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "8- مرحلة الإعداد",
+        "date": "Tue, 5 Feb 2019 03:00:00 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/e0f6d68b-e84c-4edf-a31b-83c2da6a8ce7/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=e0f6d68b-e84c-4edf-a31b-83c2da6a8ce7&feed=zZp0Oi1o",
+        "duration": "00:06:55",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fe0f6d68b-e84c-4edf-a31b-83c2da6a8ce7%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "7- اختيار العنوان",
+        "date": "Wed, 30 Jan 2019 06:31:59 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/92f11671-7254-4821-b557-c62781b00446/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=92f11671-7254-4821-b557-c62781b00446&feed=zZp0Oi1o",
+        "duration": "00:09:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F92f11671-7254-4821-b557-c62781b00446%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "6-كيف تعد وتحضر موضوعاً ناجحا؟",
+        "date": "Mon, 21 Jan 2019 13:13:10 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/7393fc71-173a-40e0-a51b-3943d3e28791/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=7393fc71-173a-40e0-a51b-3943d3e28791&feed=zZp0Oi1o",
+        "duration": "00:08:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F7393fc71-173a-40e0-a51b-3943d3e28791%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "5- تحقيق الهدف",
+        "date": "Tue, 15 Jan 2019 08:24:21 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/bae08997-b8bb-4c94-93f0-35ca7cda9772/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=bae08997-b8bb-4c94-93f0-35ca7cda9772&feed=zZp0Oi1o",
+        "duration": "00:07:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fbae08997-b8bb-4c94-93f0-35ca7cda9772%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "4- قبل الإلقاء",
+        "date": "Tue, 8 Jan 2019 06:25:07 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/c3920fa1-fee0-46a3-b510-1aa8930bbe2b/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=c3920fa1-fee0-46a3-b510-1aa8930bbe2b&feed=zZp0Oi1o",
+        "duration": "00:07:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2Fc3920fa1-fee0-46a3-b510-1aa8930bbe2b%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "3- صفات الملقي المتميز",
+        "date": "Wed, 2 Jan 2019 06:38:03 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/5a1d34f7-7885-4d72-9d67-7ed2e69a3ab3/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=5a1d34f7-7885-4d72-9d67-7ed2e69a3ab3&feed=zZp0Oi1o",
+        "duration": "00:09:38",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F5a1d34f7-7885-4d72-9d67-7ed2e69a3ab3%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "2- هل يمكن تعلم الإلقاء؟",
+        "date": "Mon, 24 Dec 2018 11:38:55 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/97637bb0-6439-4bf5-a56d-6ae6fc15dc68/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=97637bb0-6439-4bf5-a56d-6ae6fc15dc68&feed=zZp0Oi1o",
+        "duration": "00:10:05",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F97637bb0-6439-4bf5-a56d-6ae6fc15dc68%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      },
+      {
+        "title": "1- أهمية الإلقاء",
+        "date": "Wed, 7 Nov 2018 15:12:58 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/5ca44612-a4a2-4152-82f3-ad0e77a12b2b/episodes/8f78ae5d-e352-4d6b-bb3d-da7a44cc0d50/audio/128/default.mp3?aid=rss_feed&awCollectionId=5ca44612-a4a2-4152-82f3-ad0e77a12b2b&awEpisodeId=8f78ae5d-e352-4d6b-bb3d-da7a44cc0d50&feed=zZp0Oi1o",
+        "duration": "00:07:08",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5ca446%2F5ca44612-a4a2-4152-82f3-ad0e77a12b2b%2F8f78ae5d-e352-4d6b-bb3d-da7a44cc0d50%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed"
+      }
+    ]
   }
 ]
