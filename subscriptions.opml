@@ -20,5 +20,9 @@
     <outline text="كنبة السبت" title="كنبة السبت" type="rss" xmlUrl="https://feeds.simplecast.com/2pgGD0og" />
     <outline text="مشاري العفاسي - Mishary Alafasi |" title="مشاري العفاسي - Mishary Alafasi |" type="rss" xmlUrl="https://www.mp3quran.net/podcast/afs.txt" />
     <outline text="وعي" title="وعي" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:1073536591/sounds.rss" />
+    <outline xmlUrl="https://anchor.fm/s/10475cf24/podcast/rss" />
+    <outline xmlUrl="https://media.podeo.co/rss/NzQ0MQ" />
+    <outline xmlUrl="https://anchor.fm/s/7ac0ea84/podcast/rss" />
+    <outline xmlUrl="https://feeds.simplecast.com/zZp0Oi1o" />
   </body>
 </opml>
