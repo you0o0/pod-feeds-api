@@ -6940,6 +6940,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "لماذا تقدم الخليج وتأخر اليمن",
+        "date": "Wed, 13 Aug 2025 03:00:14 GMT",
+        "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6320/file.mp3?freePart=true",
+        "duration": "02:30:07",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Ffiles.hosting.thmanyah.com%2Fimages%2Fepisodes%2F1754380718243-7521.jpg"
+      },
+      {
         "title": "أين المعنى في هذه الحياة",
         "date": "Sun, 08 Jun 2025 03:00:34 GMT",
         "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6040/file.mp3",
