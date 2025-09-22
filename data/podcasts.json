@@ -2208,6 +2208,338 @@
     ]
   },
   {
+    "id": "1629908866",
+    "title": "Droos Podcast - بودكاست دروس ",
+    "author": "Ahmed Abouzaid",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded%2F18777679%2F18777679-1634741485692-9d7045931db48.jpg",
+    "description": "هذا البودكاست، الغرض منه هو مشاركة التجارب الملهمة والمختلفة معكم من أجل أن تعم الفائدة. ",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "هشام عفيفي: لماذا نحب هذا الشخص؟",
+        "date": "Tue, 26 Aug 2025 13:26:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/107276084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-24%2F406190545-44100-2-c04153bf20703.mp3",
+        "duration": "04:06:14",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1756042008449-0ece7f15fe128.jpg"
+      },
+      {
+        "title": "المصطبة: ماذا ما بعد الثانوية؟",
+        "date": "Thu, 14 Aug 2025 16:41:46 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/106866546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-14%2F405663821-44100-2-d1f3405f7803a.mp3",
+        "duration": "03:12:46",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1755186534956-e6506e4975b98.jpg"
+      },
+      {
+        "title": "أحمد عامر: السعادة الحقيقية في الدين",
+        "date": "Mon, 11 Aug 2025 11:15:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/106674546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-10%2F405417117-44100-2-5d3bb405f8a06.mp3",
+        "duration": "02:56:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1754824766378-b3967efd275a4.jpg"
+      },
+      {
+        "title": "إبراهيم فاروق: أنجز شخص قابلته في حياتي",
+        "date": "Mon, 04 Aug 2025 13:30:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/106382436/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-3%2F405041850-44100-2-5db004c6d37cc.mp3",
+        "duration": "03:35:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1754242159560-a36b2cc68f896.jpg"
+      },
+      {
+        "title": "المصطبة: إزاي بطلنا السيكو سيكو؟ +١٨",
+        "date": "Tue, 22 Jul 2025 09:50:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/106950445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-16%2F405772941-44100-2-21f1d40d1cc96.mp3",
+        "duration": "02:50:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1755370332207-5f17e89781569.jpg"
+      },
+      {
+        "title": " أمير منير: تجارة الدين أم دين التجارة؟",
+        "date": "Sat, 19 Jul 2025 12:11:33 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/105710456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-19%2F404182082-44100-2-5cee9a2e75c3c.mp3",
+        "duration": "03:23:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1752928937526-6cbd28599f717.jpg"
+      },
+      {
+        "title": "د.محمد الناظر: لماذا أصبحت معايير الجمال قبيحة",
+        "date": "Wed, 02 Jul 2025 21:21:14 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/104942829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-2%2F403210770-44100-2-daf126e41097a.mp3",
+        "duration": "02:48:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1751472896721-563144b16cd2f.jpg"
+      },
+      {
+        "title": "علي محمد علي: زراعة الوعي في زمن التيك توك",
+        "date": "Wed, 14 May 2025 06:12:46 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/102617702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400233293-44100-2-1ec0349e40b4f.mp3",
+        "duration": "03:36:44",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1747172019797-43fc495f605a3.jpg"
+      },
+      {
+        "title": "أحمد سالم: كيف تصبح شخص مثقف وموسوعي",
+        "date": "Thu, 01 May 2025 22:45:13 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/102042918/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F399431721-44100-2-0a925afb5fd4f.mp3",
+        "duration": "03:53:27",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1746118474390-309d1ab175661.jpg"
+      },
+      {
+        "title": "بهاء حنيش: رحلة نجاح مبهرة من كفر الشيخ الى دبي",
+        "date": "Sat, 21 Dec 2024 15:28:13 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/96120358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-21%2F391926453-44100-2-54cacc8e220a2.mp3",
+        "duration": "02:40:33",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1734782302618-c3feff81260df.jpg"
+      },
+      {
+        "title": "محمد بن سامي٢: كراش كورس ضروري في الاقتصاد والاستثمار",
+        "date": "Fri, 15 Nov 2024 13:30:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/94097650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-7%2F389418159-44100-2-247bfefd8dc2e.mp3",
+        "duration": "03:51:07",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1731000791214-8519a244579b.jpg"
+      },
+      {
+        "title": "د.عماد رشاد عثمان:سر العلاقات الناجحة وحل إدمان الاباحية والوصول للمتانة النفسية",
+        "date": "Sat, 12 Oct 2024 14:34:54 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/92933551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-12%2F387974288-44100-2-6f4a456635b39.mp3",
+        "duration": "03:42:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1728737369015-e9832a2a7b66f.jpg"
+      },
+      {
+        "title": "يحيى رضوان: من خسارة ١٠٠ كيلو إلى قمة النجاح في المحتوى التقني دون شهادة جامعية",
+        "date": "Thu, 03 Oct 2024 16:04:50 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/92536963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-3%2F387481667-44100-2-2cffa06bf0161.mp3",
+        "duration": "02:41:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1727966350274-c806d4b738d18.jpg"
+      },
+      {
+        "title": "د.محمد عبدالجواد | الإباحية والاستمناء والعادة السرية، كيف تحرر نفسك من إدمانهم",
+        "date": "Mon, 12 Aug 2024 14:13:38 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/90338693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-12%2F384655261-44100-2-5709e3b85e675.mp3",
+        "duration": "03:56:26",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1723466376884-2f470eaf3141b.jpg"
+      },
+      {
+        "title": "أحمد عدلي: الفراعنة ليسوا بناة الأهرامات",
+        "date": "Sat, 03 Aug 2024 16:57:02 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/90010318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-3%2F384250218-44100-2-a4a2058f28d32.mp3",
+        "duration": "02:46:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1722694553846-6f3a3852e092.jpg"
+      },
+      {
+        "title": "كابتن آسر: كمال الأجسام تجارة وليست رياضة",
+        "date": "Sun, 07 Jul 2024 23:12:04 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/88939489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-7%2F382665719-44100-2-ba6f74e86fcae.mp3",
+        "duration": "02:44:57",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1720380735869-9a679ecd67e09.jpg"
+      },
+      {
+        "title": "إسلام حسين: كيف تبني شركة قيمتها ملايين بالحب؟",
+        "date": "Mon, 24 Jun 2024 07:30:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/88374200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-23%2F381474916-44100-2-0913bedbfb9d.mp3",
+        "duration": "03:25:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1719185028930-beb6f150425d2.jpg"
+      },
+      {
+        "title": "أحمد علي : لماذا كان أجدادنا أفضل منا في العمارة وبناء البيوت؟",
+        "date": "Fri, 07 Jun 2024 15:30:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/87711790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-6%2F379951516-44100-2-6cf305a9885db.mp3",
+        "duration": "02:48:37",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1717707376418-60b6654960788.jpg"
+      },
+      {
+        "title": " أحمد نوح: ليه بنحب العربيات؟ إزاي تشتري العربية المناسبة؟ ليه العربيات أغلى من بره؟",
+        "date": "Sun, 26 May 2024 20:33:48 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/87231592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-26%2F378821780-44100-2-ea909d62b0ffb.mp3",
+        "duration": "02:49:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1716755548319-2bf2269527f42.jpg"
+      },
+      {
+        "title": "أسامة الزيرو ٣: حياته بعيداً عن البرمجة، الهوايات والجيمنج والرياضة والقراءة وتنظيم وقته",
+        "date": "Mon, 29 Apr 2024 17:15:15 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/86069104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375975003-44100-2-8edb6159e117f.mp3",
+        "duration": "03:12:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1714402328301-e62377e118ebf.jpg"
+      },
+      {
+        "title": "أحمد سالم: الشغف هيمخمضك، الزواج مبكراً والشغل والنسوية والافلام وأشياء أخرى",
+        "date": "Fri, 15 Mar 2024 19:00:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/84050711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-15%2F370977436-44100-2-fbf567935b6d4.mp3",
+        "duration": "03:40:09",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1710456134566-99d1a6898ae2f.jpg"
+      },
+      {
+        "title": "مش ابراهيم حجازي: لا يوجد جهاز آمن من الاختراق، كيف تحمي نفسك من الهاكرز؟",
+        "date": "Sat, 17 Feb 2024 17:03:30 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/82784231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-17%2F367739012-44100-2-69b4d678863ea.mp3",
+        "duration": "03:03:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1708189261492-578408b2196f1.jpg"
+      },
+      {
+        "title": "إسلام كودزيلا: البرمجة والسفر لأوروبا والذكاء الاصطناعي والشغل في الشركات العالمية",
+        "date": "Fri, 26 Jan 2024 15:21:34 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/81821893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-26%2F365054805-44100-2-9e05c64ea8936.mp3",
+        "duration": "03:02:39",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1706276277583-58ad9051e82cb.jpg"
+      },
+      {
+        "title": "عمرو شريف | هل فيديوهات الأكل تقدم قيمة؟",
+        "date": "Sat, 06 Jan 2024 15:14:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/80805223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2F362183070-44100-2-c32fdfde840c7.mp3",
+        "duration": "01:55:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1704381443960-82d5f66bd1b25.jpg"
+      },
+      {
+        "title": "عمر عبدالرحيم | تعرض للخطف واشتغل ٢٦ شغلانة قبل الانجليزي",
+        "date": "Sun, 24 Dec 2023 15:00:00 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/80386284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-23%2F361030509-44100-2-d6a6f7d4ac375.mp3",
+        "duration": "02:37:10",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1703344122477-7cc3831014d74.jpg"
+      },
+      {
+        "title": " أحمد فهمي: قعدة مصطبة يوتيوبية بين طنطا والأسكندرية.",
+        "date": "Sat, 20 May 2023 14:59:49 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/70723415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-20%2F330625162-44100-2-f5797559a568f.mp3",
+        "duration": "02:33:36",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1684589210628-c1601a519c21a.jpg"
+      },
+      {
+        "title": "أحمد كيميا: الفطرة السليمة والرحلة من الصعيد لأمريكا ومن النقاشة للعمل الحر.",
+        "date": "Sun, 12 Feb 2023 16:10:17 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/64880529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-11%2F312285825-44100-2-9e234532d74a1.m4a",
+        "duration": "02:45:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1676141813550-797053ccb1d0e.jpg"
+      },
+      {
+        "title": "علي محمد علي: عبودية الوظيفة والعمل الحر، لماذا لا تناسبنا بعض الكتب، تأثير كرة القدم.",
+        "date": "Wed, 11 Jan 2023 17:30:42 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/63218150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-8%2F306554937-44100-2-93bea262aa54f.mp3",
+        "duration": "02:13:04",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1673205137941-22da4b67b1cf6.jpg"
+      },
+      {
+        "title": " د.محمد ابراهيم: هل كلنا مرضى نفسيين؟ متى تذهب للطبيب النفسي؟ الرحلة من الفشل لكلية الطب؟",
+        "date": "Mon, 19 Dec 2022 17:28:08 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/62415879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-19%2F303917045-44100-2-68475d549bd0a.mp3",
+        "duration": "02:34:08",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1671461353676-6a9e81a382565.jpg"
+      },
+      {
+        "title": " محمود سري الدين: ترك أموال هندسة البترول من أجل تلخيص الكتب على يوتيوب.",
+        "date": "Sun, 30 Oct 2022 16:11:21 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/58369148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2F288537637-44100-2-5932d4c40bcaf.m4a",
+        "duration": "02:18:52",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1664544543659-4662f37eddb21.jpg"
+      },
+      {
+        "title": "محمد بن سامي: كيف تحافظ على مدخراتك، أفضل شخص تتعلم منه عن الاقتصاد والتاريخ وكيف يدور العالم من حولك.",
+        "date": "Sun, 02 Oct 2022 13:00:33 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/58368072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2F288534115-44100-2-16c3c56f425b3.m4a",
+        "duration": "02:40:02",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1664542671387-ab02876657c09.jpg"
+      },
+      {
+        "title": "كريم السيد: الزواج من أجنبية والسفر لانجلترا والرجوع لمصر.",
+        "date": "Sat, 24 Sep 2022 13:43:20 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/57586314/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-14%2F285753527-44100-2-ee088923bd9d2.m4a",
+        "duration": "01:34:58",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1663198208170-aaf0a2e306318.jpg"
+      },
+      {
+        "title": "يحيى عزام أو يايا: بودكاست مش مهم تسمعه.",
+        "date": "Mon, 15 Aug 2022 12:43:32 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/56193183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-15%2F280938828-44100-2-da86325f95e06.m4a",
+        "duration": "03:26:35",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1660567251506-4478b6d43af5.jpg"
+      },
+      {
+        "title": "أحمد صبري: ميكس دراسة الطب والتيك توك والسفر وتعليم اللغات",
+        "date": "Sun, 17 Jul 2022 20:55:09 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/54872122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-15%2F276550731-44100-2-f847b4d61839f.m4a",
+        "duration": "02:09:17",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1657893372235-cc99df8472fc.jpg"
+      },
+      {
+        "title": "ممدوح نصرالله: تجربة ملهمة من الفشل والصيدلة لليوتيوب والكورة.",
+        "date": "Sat, 11 Jun 2022 14:16:35 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/53349158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-11%2F271101756-44100-2-79e27baed5e08.m4a",
+        "duration": "02:33:42",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1654955821666-e5969e4952fe6.jpg"
+      },
+      {
+        "title": "محمود إسماعيل: بودكاست جداً خطير مع محمود ابواسماعيل| صناعة المحتوى والابداع ومشكلة التعليم والزواج",
+        "date": "Sat, 02 Apr 2022 13:51:11 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/49981681/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-2%2F257413925-44100-2-626bad69b5e2c.m4a",
+        "duration": "02:15:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1648860425754-dff8c0e040582.jpg"
+      },
+      {
+        "title": "!محمد أبوسريع: لماذا هرب هذا المبرمج من ألمانيا، جنة المبرمجين",
+        "date": "Thu, 25 Nov 2021 21:17:19 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43914808/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233539519-44100-2-8fbe2a7858b8b.m4a",
+        "duration": "02:19:03",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637874926960-d0db86d5002b3.jpg"
+      },
+      {
+        "title": "كريم اسماعيل: الكوتشنج والتدريب والتنمية البشرية وعلم الطاقة ",
+        "date": "Thu, 25 Nov 2021 21:17:14 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43914484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233537967-44100-2-2b61d6f9c67b6.m4a",
+        "duration": "01:53:25",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637874408216-bd5d1ece5e908.jpg"
+      },
+      {
+        "title": "ابراهيم عادل: مؤسس زي أمريكان إنجلش وطليق",
+        "date": "Thu, 25 Nov 2021 21:17:05 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43914097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233536210-44100-2-00b2ed11e776d.m4a",
+        "duration": "01:33:07",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637873631117-0a945cd6a1848.jpg"
+      },
+      {
+        "title": "رمزي عبدالعزيز: من عامل في مصنع لدكتور جامعة في فنلندا البلد رقم 1 في العالم في التعليم",
+        "date": "Thu, 25 Nov 2021 21:16:57 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43904514/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233493452-44100-2-a37814578a0c4.m4a",
+        "duration": "02:12:20",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637858576030-c084bb455b0df.jpg"
+      },
+      {
+        "title": "عمرو رمضان: المنح والدراسة في الخارج بعد الثانوية والازهر وأثناء وبعد الكلية.",
+        "date": "Thu, 25 Nov 2021 21:16:47 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43903154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233488603-44100-2-637bd536fcc12.m4a",
+        "duration": "01:45:25",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637856927533-4583a04dd788d.jpg"
+      },
+      {
+        "title": "أسامة الزير: البرمجة والشغل والفلوس وفرص عمل المبرمجين",
+        "date": "Thu, 25 Nov 2021 21:16:39 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43901814/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233483991-44100-2-18d89f80da98b.m4a",
+        "duration": "01:24:11",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637854539067-acb0969d1c255.jpg"
+      },
+      {
+        "title": "أحمد شاهين: التنمية البشرية والتدريب والبحث عن الشغف والمسار الوظيفي وتغيير الكاريير. ",
+        "date": "Thu, 25 Nov 2021 21:16:30 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43901365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233482082-44100-2-0411cbc84faf1.m4a",
+        "duration": "01:13:41",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637853873934-1f7ff95405151.jpg"
+      },
+      {
+        "title": "أسامة الزيرو: أشهر مبرمج عربي ولم يدرس البرمجة، كيف؟",
+        "date": "Thu, 25 Nov 2021 21:16:14 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43896971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233464989-44100-2-0eb2248948938.m4a",
+        "duration": "01:09:12",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637847378342-42185efc27108.jpg"
+      },
+      {
+        "title": "صهيب الدسوقي : لماذا دقيقة عمله تساوي 1000 دولار ",
+        "date": "Thu, 25 Nov 2021 21:15:47 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/43896557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F233463957-44100-2-5a1f30da05682.m4a",
+        "duration": "00:45:15",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F18777679%2F18777679-1637847028934-0ae7f345bc946.jpg"
+      },
+      {
+        "title": "أحمد دسوقي | لم يحضر يومًا في الكلية ويعمل الأن في بنك مرموق، كيف؟",
+        "date": "Wed, 20 Oct 2021 15:16:42 GMT",
+        "audioUrl": "https://anchor.fm/s/70850d5c/podcast/play/42068527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-20%2F680877d2-ab3f-77fc-75b6-f606a5d5526b.mp3",
+        "duration": "01:21:50",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode%2F18777679%2F18777679-1634742929954-8a7b2bd01b947.jpg"
+      }
+    ]
+  },
+  {
     "id": "555104076",
     "title": "Nos Nos Podcast | بودكاست نص نص",
     "author": "Jimmy and Hassan",
