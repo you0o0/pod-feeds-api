@@ -3,7 +3,7 @@
     "id": "746815793",
     "title": "#ABtalks",
     "author": "Anas Bukhash",
-    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fbea7fb1e-f1c8-11eb-b0d5-73dc23c2909b%2Fimage%2FPodcast_2022.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress",
+    "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_700,h_700,q_auto,f_auto/https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fbea7fb1e-f1c8-11eb-b0d5-73dc23c2909b%2Fimage%2Ff49d5d6ccde2600f0fce3ab4f146664d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress",
     "description": "Welcome to #ABtalks, a YouTube show discovering the human behind the title by shining the spotlight on the 'raw' side of celebrities, achievers and influencers from across the world. Hosted by Anas Bukhash, one of the most successful entrepreneurs and interviewers in the Middle East region, the show is the fastest growing show of its kind and is now also available on Netflix.",
     "category": "غير معروف",
     "episodes": [
@@ -355,7 +355,7 @@
         "date": "Sat, 30 Nov 2024 08:29:00 -0000",
         "audioUrl": "https://traffic.megaphone.fm/AMA3351347663.mp3?updated=1732955146",
         "duration": "6374",
-        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fbea7fb1e-f1c8-11eb-b0d5-73dc23c2909b%2Fimage%2FPodcast_2022.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress"
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fbea7fb1e-f1c8-11eb-b0d5-73dc23c2909b%2Fimage%2Ff49d5d6ccde2600f0fce3ab4f146664d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress"
       },
       {
         "title": "#ABtalks Special with Steve Stoute on Music & Business",
@@ -9693,6 +9693,13 @@
     "description": "في أي قعدة صُلح أو اختلاف في الكلام، بيبقى في حد لازم (نكبره).. احنا هنا هنكبر بعض، ونكبركم، ونكبر حاجات ملهاش حد يكبرها..بس من وجهة نظر بولا وريم",
     "category": "غير معروف",
     "episodes": [
+      {
+        "title": "هو كل شوية هعيد",
+        "date": "Wed, 19 Nov 2025 14:08:26 +0000",
+        "audioUrl": "https://pscrb.fm/rss/p/p.podderapp.com/5624967720/injector.simplecastaudio.com/f5967f55-32ca-4e92-88aa-6c236e45d976/episodes/866ec772-3e35-46cf-9757-d1333e25ae92/audio/128/default.mp3?aid=rss_feed&awCollectionId=f5967f55-32ca-4e92-88aa-6c236e45d976&awEpisodeId=866ec772-3e35-46cf-9757-d1333e25ae92&feed=WR5_SB7R",
+        "duration": "01:14:05",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fd8d156d8-a3fa-4f1d-976e-cd0fec533665%2F6802daa5-8cb7-4f65-bd16-c382b50e9259%2F3000x3000%2Fkabarni-20s5-ep02-20-square-20size.jpg%3Faid%3Drss_feed"
+      },
       {
         "title": "مش هتكمل من غيرك",
         "date": "Fri, 14 Nov 2025 12:35:00 +0000",
