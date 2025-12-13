@@ -2859,6 +2859,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "وريني كده",
+        "date": "Sat, 13 Dec 2025 14:05:12 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/ODU3OTU/audio.mp3",
+        "duration": "4242",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FODU3OTU%2Fimage.png%3Fivc%3D1765634712"
+      },
+      {
         "title": "أقوال مكسورة",
         "date": "Sat, 06 Dec 2025 13:17:18 +0000",
         "audioUrl": "https://media.podeo.co/episodes/ODUxNjU/audio.mp3",
