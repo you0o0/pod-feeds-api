@@ -2873,6 +2873,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "حلقاتك التزاماتك",
+        "date": "Sat, 27 Dec 2025 15:03:58 +0000",
+        "audioUrl": "https://media.podeo.co/episodes/ODY2MTI/audio.mp3",
+        "duration": "4069",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fmedia.podeo.co%2Fepisodes%2FODY2MTI%2Fimage.png%3Fivc%3D1766847848"
+      },
+      {
         "title": "أحلى عالم مع مو العرقان",
         "date": "Sat, 20 Dec 2025 12:26:29 +0000",
         "audioUrl": "https://media.podeo.co/episodes/ODYwNjY/audio.mp3",
@@ -3848,6 +3855,13 @@
     "description": "بودكاست يتحدث عنك حيناً .. ويتحدث معك أحياناً .. هُنا تضيء أبجورة💡",
     "category": "غير معروف",
     "episodes": [
+      {
+        "title": "الحنين",
+        "date": "Sat, 27 Dec 2025 10:24:15 +0000",
+        "audioUrl": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2237199536-lubna-90-anfkf5tgfxds.mp3",
+        "duration": "00:23:24",
+        "cover": "https://res.cloudinary.com/dfp0mkvtt/image/fetch/w_400,h_400,q_auto,f_auto/https%3A%2F%2Fi1.sndcdn.com%2Fartworks-qTtg4bryFGeLijJr-X0LdjQ-t3000x3000.jpg"
+      },
       {
         "title": "سوبر ماما",
         "date": "Sun, 30 Nov 2025 08:04:32 +0000",
