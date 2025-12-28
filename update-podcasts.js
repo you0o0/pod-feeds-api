@@ -9,14 +9,6 @@ const parser = new Parser({
     }
 });
 
-const CLOUDINARY_BASE_URL = 'https://res.cloudinary.com/dfp0mkvtt/image/fetch/';
-
-function optimizeImageUrl(originalUrl, width = 300, height = 300) {
-    if (!originalUrl) return originalUrl;
-    const encodedUrl = encodeURIComponent(originalUrl);
-    return `${CLOUDINARY_BASE_URL}w_${width},h_${height},q_auto,f_auto/${encodedUrl}`;
-}
-
 // دالة لإنشاء معرف فريد
 function generateUniqueId(podcast) {
     const str = `${podcast.title}-${podcast.author}`;
@@ -24,7 +16,7 @@ function generateUniqueId(podcast) {
     for (let i = 0; i < str.length; i++) {
         const char = str.charCodeAt(i);
         hash = ((hash << 5) - hash) + char;
-        hash = hash & hash; // تحويل إلى عدد صحيح 32 بت
+        hash = hash & hash;
     }
     return Math.abs(hash).toString();
 }
@@ -43,11 +35,15 @@ function generateUniqueId(podcast) {
         for (const rssUrl of rssFeeds) {
             try {
                 const feed = await parser.parseURL(rssUrl);
+                
+                // تحديد رابط صورة البودكاست الأصلي
+                const podcastCover = feed.itunes?.image?.['$']?.href || feed.itunes?.image || feed.image?.url || '';
+
                 podcasts.push({
                     id: generateUniqueId({ title: feed.title || 'غير معروف', author: feed.itunes?.author || 'غير معروف' }),
                     title: feed.title || 'غير معروف',
                     author: feed.itunes?.author || 'غير معروف',
-                    cover: optimizeImageUrl(feed.itunes?.image?.['$']?.href || feed.itunes?.image || feed.image?.url || '', 700, 700),
+                    cover: podcastCover,
                     description: feed.description || 'لا يوجد وصف',
                     category: feed.itunes?.category?.[0]?.['$']?.text || 'غير معروف',
                     episodes: feed.items.map(item => ({
@@ -55,7 +51,7 @@ function generateUniqueId(podcast) {
                         date: item.pubDate || 'غير معروف',
                         audioUrl: item.enclosure?.url || '',
                         duration: item.itunes?.duration || 'غير معروف',
-                        cover: optimizeImageUrl(item.itunes?.image?.['$']?.href || item.itunes?.image || feed.itunes?.image?.['$']?.href || feed.image?.url || '', 400, 400)
+                        cover: item.itunes?.image?.['$']?.href || item.itunes?.image || podcastCover
                     }))
                 });
             } catch (error) {
@@ -63,9 +59,12 @@ function generateUniqueId(podcast) {
             }
         }
 
+        // التأكد من وجود المجلد قبل الكتابة
+        await fs.mkdir('data', { recursive: true });
+
         // كتابة البيانات إلى podcasts.json
         await fs.writeFile('data/podcasts.json', JSON.stringify(podcasts, null, 2), 'utf8');
-        console.log('تم تحديث podcasts.json بنجاح');
+        console.log('تم تحديث podcasts.json بنجاح (بدون Cloudinary)');
     } catch (error) {
         console.error('خطأ في تحليل OPML:', error);
         process.exit(1);
