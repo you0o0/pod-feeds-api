@@ -7339,6 +7339,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "سياسي صعيدي في الغرب",
+        "date": "Sun, 04 Jan 2026 03:00:00 GMT",
+        "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6843/file.mp3",
+        "duration": "02:30:35",
+        "cover": "https://files.hosting.thmanyah.com/images/episodes/1767153369445-2909.jpg"
+      },
+      {
         "title": "معتقل عراقي في سجن أبوغريب",
         "date": "Sun, 14 Dec 2025 03:00:21 GMT",
         "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6782/file.mp3",
