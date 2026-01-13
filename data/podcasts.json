@@ -8,6 +8,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "#ABtalks with Dr. Zahi Hawass | Chapter 244 | مع  د. زاهي حواس",
+        "date": "Tue, 13 Jan 2026 17:07:00 -0000",
+        "audioUrl": "https://traffic.megaphone.fm/AMA6015609518.mp3",
+        "duration": "6699",
+        "cover": "https://megaphone.imgix.net/podcasts/8f94ee42-f09f-11f0-ade2-878e917c390c/image/f39278f4a2dbfb87f7ca03237f56868a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      },
+      {
         "title": "#ABtalks with Nancy Ajram | Chapter 243 | مع نانسي عجرم ",
         "date": "Tue, 06 Jan 2026 17:26:00 -0000",
         "audioUrl": "https://traffic.megaphone.fm/AMA2000191586.mp3",
@@ -2248,11 +2255,11 @@
         "cover": "https://megaphone.imgix.net/podcasts/c5850b7a-f1c8-11eb-8cc7-2f1cf9ab65af/image/ABpodscasts_AB_with_Mattar.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
       {
-        "title": "#ABtalks x NIKE with Manal Rostom - مع منال رستم | Chapter 2 of 3",
+        "title": "#ABtalks x NIKE with Houriya AlTaheri - مع حورية الطاهري | Chapter 3 of 3",
         "date": "Mon, 24 Jun 2019 07:00:00 -0000",
-        "audioUrl": "https://traffic.megaphone.fm/AMA6019874125.mp3?updated=1632287204",
-        "duration": "2554",
-        "cover": "https://megaphone.imgix.net/podcasts/c5b6b3e6-f1c8-11eb-8cc7-977a36b39595/image/02_Manal_Rostom.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "audioUrl": "https://traffic.megaphone.fm/AMA7917369494.mp3?updated=1632287184",
+        "duration": "2177",
+        "cover": "https://megaphone.imgix.net/podcasts/c5a6a6d6-f1c8-11eb-8cc7-ef7a179475a2/image/03_Houreya_AlTaheri.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
       {
         "title": "#ABtalks x NIKE with Zahra Lari - مع زهرة لاري | Chapter 1 of 3",
@@ -2262,11 +2269,11 @@
         "cover": "https://megaphone.imgix.net/podcasts/c595e508-f1c8-11eb-8cc7-ef5651937cda/image/01_Zahra_Lari.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
       {
-        "title": "#ABtalks x NIKE with Houriya AlTaheri - مع حورية الطاهري | Chapter 3 of 3",
+        "title": "#ABtalks x NIKE with Manal Rostom - مع منال رستم | Chapter 2 of 3",
         "date": "Mon, 24 Jun 2019 07:00:00 -0000",
-        "audioUrl": "https://traffic.megaphone.fm/AMA7917369494.mp3?updated=1632287184",
-        "duration": "2177",
-        "cover": "https://megaphone.imgix.net/podcasts/c5a6a6d6-f1c8-11eb-8cc7-ef7a179475a2/image/03_Houreya_AlTaheri.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "audioUrl": "https://traffic.megaphone.fm/AMA6019874125.mp3?updated=1632287204",
+        "duration": "2554",
+        "cover": "https://megaphone.imgix.net/podcasts/c5b6b3e6-f1c8-11eb-8cc7-977a36b39595/image/02_Manal_Rostom.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
       },
       {
         "title": "#ABtalks with Ascia - مع آسيا | Chapter 7",
