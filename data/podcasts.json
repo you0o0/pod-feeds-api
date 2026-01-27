@@ -8,6 +8,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "#ABtalks Business with El Gouna Red Sea - Samih Sawiris | Chapter 6 | مع سميح ساويرس",
+        "date": "Tue, 27 Jan 2026 17:15:00 -0000",
+        "audioUrl": "https://traffic.megaphone.fm/AMA5484654544.mp3",
+        "duration": "2409",
+        "cover": "https://megaphone.imgix.net/podcasts/cec668fc-fba3-11f0-ad1a-73cac24cfee4/image/9988cfd4de7fae3c58799628ce0a56b4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      },
+      {
         "title": "#ABtalks with Mustafa the Poet | Chapter 245 | مع مصطفى الشاعر  ",
         "date": "Tue, 20 Jan 2026 16:07:00 -0000",
         "audioUrl": "https://traffic.megaphone.fm/AMA5540269064.mp3",
@@ -5019,6 +5026,625 @@
         "audioUrl": "https://sphinx.acast.com/p/open/s/6441990f425b3100113a6690/e/2b6b498f-c921-43fb-8dc8-aaf1016a17f2/media.mp3",
         "duration": "1:52",
         "cover": "https://assets.pippa.io/shows/6441990f425b3100113a6690/show-cover.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1844755389",
+    "title": "احمد عامر: السيرة النبوية",
+    "author": "Ahmed Amer",
+    "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b0729c988d1143e7435dc6f74a7bdff7.jpg",
+    "description": ".سرد السيرة النبوية وقصص اصحاب رسول الله وغيرها من التاريخ الاسلامي",
+    "category": "غير معروف",
+    "episodes": [
+      {
+        "title": "إستراحة نفسية (8) - إلى القرآن (الحل)",
+        "date": "Wed, 08 Oct 2025 23:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623785/audio.mp3",
+        "duration": "7042",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/681abda2580aa9ab10fa77be55c5431b.jpg"
+      },
+      {
+        "title": "إستراحة نفسية (7) - إلى القرآن (ليه مش حاسس بالقرآن؟)",
+        "date": "Wed, 01 Oct 2025 23:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623806/audio.mp3",
+        "duration": "7242",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/195656a761c09e43bf9bd491273b74b3.jpg"
+      },
+      {
+        "title": "إستراحة نفسية (6) - إلى القرآن (الإيمان بالقرآن)",
+        "date": "Wed, 24 Sep 2025 23:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623792/audio.mp3",
+        "duration": "6433",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cfac48906a1a6d0bbac3babcb974c0c6.jpg"
+      },
+      {
+        "title": "إستراحة نفسية (5) - إلى القرآن (قصة القرآن)",
+        "date": "Wed, 17 Sep 2025 23:00:08 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623808/audio.mp3",
+        "duration": "6505",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8209d0b7557e5b4a721a99f56cd9a333.jpg"
+      },
+      {
+        "title": "إستراحة نفسية (4) - تزكية النفس (قلب المؤمن)",
+        "date": "Wed, 10 Sep 2025 23:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623811/audio.mp3",
+        "duration": "7899",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aba5db357f4246e2d68eea1e55b91f62.jpg"
+      },
+      {
+        "title": "إستراحة نفسية (3) - تزكية النفس (فهم النفس)",
+        "date": "Wed, 03 Sep 2025 23:00:08 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623788/audio.mp3",
+        "duration": "7042",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5303ee382b5f8be64731ba37a0dd2fd7.jpg"
+      },
+      {
+        "title": "إستراحة نفسية (2) - تزكية النفس (الدنيا الفانية)",
+        "date": "Wed, 27 Aug 2025 23:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623801/audio.mp3",
+        "duration": "6636",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aafcf3af8684c6483b3cce22a895b6cf.jpg"
+      },
+      {
+        "title": "إستراحة نفسية (1) - تزكية النفس (العبودية لله وحده)",
+        "date": "Wed, 20 Aug 2025 23:11:14 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623794/audio.mp3",
+        "duration": "9679",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2288224b795deb468c87d211f646da44.jpg"
+      },
+      {
+        "title": "قصص القرآن (10) - ذو القرنين",
+        "date": "Fri, 28 Mar 2025 00:00:09 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623819/audio.mp3",
+        "duration": "2769",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5d5f0e671eef7fa7f4ef04c9f253ac28.jpg"
+      },
+      {
+        "title": "قصص القرآن (9) - سيدنا موسى والخضر",
+        "date": "Fri, 21 Mar 2025 00:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623810/audio.mp3",
+        "duration": "3743",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a0f961012b7322eab7599faefc55f118.jpg"
+      },
+      {
+        "title": "قصص القرآن (8) - صاحب الجنتين",
+        "date": "Fri, 14 Mar 2025 00:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623814/audio.mp3",
+        "duration": "1823",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a393aab31116cdec6be7c2bf5948ae03.jpg"
+      },
+      {
+        "title": "قصص القرآن (7) - أصحاب الكهف",
+        "date": "Fri, 07 Mar 2025 00:00:08 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623826/7.mp3",
+        "duration": "3797",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1f2dfabf1826145c19f63133df0a5270.jpg"
+      },
+      {
+        "title": "قصص القرآن (6) - قارون والتعامل مع فتنة المال",
+        "date": "Mon, 24 Feb 2025 00:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623830/6.mp3",
+        "duration": "3533",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8965004cd6f6cb80ad0fe28c448fa605.jpg"
+      },
+      {
+        "title": "قصص القرآن (5) - طالوت وجالوت الجزء الثاني",
+        "date": "Fri, 21 Feb 2025 00:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623837/5.mp3",
+        "duration": "3223",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3ab665e1054b386db74aa5c661bd813a.jpg"
+      },
+      {
+        "title": "قصص القرآن (4) - طالوت وجالوت الجزء الأول",
+        "date": "Mon, 17 Feb 2025 00:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623859/4.mp3",
+        "duration": "3526",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9828526ccb403b3e4cb94953dd2d66e4.jpg"
+      },
+      {
+        "title": "قصص القرآن (3) - بقرة بني إسرائيل",
+        "date": "Fri, 14 Feb 2025 00:00:08 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623815/3.mp3",
+        "duration": "3009",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5539424781f73af26a717400e0b8398e.jpg"
+      },
+      {
+        "title": "قصص القرآن (2) - أصحاب السبت",
+        "date": "Mon, 10 Feb 2025 00:00:08 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623799/2.mp3",
+        "duration": "2977",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6445355022e9bb68be9090a2d6fcc8af.jpg"
+      },
+      {
+        "title": "قصص القرآن (1) - بلعام بن باعوراء وكيفية الثبات بعد رمضان",
+        "date": "Fri, 07 Feb 2025 00:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623822/1.mp3",
+        "duration": "3896",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cac58fbd5a2602fbb629cd73820b7842.jpg"
+      },
+      {
+        "title": "مجالس القرآن (22) - سورة الجن",
+        "date": "Sat, 14 Dec 2024 06:00:06 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623828/22.mp3",
+        "duration": "3394",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bcc7a8a84c9fd617a80b0677bc904958.jpg"
+      },
+      {
+        "title": "مجالس القرآن (21) - سورة نوح",
+        "date": "Thu, 12 Dec 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623833/audio.mp3",
+        "duration": "4332",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2c2003be0bdf05da986261bf089f2369.jpg"
+      },
+      {
+        "title": "مجالس القرآن (20) - سورة المرسلات",
+        "date": "Tue, 10 Dec 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623821/audio.mp3",
+        "duration": "4720",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/631c26ada30a508b9f8d2f31c8c4a2b8.jpg"
+      },
+      {
+        "title": "مجالس القرآن (19) - سورة الإنسان",
+        "date": "Sun, 08 Dec 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623845/audio.mp3",
+        "duration": "3823",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f4974b3d46dd06163d34fb3306a727c5.jpg"
+      },
+      {
+        "title": "مجالس القرآن (18) - سورة القيامة",
+        "date": "Fri, 06 Dec 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623816/audio.mp3",
+        "duration": "4010",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4830125b044b80dda251b0954efbeb77.jpg"
+      },
+      {
+        "title": "مجالس القرآن (17) - سورة المدثر",
+        "date": "Wed, 04 Dec 2024 06:00:06 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623813/audio.mp3",
+        "duration": "4652",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0a4f8436169077e11a9756407fcb2a40.jpg"
+      },
+      {
+        "title": "مجالس القرآن (16) - سورة المزمل",
+        "date": "Mon, 02 Dec 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623818/audio.mp3",
+        "duration": "4056",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ce8b6c96fb772457cec207e5fa836081.jpg"
+      },
+      {
+        "title": "مجالس القرآن (15) - سورة المعارج",
+        "date": "Sat, 30 Nov 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623824/audio.mp3",
+        "duration": "4077",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d617c250f6cccc046442c9f0eac7ba94.jpg"
+      },
+      {
+        "title": "مجالس القرآن (14) - سورة الحاقة",
+        "date": "Thu, 28 Nov 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623817/audio.mp3",
+        "duration": "4166",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5433103d8f8c2addb3b083b7ef0b1b4b.jpg"
+      },
+      {
+        "title": "مجالس القرآن (13) - سورة القلم",
+        "date": "Tue, 26 Nov 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623836/audio.mp3",
+        "duration": "3948",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4a62e65ce3833e8bbc5d5751ab138faf.jpg"
+      },
+      {
+        "title": "مجالس القرآن (12) - سورة الملك",
+        "date": "Sun, 24 Nov 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623863/audio.mp3",
+        "duration": "3467",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4d5f8ee12a6cc1ec0b20ff0048cd6a28.jpg"
+      },
+      {
+        "title": "مجالس القرآن (11) - سورة التغابن",
+        "date": "Fri, 22 Nov 2024 06:00:06 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623820/audio.mp3",
+        "duration": "3287",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/74c485828310d3959a5a4f41cef1280b.jpg"
+      },
+      {
+        "title": "مجالس القرآن (10) - سورة الحديد الجزء الثاني",
+        "date": "Wed, 20 Nov 2024 06:00:08 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623875/audio.mp3",
+        "duration": "3730",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8a3e0fc1ed7a7dbba583bc104263a1b3.jpg"
+      },
+      {
+        "title": "مجالس القرآن (9) - سورة الحديد",
+        "date": "Mon, 18 Nov 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623827/audio.mp3",
+        "duration": "4332",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/fc8a2e3edbe0b2d6087e6f7f370f22f0.jpg"
+      },
+      {
+        "title": "مجالس القرآن (8) - سورة الواقعة الجزء الثاني",
+        "date": "Sat, 16 Nov 2024 06:00:07 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623831/8.mp3",
+        "duration": "3226",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/af0b86fef92a2b507f097ec71e3d68dc.jpg"
+      },
+      {
+        "title": "مجالس القرآن (7) - سورة الواقعة",
+        "date": "Thu, 14 Nov 2024 06:00:06 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623868/audio.mp3",
+        "duration": "3141",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/172170dd7611ac7cb9cbce4ee3a86193.jpg"
+      },
+      {
+        "title": "مجالس القرآن (6) - سورة الرحمن",
+        "date": "Tue, 12 Nov 2024 06:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623838/audio.mp3",
+        "duration": "3805",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b1c8e5d2d1c0d5ba83294b0bac47d1b7.jpg"
+      },
+      {
+        "title": "مجالس القرآن (5) - سورة القمر",
+        "date": "Sun, 10 Nov 2024 06:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623851/audio.mp3",
+        "duration": "3827",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7da605756cf6a88dcf1eef027c4289d1.jpg"
+      },
+      {
+        "title": "مجالس القرآن (4) - سورة النجم",
+        "date": "Fri, 08 Nov 2024 06:00:01 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623832/audio.mp3",
+        "duration": "3435",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c8dd5c72f976353079fa7ba00c980769.jpg"
+      },
+      {
+        "title": "مجالس القرآن (3) - سورة الذاريات",
+        "date": "Wed, 06 Nov 2024 06:00:01 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623839/audio.mp3",
+        "duration": "4223",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/585e141e8216c309f6a0a5b451ca5195.jpg"
+      },
+      {
+        "title": "مجالس القرآن (2) - سورة الطور",
+        "date": "Mon, 04 Nov 2024 06:00:01 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623861/audio.mp3",
+        "duration": "4416",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ef18d1ed9615b2acb74e92e46a5a975.jpg"
+      },
+      {
+        "title": "مجالس القرآن (1) - سورة ق",
+        "date": "Sat, 02 Nov 2024 06:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623834/audio.mp3",
+        "duration": "4023",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5c8a06cc6f5c45dc2eb672e96fab9d4c.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (21) - عبد الله بن عباس",
+        "date": "Tue, 15 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623847/audio.mp3",
+        "duration": "3093",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8b675b6de6c1fe6f50cbf9631bbb238c.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (20) - أبو طلحة الأنصاري",
+        "date": "Mon, 14 Oct 2024 07:00:01 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623842/audio.mp3",
+        "duration": "2448",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dd1b664c6772b3653b308aabe41a683b.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (19) - سلمان الفارسي",
+        "date": "Sun, 13 Oct 2024 07:00:01 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623841/audio.mp3",
+        "duration": "2270",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/eb623ced965c2579e1c45cc6de2cee63.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (18) - وحشي بن حرب وعكرمة بن أبي جهل",
+        "date": "Sat, 12 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623849/audio.mp3",
+        "duration": "1985",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/16e7985257ee2e337b03523bfe43efd3.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (17) - حذيفة بن اليمان",
+        "date": "Fri, 11 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623840/audio.mp3",
+        "duration": "1749",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6187198a0cf13024c82a441e60325b63.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (16) - سعد بن عبادة",
+        "date": "Thu, 10 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623858/audio.mp3",
+        "duration": "2196",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/828b09953be7bdb7e5e90157ac7820a7.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (15) - معاذ بن جبل",
+        "date": "Wed, 09 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623846/audio.mp3",
+        "duration": "2656",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cd3766ece3a3a83fc216838b245fa958.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (14) - أبو عبيدة بن الجراح",
+        "date": "Tue, 08 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623850/audio.mp3",
+        "duration": "2142",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/84ae826cb328034de2705fd700d98997.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (13) - عمرو بن الجموح",
+        "date": "Mon, 07 Oct 2024 07:00:03 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623854/audio.mp3",
+        "duration": "2151",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6cb98c50252f9dd6a7c17c0f23cc524f.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (12) - عبد الله بن أم مكتوم",
+        "date": "Sun, 06 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623829/12.mp3",
+        "duration": "1855",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/96f8916d1042fbc899635292136135b6.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (11) - الزبير بن العوام",
+        "date": "Sat, 05 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623852/11.mp3",
+        "duration": "2503",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/836f47eba7327764276fe641246f76a4.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (10) - طلحة بن عبيد الله",
+        "date": "Fri, 04 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623835/audio.mp3",
+        "duration": "2341",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ae1a4d36692d5db08a1ca97444428d3a.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (9) - أبو هريرة",
+        "date": "Thu, 03 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623853/audio.mp3",
+        "duration": "2410",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7de7ee4a44ffe512d0ec6e96b0d48843.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (8) - عمار بن ياسر",
+        "date": "Wed, 02 Oct 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623857/audio.mp3",
+        "duration": "1752",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a6707dbb7d1fb791ce3a6ecfa4f7b2d2.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (7) - جابر بن عبد الله",
+        "date": "Tue, 01 Oct 2024 07:00:01 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623865/audio.mp3",
+        "duration": "1963",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/87efa43efa3da81fce8b526558f4cb5d.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (6) - عبد الله بن عمرو بن حرام",
+        "date": "Mon, 30 Sep 2024 07:00:02 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623862/audio.mp3",
+        "duration": "1525",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/382cab85c8fe1d8dcb39412b4c1edf1f.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (5) - عبد الله بن مسعود",
+        "date": "Mon, 19 Aug 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623856/audio.mp3",
+        "duration": "2005",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/eb4fd7143500c702ad02b90ec5fc9942.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (4) - أسامة بن زيد بن حارثة",
+        "date": "Fri, 16 Aug 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623872/audio.mp3",
+        "duration": "1822",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7b899e1aaf589365f3d993c52297c0c9.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (3) - زيد بن حارثة",
+        "date": "Mon, 12 Aug 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623844/audio.mp3",
+        "duration": "1762",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/df7f3f070ec5a67d7dc77a010ff69ea5.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (2) - أنس بن مالك",
+        "date": "Fri, 09 Aug 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623867/audio.mp3",
+        "duration": "2038",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/778565ffbb9fd02f138617d064a81d2e.jpg"
+      },
+      {
+        "title": "أصحاب رسول الله (1) - بلال بن رباح",
+        "date": "Mon, 05 Aug 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623855/audio.mp3",
+        "duration": "2714",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8c37f8550bda0c845aa38b4ba22561ea.jpg"
+      },
+      {
+        "title": "السيرة النبوية (25) - وفاة النبي محمد ﷺ",
+        "date": "Fri, 02 Aug 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623869/audio.mp3",
+        "duration": "3643",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0ba72edd7cc9a247d8825d0463a714f3.jpg"
+      },
+      {
+        "title": "السيرة النبوية (24) - غزوة تبوك",
+        "date": "Mon, 29 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623860/audio.mp3",
+        "duration": "3787",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/587c247832b416d173cde4e9ccad914e.jpg"
+      },
+      {
+        "title": "السيرة النبوية (23) - غزوة حنين وحصار الطائف",
+        "date": "Fri, 26 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623871/audio.mp3",
+        "duration": "4278",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/01832e908ca93ca415c96631ab570840.jpg"
+      },
+      {
+        "title": "السيرة النبوية (22) - فتح مكة",
+        "date": "Mon, 22 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623864/audio.mp3",
+        "duration": "4056",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/6ba2050ef76c3df452c92b55446ce3c9.jpg"
+      },
+      {
+        "title": "السيرة النبوية (21) - أحداث ما قبل فتح مكة",
+        "date": "Fri, 19 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623873/audio.mp3",
+        "duration": "4247",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d67dad717e1affc73c1a935e6d546c5c.jpg"
+      },
+      {
+        "title": "السيرة النبوية (20) - غزوة خيبر",
+        "date": "Mon, 15 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623866/audio.mp3",
+        "duration": "3296",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b516487d802887f58d0ec4d355e0e06f.jpg"
+      },
+      {
+        "title": "السيرة النبوية (19) - صلح الحديبية",
+        "date": "Fri, 12 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623870/audio.mp3",
+        "duration": "3642",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2de552c4d664239369a5181d5de77a38.jpg"
+      },
+      {
+        "title": "السيرة النبوية (18) - غزوة الخندق",
+        "date": "Mon, 08 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623901/audio.mp3",
+        "duration": "3754",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/28d56aecc6486a08c4271ed7e058d598.jpg"
+      },
+      {
+        "title": "السيرة النبوية (17) - حادثة الإفك",
+        "date": "Fri, 05 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623899/audio.mp3",
+        "duration": "3855",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9ef9e1bc820a9289b34552a46429967f.jpg"
+      },
+      {
+        "title": "السيرة النبوية (16) - غزوة أحد",
+        "date": "Mon, 01 Jul 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623902/audio.mp3",
+        "duration": "4335",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c5f198ffe7bb1c69f458d9ba72df90cf.jpg"
+      },
+      {
+        "title": "السيرة النبوية (15) - أحداث ما بين بدر وأحد",
+        "date": "Fri, 28 Jun 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623909/15.mp3",
+        "duration": "2935",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0afdfbb999152fb4a82e1a3b58aa9b51.jpg"
+      },
+      {
+        "title": "السيرة النبوية (14) - غزوة بدر",
+        "date": "Mon, 24 Jun 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623904/audio.mp3",
+        "duration": "3934",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1f889d0327a4169f81f8910b24de4890.jpg"
+      },
+      {
+        "title": "السيرة النبوية (13) - مجتمع المدينة ومفهوم الجهاد في سبيل الله",
+        "date": "Fri, 21 Jun 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623900/audio.mp3",
+        "duration": "4025",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/99df5b7556f383343e794e173366a86d.jpg"
+      },
+      {
+        "title": "السيرة النبوية (12) - بداية العهد المدني وتأسيس مدينة للمسلمين",
+        "date": "Mon, 17 Jun 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623898/12.mp3",
+        "duration": "3044",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/988addc0cd14ca3b24902f2596745b10.jpg"
+      },
+      {
+        "title": "السيرة النبوية (11) - أحداث الهجرة إلي المدينة",
+        "date": "Fri, 14 Jun 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623907/audio.mp3",
+        "duration": "3992",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/2569882bcd6527525f2f1980b3e865bd.jpg"
+      },
+      {
+        "title": "السيرة النبوية (10) - الطواف علي القبائل وبيعة العقبة الأولي",
+        "date": "Mon, 10 Jun 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623903/audio.mp3",
+        "duration": "3910",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/94b030aab27dd75c5e2b7c87e9dd6473.jpg"
+      },
+      {
+        "title": "السيرة النبوية (9) - رحلة الإسراء والمعراج",
+        "date": "Fri, 07 Jun 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623905/audio.mp3",
+        "duration": "3262",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f54820ce2206a9d10e318233ed25c73f.jpg"
+      },
+      {
+        "title": "السيرة النبوية (8) - عام الحزن ورحلة النبي صلي الله عليه وسلم إلي الطائف",
+        "date": "Mon, 03 Jun 2024 04:58:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623893/8.mp3",
+        "duration": "3211",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d08cd7f7fdd6787fb4236d1a14aa85e8.jpg"
+      },
+      {
+        "title": "السيرة النبوية (7) - إسلام عمر بن الخطاب ووفاة أبو طالب عم النبي",
+        "date": "Fri, 31 May 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623896/7.mp3",
+        "duration": "3110",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8b9fd3e452740bff2be90a6bea565539.jpg"
+      },
+      {
+        "title": "السيرة النبوية (6) - بداية فترة استضعاف المسلمين في مكة والهجرة إلي الحبشة",
+        "date": "Mon, 27 May 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623897/audio.mp3",
+        "duration": "3807",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/b0035088e2f46c04f04c4bc54b776721.jpg"
+      },
+      {
+        "title": "السيرة النبوية (5) - بداية الجهر بالدعوة",
+        "date": "Fri, 24 May 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623895/audio.mp3",
+        "duration": "3656",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/59a8f64af9a8200ffe18e04bdcec0b62.jpg"
+      },
+      {
+        "title": "السيرة النبوية (4) - نزول الوحي علي النبي والدعوة السرية بمكة",
+        "date": "Mon, 20 May 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623906/audio.mp3",
+        "duration": "3932",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/833728041bc3e748d4f6738e668bb139.jpg"
+      },
+      {
+        "title": "السيرة النبوية (3) جزء 2 - وصف النبي صلي الله عليه وسلم وزواجه من السيدة خديجة",
+        "date": "Fri, 17 May 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623890/3_2.mp3",
+        "duration": "1474",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0e9d9d9c4abfbf2c7a9a1a6f2e06d3fb.jpg"
+      },
+      {
+        "title": "السيرة النبوية (3) جزء 1 - وصف النبي صلي الله عليه وسلم وزواجه من السيدة خديجة",
+        "date": "Mon, 13 May 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623889/3_1.mp3",
+        "duration": "1665",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/0e9d9d9c4abfbf2c7a9a1a6f2e06d3fb.jpg"
+      },
+      {
+        "title": "السيرة النبوية (2) - مولد النبي وبداية شبابه",
+        "date": "Fri, 10 May 2024 04:00:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623891/2.mp3",
+        "duration": "2764",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/165be6c2af1dd4bb120f2d5a98127e73.jpg"
+      },
+      {
+        "title": "السيرة النبوية (1) - العالم قبل الإسلام",
+        "date": "Mon, 06 May 2024 04:56:00 +0000",
+        "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69623892/1.mp3",
+        "duration": "2783",
+        "cover": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cc28ee54778ea400a2b6238a0be20cb5.jpg"
       }
     ]
   },
