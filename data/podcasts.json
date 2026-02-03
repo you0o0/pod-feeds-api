@@ -8,6 +8,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "#ABtalks with Barış Arduç | Chapter 246 | مع باريش أردوتش ",
+        "date": "Tue, 03 Feb 2026 17:02:00 -0000",
+        "audioUrl": "https://traffic.megaphone.fm/AMA4903658617.mp3",
+        "duration": "5550",
+        "cover": "https://megaphone.imgix.net/podcasts/14212b52-0122-11f1-b655-5bd0237f749d/image/d889175efcf24c89a98102b4ea2029e2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      },
+      {
         "title": "#ABtalks Business with El Gouna Red Sea - Samih Sawiris | Chapter 6 | مع سميح ساويرس",
         "date": "Tue, 27 Jan 2026 17:15:00 -0000",
         "audioUrl": "https://traffic.megaphone.fm/AMA5484654544.mp3",
