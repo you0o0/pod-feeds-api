@@ -6797,6 +6797,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "نهاية العالم الذي نعرفه",
+        "date": "Sun, 01 Feb 2026 03:00:10 GMT",
+        "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6929/file.mp3",
+        "duration": "02:21:57",
+        "cover": "https://files.hosting.thmanyah.com/images/episodes/1769310229872-6800.jpg"
+      },
+      {
         "title": "سياسي صعيدي في الغرب",
         "date": "Sun, 04 Jan 2026 03:00:00 GMT",
         "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6843/file.mp3",
