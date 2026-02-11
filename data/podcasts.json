@@ -7437,6 +7437,13 @@
     "category": "غير معروف",
     "episodes": [
       {
+        "title": "التاريخ الظالم لبدو مصر",
+        "date": "Sun, 08 Feb 2026 03:00:21 GMT",
+        "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6965/file.mp3",
+        "duration": "01:56:39",
+        "cover": "https://files.hosting.thmanyah.com/images/episodes/1769917595993-8730.jpg"
+      },
+      {
         "title": "نهاية العالم الذي نعرفه",
         "date": "Sun, 01 Feb 2026 03:00:10 GMT",
         "audioUrl": "https://api.hosting.thmanyah.com/episodeAudioFile/6929/file.mp3",
